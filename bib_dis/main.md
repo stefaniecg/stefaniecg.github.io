@@ -137,14 +137,15 @@ The bible discovery will have 5 initial sessions, called the [Alef discovery](#a
 If we succeed to go through the initial discovery, then we can continue with the next 7 follow-up sessions, called the [Bet discovery](#bet-discovery).
 Each session will have a topic and a central question we want to answer with the group by reading specific verses of scripture.
 The _bible discovery_ is an already existing tool used to read the bible with non believers [|8|](#references).
-We will use its structure and prepare specific bible topics of _John's Gospel_ and target people mainly reached on on the streets, and therefore we call it _street bible discovery_.
+We will use a slightly modified version of its structure, prepare specific bible topics of _John's Gospel_.
+As we target to use this for people mainly reached on the streets we call it _street bible discovery_.
 The reason to use John's gospel is because we already give this material, so there is no need to acquire further material.
 Even though, we prepare specific verses and structure for the meeting, we will rely on the guidance of the Spirit for its execution.
 Therefore, the structure, topic, question is a guide that can be adapted.
 
 - **Expected Outcome**:
 Take the _lost_ we reach on the streets to (at least) the stage of _connected lost_.
-In the long run, we would encourage them to repent, be baptized, and to receive the holy Spirit, to become _believers_ [(Acts 2:38)](https://my.bible.com/bible/59/ACT.2.38).
+In the long run, we would encourage them to repent, be baptized, and to receive the Holy Spirit, to become _believers_ [(Acts 2:38)](https://my.bible.com/bible/59/ACT.2.38).
 But that can only be done by God, so prayer and leading of the Spirit is central to our method.
 
 - **Target audience**:
@@ -163,34 +164,33 @@ But if the Spirit leads to older people there will be no problem.
 
 - **Structure of bible discovery meetings**:
 The structure is a slightly modified version of the original bible discovery [|8|](#references).
-
-   1. **Exchange** (fellowship) - [Austauschen]
+The structure has 5 phases, each should last around 10 minutes, to make a total of 50 minutes for the whole session.
+   1. **Exchange + Retrospective** (fellowship) - [Austauschen + Ruckblick]
       * What did you experience with God this week and what are you thankful for?
       * Where do you need God's help?
       * How can you be helped practically?
-   2. **Retrospective** (to last session) - [Ruckblick]
       * What have you implemented since the last meeting from what you learned?
       * How are the people you care most about doing? What are your next steps with them?
       * Who have you told about an experience of God? Have you prayed with someone?
-   3. **Scripture** - [Lesen]
+   2. **Scripture** - [Lesen]
       * Everyone reads the text for themselves.
       * Someone reads the text aloud.
       * With closed Bibles, one after the other, we all retell the story of the text in our own words.
-   4. **Discovery** - [Entdecken]
+   3. **Discovery** - [Entdecken]
       * Did you notice anything special in the text?
       * What do you like and what bothers you?
       * What can you learn about God and people from this text?
-   5. **Application** - [Anwenden]
+   4. **Application** - [Anwenden]
       * How does the text change the way you think about God? And about how you live?
       * How is my interaction with other people shaped by the text?
       * What will you do with what you have learned before the next meeting?
       * Tell God in your own words what moved you.
-   6. **Prayer** - [Gebet]
+   5. **Prayer** - [Gebet]
       * PRAY acronym by David Platt [(9)](#references)  
-         - P - Praise - Worship God for who He is. God for who He is and what He has done.
-         - R - Repent -  Confess your sin to God and acknowledge your need for Jesus.
+         - P - Praise - Worship God for who He is and what He has done.
+         - R - Repent - Confess your sin to God and acknowledge your need for Jesus.
          - A - Ask - Intercession and petition for specific needs in your life and others’ lives.
-         - Y - Yield - Surrender your life to following Jesus wherever and however He lead you.
+         - Y - Yield - Surrender your life to following Jesus wherever and however He leads you.
       * Pray for each other.
       * Pray for the people who we shared what we learned last week.
 
