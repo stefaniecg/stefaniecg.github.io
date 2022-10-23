@@ -1,7 +1,35 @@
+---
+Project name: Street Bible Discovery
+Author: The disciple who loves Jesus
+Date: 23 Oct 2022
+Current version: v0.2i
+
+---
+**TABLE OF CONTENT**:
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [The State-of-the-Ministry](#the-state-of-the-ministry)
+	- [A priori](#a-priori)
+	- [The Gap](#the-gap)
+	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
+- [Project description](#project-description)
+- [Milestones](#milestones)
+- [The Street Bible Discovery](#the-street-bible-discovery)
+	- [א - Alef discovery](#-alef-discovery)
+	- [ב - Bet discovery](#-bet-discovery)
+	- [ג - Gimel discovery](#-gimel-discovery)
+- [Acronyms](#acronyms)
+- [References](#references)
+
+<!-- /TOC -->
+
+> All Scripture quotations are taken from the ESV Bible (The Holy Bible, English Standard Version) [|5|](#references), unless stated otherwise.
+Corresponding author: stefaniecg@icloud.com
+
+------------------------------------------------------------------
 # The State-of-the-Ministry
 
 ## A priori
-
 Currently our evangelistic ministry is to make outreaches every week at Rapoldipark in Innsbruck, where our aim is to share the Gospel with the _'lost'_ [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20.).
 Our method is to engage in one-to-one conversations with people [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
 The duration of each conversation depends on the leading of the Spirit [(Luke 12:12)](https://my.bible.com/bible/59/LUK.12.12), but it usually takes between 30 minutes to 1 hour.
