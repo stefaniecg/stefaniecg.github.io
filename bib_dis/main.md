@@ -1,15 +1,15 @@
 ---
-Project name: Street Bible Discovery
+Project name: Street Bible-Discovery
 Author: The disciple who loves Jesus
 Date: 23 Oct 2022
 Current version: v0.2i
 ---
 The Street Bible-Discovery project
 ====================================
-> by The disciple who loves Jesus  
-October 2022, Innsbruck, Austria
+_by The disciple who loves Jesus_  
+_October 2022, Innsbruck, Austria_
 
-
+------------------------------------------------------------------
 **TABLE OF CONTENT**:
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
