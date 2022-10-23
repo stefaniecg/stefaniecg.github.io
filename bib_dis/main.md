@@ -18,7 +18,7 @@ We present the Gospel through 5 gospel threads [|1|](#references) (milestones) a
 5. The Urgency of Eternity
 
 At the end of the conversation, if the person accepts it:
-1. We give a mini Gospel of John [|6|](#references) and encourage them to read it.
+1. We give a mini Gospel of John and encourage them to read it [|6|](#references).
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
 
 ## The Gap
