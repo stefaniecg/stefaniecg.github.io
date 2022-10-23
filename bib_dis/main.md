@@ -4,6 +4,12 @@ Author: The disciple who loves Jesus
 Date: 23 Oct 2022
 Current version: v0.2i
 ---
+The Street Bible-Discovery project
+====================================
+> by The disciple who loves Jesus  
+October 2022, Innsbruck, Austria
+
+
 **TABLE OF CONTENT**:
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -21,6 +27,9 @@ Current version: v0.2i
 - [References](#references)
 
 <!-- /TOC -->
+
+> All Scripture quotations are taken from the ESV Bible (The Holy Bible, English Standard Version) [|5|](#references), unless stated otherwise.  
+Corresponding author: stefaniecg@icloud.com
 
 ------------------------------------------------------------------
 # The State-of-the-Ministry
