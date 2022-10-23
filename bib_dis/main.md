@@ -18,7 +18,7 @@ We present the Gospel through 5 gospel threads [|1|](#references) (milestones) a
 5. The Urgency of Eternity
 
 At the end of the conversation, if the person accepts it:
-1. We give a mini Gospel of John |6| and encourage them to read it.
+1. We give a mini Gospel of John [(6)](#references) and encourage them to read it.
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
 
 ## The Gap
@@ -169,8 +169,8 @@ But if the Spirit leads to older people there will be no problem.
       * Sill park lounge (if too cold)
 
 - **Bible translation**:
-   * We have been using the Johannes-Evangelium, the Elberfelder Übersetzung |6|,
-   * but it might be easier for people to read of the Schlachter 2000 Übersetzung |7|.
+   * We have been using the Johannes-Evangelium, the Elberfelder Übersetzung [(6)](#references),
+   * but it might be easier for people to read of the Schlachter 2000 Übersetzung [(7)](#references).
 
 - **Language**:
    * As needed by the person we will adapt:
