@@ -4,6 +4,23 @@ Author: The disciple who loves Jesus
 Date: 23 Oct 2022
 Current version: v0.2i
 ---
+**TABLE OF CONTENT**:
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [The State-of-the-Ministry](#the-state-of-the-ministry)
+	- [A priori](#a-priori)
+	- [The Gap](#the-gap)
+	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
+- [Project description](#project-description)
+- [Milestones](#milestones)
+- [The Street Bible Discovery](#the-street-bible-discovery)
+	- [א - Alef discovery](#-alef-discovery)
+	- [ב - Bet discovery](#-bet-discovery)
+	- [ג - Gimel discovery](#-gimel-discovery)
+- [Acronyms](#acronyms)
+- [References](#references)
+
+<!-- /TOC -->
 
 ------------------------------------------------------------------
 # The State-of-the-Ministry
