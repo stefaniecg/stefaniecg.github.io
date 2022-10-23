@@ -1,14 +1,3 @@
----
-Project name: Street Bible Discovery
-Author: The disciple who loves Jesus
-Date: 23 Oct 2022
-Current version: v0.2i
----
-
-> All Scripture quotations are taken from the ESV Bible (The Holy Bible, English Standard Version) [|5|](#references), unless stated otherwise.
-Corresponding author: stefaniecg@icloud.com
-
-------------------------------------------------------------------
 # The State-of-the-Ministry
 
 ## A priori
