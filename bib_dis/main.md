@@ -119,7 +119,7 @@ __Figure 3__ - The _relationship_ between the Ramp and Arrow charts (two lenses)
 ------------------------------------------------------------------
 # Project description
 
-- **Aim**:
+- **Aim** (Mission):
 We want to close [the gap](#the-gap) in our current SoM by designing a method to follow up with _Lost_ people, and accompany them to take the next step in the arrow chart to become a _connected Lost_.
 The calling is: **'Come and see'**.
 We want to invite the lost to come see, and get to know our Lord, by inviting them to read The Gospel of John with us.
@@ -143,7 +143,7 @@ The reason to use John's gospel is because we already give this material, so the
 Even though, we prepare specific verses and structure for the meeting, we will rely on the guidance of the Spirit for its execution.
 Therefore, the structure, topic, question is a guide that can be adapted.
 
-- **Expected Outcome**:
+- **Expected Outcome** (Vision):
 Take the _lost_ we reach on the streets to (at least) the stage of _connected lost_.
 In the long run, we would encourage them to repent, be baptized, and to receive the Holy Spirit, to become _believers_ [(Acts 2:38)](https://my.bible.com/bible/59/ACT.2.38).
 But that can only be done by God, so prayer and leading of the Spirit is central to our method.
