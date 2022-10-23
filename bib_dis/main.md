@@ -154,7 +154,7 @@ We target mostly young people because of the language and the ease of communicat
 But if the Spirit leads to older people there will be no problem.
 
 - **Method**:
-   1. Continue with our '[A priori](#a-priori) current method of one-to-one conversations.  
+   1. Continue with our '[A priori](#a-priori)' current method of one-to-one conversations.  
    2. At the end of the conversation give the _Gospel of John_.  
    3. Invite them to think about what we spoke and invite them to consider meeting us for 5 _Alef bible discovery_ sessions. They will take the invitation, which includes the contact information to reach us via email.  
    4. We would meet the people and read the _Gospel of John_ according to the Alef discovery structure.  
