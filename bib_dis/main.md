@@ -1,3 +1,10 @@
+---
+Project name: Street Bible Discovery
+Author: The disciple who loves Jesus
+Date: 23 Oct 2022
+Current version: v0.2i
+
+---
 
 ------------------------------------------------------------------
 # The State-of-the-Ministry
