@@ -119,7 +119,7 @@ __Figure 3__ - The _relationship_ between the Ramp and Arrow charts (two lenses)
 ------------------------------------------------------------------
 # Project description
 
-- **Aim** (Mission):
+- **Aim**:
 We want to close [the gap](#the-gap) in our current SoM by designing a method to follow up with _Lost_ people, and accompany them to take the next step in the arrow chart to become a _connected Lost_.
 The calling is: **'Come and see'**.
 We want to invite the lost to come see, and get to know our Lord, by inviting them to read The Gospel of John with us.
@@ -143,7 +143,7 @@ The reason to use John's gospel is because we already give this material, so the
 Even though, we prepare specific verses and structure for the meeting, we will rely on the guidance of the Spirit for its execution.
 Therefore, the structure, topic, question is a guide that can be adapted.
 
-- **Expected Outcome** (Vision):
+- **Expected Outcome**:
 Take the _lost_ we reach on the streets to (at least) the stage of _connected lost_.
 In the long run, we would encourage them to repent, be baptized, and to receive the Holy Spirit, to become _believers_ [(Acts 2:38)](https://my.bible.com/bible/59/ACT.2.38).
 But that can only be done by God, so prayer and leading of the Spirit is central to our method.
@@ -225,7 +225,7 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
 | M0  | project kickoff        | 7 Oct 2022 | Launch of the Project                                                    |
 | M1  | project specification  | 8 Oct 2022 | Write the project concept                                                |
 | M2  | design invitation      | on-going   | Design an invitation to the session and provide a contact email          |
-| M3  | peer-review            | ?          | Ask for feedback to selected peers                                       |
+| M3  | peer-review            | ?          | Ask for feedback of selected peers                                       |
 | M4  | material production    | ?          | Print invitations, order John's Gospel, and set-up contact email address |
 | M5  | project launch         | ?          | Take it to the streets                                                   |
 | M6  | project implementation | ?          | Start the first Alef sessions                                            |
@@ -297,4 +297,4 @@ Discover God and the Bible through the Gospel of John.
 [6] Johannes-Evangelium. Elberfelder Übersetzung. Verbreitung der Heiligen Schrift e.V., D-35713 Eschenburg [|Available online|](https://www.vdhs.de/index.php?shop.article.884&tax=11357)  
 [7] Johannes-Evangelium. Schlachter 2000 Übersetzung. Christliche Literatur-Verbreitung e.V., 33649 Bielefeld [|Available online|](https://clv.de/Schlachter-2000-Bibel-Johannes-Evangelium/256420)  
 [8] My friends: Bible Discovery. MyFriends Ministry, Campus für Christus Schweiz, CH-8005 Zürich [|Available online|](https://myfriends.life/biblediscovery/)  
-[9] Platt, David, "PRAY and FAST". [|Available online|](https://radical.net/podcasts/radical-podcast/pray-and-fast/)
+[9] Platt, David, "PRAY and FAST", 6 January 2019. [|Available online|](https://radical.net/podcasts/radical-podcast/pray-and-fast/)
