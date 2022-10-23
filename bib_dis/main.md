@@ -165,7 +165,7 @@ But if the Spirit leads to older people there will be no problem.
 - **Structure of bible discovery meetings**:
 The structure is a slightly modified version of the original bible discovery [|8|](#references).
 The structure has 5 phases, each should last around 10 minutes, to make a total of 50 minutes for the whole session.
-   1. **Exchange + Retrospective** (fellowship) - [Austauschen + Ruckblick]
+   1. **Exchange + Retrospective** - [Austauschen + Ruckblick]
       * What did you experience with God this week and what are you thankful for?
       * Where do you need God's help?
       * How can you be helped practically?
