@@ -6,8 +6,8 @@ Current version: v0.2i
 ---
 The Street Bible-Discovery project
 ====================================
-_by The disciple who loves Jesus_  
-_October 2022, Innsbruck, Austria_
+> by The disciple who loves Jesus  
+October 2022, Innsbruck, Austria
 
 ------------------------------------------------------------------
 **TABLE OF CONTENT**:
