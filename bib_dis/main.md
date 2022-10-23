@@ -225,9 +225,9 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
 | M0  | project kickoff        | 7 Oct 2022 | Launch of the Project                                                    |
 | M1  | project specification  | 8 Oct 2022 | Write the project concept                                                |
 | M2  | design invitation      | on-going   | Design an invitation to the session and provide a contact email          |
-| M3  | selective feedback     | ?          | Peer-review: Ask for feedback to selected peers                          |
+| M3  | peer-review            | ?          | Ask for feedback to selected peers                                       |
 | M4  | material production    | ?          | Print invitations, order John's Gospel, and set-up contact email address |
-| M5  | project Launch         | ?          | Take it to the streets                                                   |
+| M5  | project launch         | ?          | Take it to the streets                                                   |
 | M6  | project implementation | ?          | Start the first Alef sessions                                            |
 
 ------------------------------------------------------------------
