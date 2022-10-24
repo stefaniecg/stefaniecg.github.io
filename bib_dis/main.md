@@ -62,7 +62,7 @@ But our current SoM fails to follow up: _'What is their next step? (Move them)'_
 We want to change that.
 
 ## A paradigm shift: From ministries to Movements
-The training: **Shiftm2M** discipling making seminar [|2|](#references), teaches leadership and disciple making Jesus-style.
+The **Shiftm2M** seminar [|2|](#references) teaches leadership and disciple making Jesus-style.
 The seminar takes the student through the life of Jesus, detecting milestones in his ministry on building a _disciple making movement_.
 Jesus Ministry can be broken down into 6 phases, each phase starts with a milestone.
 The ministry building process is illustrated in _Figure 1_.
@@ -93,7 +93,7 @@ The two charts previously discussed are related through the diagram shown in _Fi
 - **C1** - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)  
 - _Stage 1_: The connected Lost  
 - **C2** - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)  
-- Born again [(John 3:7)](https://my.bible.com/bible/59/JHN.3.7.ESV)  
+- New birth [(John 3:7)](https://my.bible.com/bible/59/JHN.3.7.ESV)  
 - **C3** - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)
 - _Stage 2_: The believer (the consumer)
 - **C4** - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)
@@ -103,7 +103,7 @@ The two charts previously discussed are related through the diagram shown in _Fi
 - **C6** - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 - _Stage 5_: The missionary
 
-_Note_: Stage 3 was re-named, calling 6 (C6) and Stage 5 were added by author, in comparison to the original Shiftm2M diagram.
+_Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were added by the author, in comparison to the original Shiftm2M diagram.
 
 ---
 
