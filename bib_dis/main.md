@@ -29,7 +29,7 @@ October 2022, Innsbruck, Austria
 <!-- /TOC -->
 
 > All Scripture quotations are taken from the ESV Bible (The Holy Bible, English Standard Version) [|5|](#references), unless stated otherwise.  
-Corresponding author: stefaniecg@icloud.com
+Corresponding author: [stefaniecg@icloud.com](mailto:stefaniecg@icloud.com)
 
 ------------------------------------------------------------------
 # The State-of-the-Ministry
