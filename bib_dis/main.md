@@ -1,7 +1,7 @@
 ---
 Project name: Street Bible-Discovery
 Author: The disciple who loves Jesus
-Date: 23 Oct 2022
+Date: 7 Oct 2022
 Current version: v0.2i
 ---
 The Street Bible-Discovery project

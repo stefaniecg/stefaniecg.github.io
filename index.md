@@ -2,7 +2,8 @@
 
 > by stefaniecg
 
-The Street Bible-Discovery project [|link|](/bib_dis/main.html)
+## List of projects
 
-
-more content yet to come !
+| id  | project                            | kick-off date | link                                     |
+| --- | ---------------------------------- | ------------- | ---------------------------------------- |
+| p0  | The Street Bible-Discovery project | 7 Oct 2022    | [/bib_dis/main.html](/bib_dis/main.html) |
