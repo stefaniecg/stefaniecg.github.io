@@ -201,8 +201,8 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
    * Alef sessions would be finished in 5 weeks.
 
 - **Team**:
-   * Stefanie Castillo
    * Charles Effiong
+   * Stefanie Castillo
 
 - **Location**:
    * We intend this meeting to be informal, therefore we will meet at:
@@ -223,20 +223,23 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
 
 ## Milestones
 
-| id  | milestone              | date       | description                                                              |
-| --- | ---------------------- | ---------- | ------------------------------------------------------------------------ |
-| M0  | project kickoff        | 7 Oct 2022 | Launch of the Project                                                    |
-| M1  | project specification  | 8 Oct 2022 | Write the project concept                                                |
-| M2  | design invitation      | on-going   | Design an invitation to the session and provide a contact email          |
-| M3  | peer-review            | ?          | Ask for feedback of selected peers                                       |
-| M4  | material production    | ?          | Print invitations, order John's Gospel, and set-up contact email address |
-| M5  | project launch         | ?          | Take it to the streets                                                   |
-| M6  | project implementation | ?          | Start the first Alef sessions                                            |
+| id  | milestone              | date       | description                                                                   |
+| --- | ---------------------- | ---------- | ----------------------------------------------------------------------------- |
+| M0  | project kickoff        | 7 Oct 2022 | Launch of the Project                                                         |
+| M1  | project specification  | 8 Oct 2022 | Write the project concept                                                     |
+| M2  | design invitation      | on-going   | Design an invitation to the bible discovery and provide a contact email       |
+| M3  | peer-review            | ?          | Ask for feedback of selected peers                                            |
+| M4  | material production    | ?          | Print invitations, order mini John's Gospel, and set-up contact email address |
+| M5  | project launch         | ?          | Take it to the streets                                                        |
+| M6  | project implementation | ?          | Start the first Alef sessions                                                 |
 
 ------------------------------------------------------------------
 # The Street Bible Discovery
 
-Discover God and the Bible through the Gospel of John.
+The project intends to provide a framework to discover God and the Bible with non-believers, through the reading of the Gospel of John together.
+For the time being, only the **Alef discovery** will be launched to the streets.
+All other following _bible discovery_ programs are described here, but they will be launched to the streets only if/when the _Lord of the Harvest_ [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38) provides growth of the first Alef seeds.
+
 
 ## א - Alef discovery
 
@@ -244,20 +247,20 @@ Discover God and the Bible through the Gospel of John.
 * **Expected learning outcome**: Understand the Gospel (the good news)
 * **Moderator**:  Charles & Stefanie
 
-| id  | session | topic                                             | question                      | scriptures           |
-| --- | ------- | ------------------------------------------------- | ----------------------------- | -------------------- |
-| A1  | Alef 1  | The character of God                              | Who is Christ?                | John 1:1-18          |
-| A2  | Alef 2  | The sinfulness of man                             | Are we sinners?               | John 4:1-29          |
-| A3  | Alef 3  | The sufficiency of Christ                         | Why did Jesus died?           | John 1:29-36;3:14-17 |
-| A4  | Alef 4  | The necessity of repentance, faith, and new birth | How to become a child of God? | John 3:1-8           |
-| A5  | Alef 5  | The urgency of eternity                           | Does everyone go to heaven?   | John 3:18-21         |
+| id  | session | topic                                                 | question                      | scriptures            |
+| --- | ------- | ----------------------------------------------------- | ----------------------------- | --------------------- |
+| A1  | Alef 1  | The character of God                                  | Who is Christ?                | John 1:1-18           |
+| A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?               | John 4:1-29           |
+| A3  | Alef 3  | The sufficiency of Christ                             | Why did Jesus died?           | John 1:29-36; 3:14-17 |
+| A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God? | John 3:1-8            |
+| A5  | Alef 5  | The urgency of eternity                               | Does everyone go to heaven?   | John 3:18-21          |
 
 * The invitation to the Alef discovery  
 ![alef_invitation](images/alef_invitation.png)
 
 ## ב - Bet discovery
 
-* **Central topic**: God's (Yahweh, Jesus, and the Holy Spirit) character.
+* **Central topic**: The character of God: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
 * **Expected learning outcome**: Know God + self-reading of bible for participants.
 * **Moderator**: We all rotate the leading of the session with pre-prepared questions, including participants.
 
