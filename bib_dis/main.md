@@ -253,7 +253,7 @@ Discover God and the Bible through the Gospel of John.
 | A5  | Alef 5  | The urgency of eternity                           | Does everyone go to heaven?   | John 3:18-21         |
 
 * The invitation to the Alef discovery  
-![The invitation to the Alef discovery](images/come_see.jpeg)
+![alef_invitation](images/alef_invitation.png)
 
 ## ב - Bet discovery
 
