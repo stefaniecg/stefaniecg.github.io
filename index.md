@@ -1,7 +1,8 @@
-# This is the title of my website
+# Welcome to my GitHub Pages
 
 > by stefaniecg
 
-## Sub-title test
+The Street Bible-Discovery project [link](/bib_dis/main.html)
 
-content yet to come !
+
+more content yet to come !
