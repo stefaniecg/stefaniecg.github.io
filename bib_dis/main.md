@@ -18,7 +18,8 @@ October 2022, Innsbruck, Austria
 	- [The Gap](#the-gap)
 	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
 - [Project description](#project-description)
-- [Milestones](#milestones)
+- [Project management](#project-management)
+	- [Milestones](#milestones)
 - [The Street Bible Discovery](#the-street-bible-discovery)
 	- [א - Alef discovery](#-alef-discovery)
 	- [ב - Bet discovery](#-bet-discovery)
@@ -218,7 +219,9 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
       * English - main language for conversation
 
 ------------------------------------------------------------------
-# Milestones
+# Project management
+
+## Milestones
 
 | id  | milestone              | date       | description                                                              |
 | --- | ---------------------- | ---------- | ------------------------------------------------------------------------ |
@@ -249,7 +252,7 @@ Discover God and the Bible through the Gospel of John.
 | A4  | Alef 4  | The necessity of repentance, faith, and new birth | How to become a child of God? | John 3:1-8           |
 | A5  | Alef 5  | The urgency of eternity                           | Does everyone go to heaven?   | John 3:18-21         |
 
-* The invitation to the Alef discovery
+* The invitation to the Alef discovery  
 ![The invitation to the Alef discovery](images/come_see.jpeg)
 
 ## ב - Bet discovery
