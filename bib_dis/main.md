@@ -36,14 +36,14 @@ Corresponding author: [stefaniecg@icloud.com](mailto:stefaniecg@icloud.com)
 # The State-of-the-Ministry
 
 ## A priori
-Currently our evangelistic ministry is to make outreaches every week at Rapoldipark in Innsbruck, where our aim is to share the Gospel with the _'lost'_ [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20.).
+Currently our evangelistic ministry is to make outreaches every week at Rapoldipark in Innsbruck, where our aim is to share the Gospel with _the lost_ [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20.).
 Our method is to engage in one-to-one conversations with people [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
 The duration of each conversation depends on the leading of the Spirit [(Luke 12:12)](https://my.bible.com/bible/59/LUK.12.12), but it usually takes between 30 minutes to 1 hour.
 We go two-by-two [(Luke 10:1)](https://my.bible.com/bible/59/LUK.10.1) and our aim is to sow seeds [(Matthew 13:3-23)](https://my.bible.com/bible/59/MAT.13.3-23.) by presenting the Gospel.
 
-The audience ('_the type of Lost_') we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, Jehovas' witness, and one time a jewish person.
+The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, Jehovas' witness, and one time a jewish person.
 
-We present the Gospel through 5 gospel threads [|1|](#references) (milestones) along the conversation:
+We present the Gospel through 5 core-gospel threads [|1|](#references) (milestones) along the conversation:
 1. The Character of God
 2. The Sinfulness of Man
 3. The Sufficiency of Christ
@@ -56,9 +56,9 @@ At the end of the conversation, if the person accepts it:
 
 ## The Gap
 The goal of our ministry has always been to meet people, share the Gospel, and make disciples.
-But the usual case of our encounters is that after planting the Gospel seed, we never see the people again (with a few exceptions).
+We succeed to share the core of the Gospel with the people, but the usual case of our encounters is that after planting the Gospel seed, we never see the them again (with a few exceptions).
 Our current SoM does not have a clearly outlined method to follow up with the people we talk to.
-Even though it is undeniably that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we do not have a method to follow up.
+Even though it is undeniable that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we do not have a method to follow up with the people.
 Through our current method we share the Gospel with the _lost_ and can know: _'Where is each person at now? (Meet them)'_, but it fails to follow up: _'What is their next step? (Move them)'_.
 We want to address that by devising a clearly outlined method to follow up with the people we encounter: invite them to a follow up encounter.
 
@@ -154,6 +154,11 @@ The Lost [(Luke 19:10)](https://my.bible.com/bible/59/LUK.19.10), both woman and
 We target mostly young people because of the language and the ease of communication.
 But if the Spirit leads to older people there will be no problem.
 
+- **Project scope**:
+Our project is meant to be implemented in the streets of Innsbruck, as a follow up invitation to the encounters we already have.
+Yet, the framework presented here of the Alef bible discovery, the structure of meetings, and the invitation itself can be used for any evangelistic invitation to any _lost_ who needs the Gospel, reached trough any context.
+Therefore we encourage others to use this framework to simply invite and read the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member.
+
 - **Method**:
    1. Continue with our '[A priori](#a-priori)' current method of one-to-one conversations.  
    2. At the end of the conversation give the _Gospel of John_.  
@@ -195,32 +200,33 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
       * Pray for each other.
       * Pray for the people who we shared what we learned last week.
 
-- **Duration**
+- **Duration**:
+Alef sessions would be finished in 5 weeks.
    * 1 session per week.
    * 1 hour per session.
-   * Alef sessions would be finished in 5 weeks.
+
 
 - **Core team**:
    * Charles Effiong
    * Stefanie Castillo
 
 - **Location**:
-   * We intend this meeting to be informal, therefore we will meet at:
-      * Rapoldipark (if warm enough)
-      * Sill park lounge (if too cold)
+We intend this meeting to be informal, therefore we will meet at:
+   * Rapoldipark (if warm enough)
+   * Sill park lounge (if too cold)
 
 - **Bible translation**:
    * We have been using the Johannes-Evangelium, the Elberfelder Übersetzung [(6)](#references),
-   * but it might be easier for people to read of the Schlachter 2000 Übersetzung [(7)](#references).
+   * but it might be easier for us and people to read of the Schlachter 2000 Übersetzung [(7)](#references).
 
 - **Language**:
-   * As needed by the person we will adapt:
-      * German - for conversation & bible reading
-      * English - main language for conversation
+As needed by the person we will adapt:
+   * German - for conversation & bible reading
+   * English - main language for conversation
 
 - **Group size**:
-   * min 2, max 5
-   * At the least one of member of the core team should be present, better is both.
+At the least one of member of the core team should be present, better is both.
+Participants should be at least one, maximum 3 so that the group stays manageable.
 
 ------------------------------------------------------------------
 # Project management
