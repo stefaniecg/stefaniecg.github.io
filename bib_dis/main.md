@@ -55,12 +55,12 @@ At the end of the conversation, if the person accepts it:
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
 
 ## The Gap
-I realized that through our current SoM we do not have a method to follow up with the people we talk to.
-We usually never see them again.
+The goal of our ministry has always been to meet people, share the Gospel, and make disciples.
+But the usual case of our encounters is that after planting the Gospel seed, we never see the people again (with a few exceptions).
+Our current SoM does not have a clearly outlined method to follow up with the people we talk to.
 Even though it is undeniably that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we do not have a method to follow up.
-through our current method we can know: _'Where is each person at now? (Meet them)'_.
-But our current SoM fails to follow up: _'What is their next step? (Move them)'_.
-We want to change that.
+Through our current method we share the Gospel with the _lost_ and can know: _'Where is each person at now? (Meet them)'_, but it fails to follow up: _'What is their next step? (Move them)'_.
+We want to address that by devising a clearly outlined method to follow up with the people we encounter: invite them to a follow up encounter.
 
 ## A paradigm shift: From ministries to Movements
 The **Shiftm2M** seminar [|2|](#references) teaches leadership and disciple making Jesus-style.
@@ -121,7 +121,7 @@ __Figure 3__ - The _relationship_ between the Ramp and Arrow charts (two lenses)
 # Project description
 
 - **Aim**:
-We want to close [the gap](#the-gap) in our current SoM by designing a method to follow up with _Lost_ people, and accompany them to take the next step in the arrow chart to become a _connected Lost_.
+We want to close [the gap](#the-gap) in our current SoM by designing a clearly outlined method to follow up with _lost_, and accompany them to take the next step in their path with the Lord, in the arrow chart to become at the least a _connected lost_.
 The calling is: **'Come and see'**.
 We want to invite the lost to come see, and get to know our Lord, by inviting them to read The Gospel of John with us.
 First invite them to 5 initial sessions, that if the Spirit wills, could be extended to other extra 7 sessions, in total 12 sessions.
@@ -132,17 +132,17 @@ The _street bible-discovery_ is a tool to discover the Bible with unbelievers in
 We want them to feel comfortable and that no one is forcing ideas on them.
 Therefore our approach of reading the bible will be to discover it together.
 There will be _no authoritative teaching_ of the Word of the Lord, rather it will be a joint/shared _discovery_ of scripture.
-It is done in a group setting, minimum group is two.
-This tool intends to take people from the stage of unbelief _'Lost'_ to the next stage of _'Connected Lost'_ (in the arrow_chart Figure 2).
+It is done in a group setting, minimum group size is two.
+This tool intends to take people from the stage of unbelief _'Lost'_ to (at the least) the next stage of _'Connected Lost'_ (in the arrow_chart Figure 2).
 The bible discovery will have 5 initial sessions, called the [Alef discovery](#alef-discovery).
-If we succeed to go through the initial discovery, then we can continue with the next 7 follow-up sessions, called the [Bet discovery](#bet-discovery).
+If we succeed to go through the initial Alef discovery, then we can continue with the next 7 follow-up sessions, called the [Bet discovery](#bet-discovery).
 Each session will have a topic and a central question we want to answer with the group by reading specific verses of scripture.
 The _bible discovery_ is an already existing tool used to read the bible with non believers [|8|](#references).
 We will use a slightly modified version of its structure, prepare specific bible topics of _John's Gospel_.
 As we target to use this for people mainly reached on the streets we call it _street bible discovery_.
-The reason to use John's gospel is because we already give this material, so there is no need to acquire further material.
-Even though, we prepare specific verses and structure for the meeting, we will rely on the guidance of the Spirit for its execution.
-Therefore, the structure, topic, question is a guide that can be adapted.
+The reason to use John's gospel is because we already give this material, so there is no need to acquire different material.
+Even though, we prepare specific verses and a structure for the meeting, we will rely on the guidance of the Spirit for its execution.
+Therefore, the structure, topic, and question is a guide that can be adapted.
 
 - **Expected Outcome**:
 Take the _lost_ we reach on the streets to (at least) the stage of _connected lost_.
@@ -200,7 +200,7 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
    * 1 hour per session.
    * Alef sessions would be finished in 5 weeks.
 
-- **Team**:
+- **Core team**:
    * Charles Effiong
    * Stefanie Castillo
 
@@ -217,6 +217,10 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
    * As needed by the person we will adapt:
       * German - for conversation & bible reading
       * English - main language for conversation
+
+- **Group size**:
+   * min 2, max 5
+   * At the least one of member of the core team should be present, better is both.
 
 ------------------------------------------------------------------
 # Project management
