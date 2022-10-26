@@ -125,7 +125,7 @@ We want to close [the gap](#the-gap) in our current SoM by designing a clearly o
 The calling is: **'Come and see'**.
 We want to invite the lost to come see, and get to know our Lord, by inviting them to read The Gospel of John with us.
 First invite them to 5 initial sessions, that if the Spirit wills, could be extended to other extra 7 sessions, in total 12 sessions.
-Our hope and prayer is that at least a few [(Matthew 7:13-14)](https://my.bible.com/bible/59/MAT.7.13-14) become first believers, then disciples, and finally disciple-makers who can start the process with someone else.
+Our hope and prayer is that (at least) a few [(Matthew 7:13-14)](https://my.bible.com/bible/59/MAT.7.13-14) become first believers, then disciples, and finally disciple-makers who can start the process with someone else and multiply.
 
 - **Project characterization**:
 The _street bible-discovery_ is a tool to discover the Bible with unbelievers in the street.
