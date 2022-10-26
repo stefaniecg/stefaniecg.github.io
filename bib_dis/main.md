@@ -60,7 +60,7 @@ We succeed to share the core of the Gospel with the people, but the usual case o
 Our current SoM does not have a clearly outlined method to follow up with the people we talk to.
 Even though it is undeniable that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we do not have a method to follow up with the people.
 Through our current method we share the Gospel with the _lost_ and can know: _'Where is each person at now? (Meet them)'_, but it fails to follow up: _'What is their next step? (Move them)'_.
-We want to address that by devising a clearly outlined method to follow up with the people we encounter: invite them to a follow up encounter.
+We want to close the gap that by devising a clearly outlined method to follow up with the people we encounter: invite them to a follow up encounter.
 
 ## A paradigm shift: From ministries to Movements
 The **Shiftm2M** seminar [|2|](#references) teaches leadership and disciple making Jesus-style.
@@ -94,7 +94,7 @@ The two charts previously discussed are related through the diagram shown in _Fi
 - **C1** - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)  
 - _Stage 1_: The connected Lost  
 - **C2** - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)  
-- New birth [(John 3:7)](https://my.bible.com/bible/59/JHN.3.7.ESV)  
+- **New birth** [(John 3:7)](https://my.bible.com/bible/59/JHN.3.7.ESV)  
 - **C3** - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)
 - _Stage 2_: The believer (the consumer)
 - **C4** - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)
@@ -133,8 +133,10 @@ We want them to feel comfortable and that no one is forcing ideas on them.
 Therefore our approach of reading the bible will be to discover it together.
 There will be _no authoritative teaching_ of the Word of the Lord, rather it will be a joint/shared _discovery_ of scripture.
 It is done in a group setting, minimum group size is two.
-This tool intends to take people from the stage of unbelief _'Lost'_ to (at the least) the next stage of _'Connected Lost'_ (in the arrow_chart Figure 2).
+This tool intends to take people from the stage of unbelief _'lost'_ to (at the least) the next stage of _'connected Lost'_ (in the arrow_chart Figure 2).
 The bible discovery will have 5 initial sessions, called the [Alef discovery](#alef-discovery).
+We assume it is easier for someone to consider going through a small number of sessions, therefore we propose 5 initial sessions.
+Either way the bible discovery can be stoped at any point in time and there are no strings attached, it is just a friendly invitation to know more about God.
 If we succeed to go through the initial Alef discovery, then we can continue with the next 7 follow-up sessions, called the [Bet discovery](#bet-discovery).
 Each session will have a topic and a central question we want to answer with the group by reading specific verses of scripture.
 The _bible discovery_ is an already existing tool used to read the bible with non believers [|8|](#references).
@@ -147,7 +149,8 @@ Therefore, the structure, topic, and question is a guide that can be adapted.
 - **Expected Outcome**:
 Take the _lost_ we reach on the streets to (at least) the stage of _connected lost_.
 In the long run, we would encourage them to repent, be baptized, and to receive the Holy Spirit, to become _believers_ [(Acts 2:38)](https://my.bible.com/bible/59/ACT.2.38).
-But that can only be done by God, so prayer and leading of the Spirit is central to our method.
+But the _new birth_ can only be done by God, so prayer and leading of the Spirit is central to our method.
+There is nothing we can do without the power and the guidance of the Holy Spirit.
 
 - **Target audience**:
 The Lost [(Luke 19:10)](https://my.bible.com/bible/59/LUK.19.10), both woman and man.
@@ -249,7 +252,7 @@ Participants should be at least one, maximum 3 so that the group stays manageabl
 The project intends to provide a framework to discover God and the Bible with non-believers, through the reading of the Gospel of John together.
 For the time being, only the **Alef discovery** will be launched to the streets.
 All other following _bible discovery_ programs are described here, but they will be launched to the streets only if/when the _Lord of the Harvest_ [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38) provides growth of the first Alef seeds.
-
+Yet we encourage others who have peers in other stages of the disciple-maker path, to use this framework to help people grow into the maturity of disciple-makers.
 
 ## א - Alef discovery
 
