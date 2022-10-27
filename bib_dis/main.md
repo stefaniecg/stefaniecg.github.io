@@ -24,9 +24,9 @@ The Street Bible-Discovery project
 	- [א - Alef discovery](#-alef-discovery)
 	- [ב - Bet discovery](#-bet-discovery)
 	- [ג - Gimel discovery](#-gimel-discovery)
-- [Footnotes](#footnotes)
 - [Acronyms](#acronyms)
 - [References](#references)
+- [Footnotes](#footnotes)
 
 <!-- /TOC -->
 
@@ -315,9 +315,6 @@ Yet we encourage others who have peers in other stages of the disciple-maker pat
 | G6  | Gimel 6 | Elementary doctrines | What is eternal judgement?         |            |
 
 ------------------------------------------------------------------
-# Footnotes
-[^1]: This figure has been enhanced (new concepts) from the original SHIFTm2M diagram.
-
 # Acronyms
 - SoM: State of the Ministry
 
@@ -332,3 +329,7 @@ Yet we encourage others who have peers in other stages of the disciple-maker pat
 [7] Johannes-Evangelium. Schlachter 2000 Übersetzung. Christliche Literatur-Verbreitung e.V., 33649 Bielefeld [|Available online|](https://clv.de/Schlachter-2000-Bibel-Johannes-Evangelium/256420)  
 [8] My friends: Bible Discovery. MyFriends Ministry, Campus für Christus Schweiz, CH-8005 Zürich [|Available online|](https://myfriends.life/biblediscovery/)  
 [9] Platt, David, "PRAY and FAST", 6 January 2019. [|Available online|](https://radical.net/podcasts/radical-podcast/pray-and-fast/)
+
+------------------------------------------------------------------
+# Footnotes
+[^1]: This figure has been enhanced (new concepts) from the original SHIFTm2M diagram.
