@@ -158,7 +158,7 @@ We target mostly young people because of the language and the ease of communicat
 But if the Spirit leads to older people there will be no problem.
 
 - **Project scope**:
-   * Our team intends to implement this project on the streets of Innsbruck, handing out this invitation as a follow up to the encounters that we already have.
+   * Our team will implement this project on the streets of Innsbruck, handing out the _Alef bible discovery_ invitation as a follow up to the encounters that we already have.
    * Yet, the reach of the concept can be even greater as the framework presented here of: the Bible-discovery outlines, the structure of the meetings, materials, and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to _"Come and See" [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)_.
    The _bible discovery_ as a tool can be implemented by any _saint_ to invite any _lost_ reached trough any _context_.
    We encourage other _saints_ to use the framework presented here to simply _invite_ and _read_ the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member, people on the street.
