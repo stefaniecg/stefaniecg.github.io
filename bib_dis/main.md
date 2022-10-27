@@ -157,21 +157,6 @@ The Lost [(Luke 19:10)](https://my.bible.com/bible/59/LUK.19.10), both woman and
 We target mostly young people because of the language and the ease of communication.
 But if the Spirit leads to older people there will be no problem.
 
-- **Project scope**:
-   * Our team will implement this project on the streets of Innsbruck, handing out the _Alef bible discovery_ invitation as a follow up to the encounters that we already have.
-   * Yet, the reach of this concept can be even greater as the framework presented: the Alef Bible-discovery outline, the structure of the meetings, the material (mini Gospel of John), and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to **"Come and See"** [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46).
-   The _Alef bible discovery_ is just an invitation with pre-selected content for any _saint_ to discover the bible with any _lost_.
-   Every _saint_ can rely on the guidance of the _Holy Spirit_ to discover the bible with any _lost_.
-   Thus, we encourage other _saints_ to use the framework presented here to simply _invite_ and _read_ the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member, people on the street.
-   Any _saint_ can order Gospels of John in the following links [(6,7)](#references) and we want to distribute pre-printed invitations for _saints_ to take with them into the world on a daily bases.
-   The invitation is just an outline of the content to discuss in the _Alef bible discovery_.
-   * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
-   Our team will write the contact number/email when we hand out the invitations at the end of our conversation.
-   * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 2)](#arrow_chart), where are you?
-   * _Saints_ can encourage/help _one another_ ([Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)) to know more and grow in their path of becoming a disciple-maker.
-
-> “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
-
 - **Method**:
    1. Continue with our '[A priori](#a-priori)' current method of one-to-one conversations.  
    2. At the end of the conversation give the _Gospel of John_.  
@@ -239,6 +224,21 @@ As needed by the person we will adapt:
 - **Group size**:
 At the least one of member of the core team should be present, better is both.
 Participants should be at least one, maximum 3 so that the group stays manageable.
+
+- **Project scope**:
+   * Our team will implement this project on the streets of Innsbruck, handing out the _Alef bible discovery_ invitation as a follow up to the encounters that we already have.
+   * Yet, the reach of this concept can be even greater as the framework presented: the Alef Bible-discovery outline, the structure of the meetings, the material (mini Gospel of John), and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to **"Come and See"** [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46).
+   The _Alef bible discovery_ is just an invitation with pre-selected content for any _saint_ to discover the bible with any _lost_.
+   Every _saint_ can rely on the guidance of the _Holy Spirit_ to discover the bible with any _lost_.
+   Thus, we encourage other _saints_ to use the framework presented here to simply _invite_ and _read_ the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member, people on the street.
+   Any _saint_ can order Gospels of John in the following links [(6,7)](#references) and we want to distribute pre-printed invitations for _saints_ to take with them into the world on a daily bases.
+   The invitation is just an outline of the content to discuss in the _Alef bible discovery_.
+   * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
+   Our team will write the contact number/email when we hand out the invitations at the end of our conversation.
+   * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 2)](#arrow_chart), where are you?
+   * _Saints_ can encourage/help _one another_ ([Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)) to know more and grow in their path of becoming a disciple-maker.
+
+> “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
 
 ------------------------------------------------------------------
 # Project management
