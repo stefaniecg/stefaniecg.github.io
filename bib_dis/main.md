@@ -160,7 +160,7 @@ But if the Spirit leads to older people there will be no problem.
 - **Project scope**:
    * Our team will implement this project on the streets of Innsbruck, handing out the _Alef bible discovery_ invitation as a follow up to the encounters that we already have.
    * Yet, the reach of this concept can be even greater as the framework presented: the Alef Bible-discovery outline, the structure of the meetings, the material (mini Gospel of John), and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to **"Come and See"** [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46).
-   The _Alef bible discovery_ is just an invitation with a pre-selected content for any _saint_ to discover the bible with any _lost_.
+   The _Alef bible discovery_ is just an invitation with pre-selected content for any _saint_ to discover the bible with any _lost_.
    Every _saint_ can rely on the guidance of the _Holy Spirit_ to discover the bible with any _lost_.
    Thus, we encourage other _saints_ to use the framework presented here to simply _invite_ and _read_ the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member, people on the street.
    Any _saint_ can order Gospels of John in the following links [(6,7)](#references) and we want to distribute pre-printed invitations for _saints_ to take with them into the world on a daily bases.
