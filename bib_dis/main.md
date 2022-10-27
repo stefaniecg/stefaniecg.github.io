@@ -159,14 +159,14 @@ But if the Spirit leads to older people there will be no problem.
 
 - **Project scope**:
    * Our team will implement this project on the streets of Innsbruck, handing out the _Alef bible discovery_ invitation as a follow up to the encounters that we already have.
-   * Yet, the reach of the concept can be even greater as the framework presented here of: the Bible-discovery outlines, the structure of the meetings, materials, and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to _"Come and See" [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)_.
-   The _bible discovery_ as a tool can be implemented by any _saint_ to invite any _lost_ reached trough any _context_.
-   We encourage other _saints_ to use the framework presented here to simply _invite_ and _read_ the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member, people on the street.
-   Any _saint_ can order Gospels of John in the following links [(6,7)](#references).
-   * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
-   Our team will write the contact number/email when we hand out the invitations.
-   Our team will also handout invitations to other _saints_ and encourage them to simply read the bible with any _lost_.
+   * Yet, the reach of the concept can be even greater as the framework presented here of: the Alef Bible-discovery outline, the structure of the meetings, materials (mini Gospel of John), and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to _"Come and See" [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)_.
+   The _bible discovery_ as a tool can be implemented by any _saint_ to invite any _lost_ reached trough any _context_, it just an invitation with a pre-selected content.
+   Every _saint_ can rely on the guidance of the _Holy Spirit_ to discover the bible with any _lost_.
+   Thus, we encourage other _saints_ to use the framework presented here to simply _invite_ and _read_ the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member, people on the street.
+   Any _saint_ can order Gospels of John in the following links [(6,7)](#references) and we want to distribute pre-printed invitations for _saints_ to take with them into the world on a daily bases.
    The invitation is just an outline of the content to discuss in the _Alef bible discovery_.
+   * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
+   Our team will write the contact number/email when we hand out the invitations at the end of our conversation.
    * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 2)](#arrow_chart), where are you?
    * _Saints_ can encourage/help _one another_ ([Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)) to know more and grow in their path of becoming a disciple-maker.
 
