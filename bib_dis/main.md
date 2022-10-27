@@ -66,14 +66,14 @@ We want to close the gap that by devising a clearly outlined method to follow up
 The **Shiftm2M** seminar [|2|](#references) teaches leadership and disciple making Jesus-style.
 The seminar takes the student through the life of Jesus, detecting milestones in his ministry on building a _disciple making movement_.
 Jesus Ministry can be broken down into 6 phases, each phase starts with a milestone.
-The ministry building process is illustrated in _Figure 1_.
+The ministry building process is illustrated in [Figure 1](#ramp_chart).
 Jesus' _disciple-making process_ took un-believers (_The lost_) and turned them into not only disciples, but _disciple-makers_.
 The end stage of every human is to turn from being in the status of '_lost_' to the status of '_disciple-maker_'.
 For people to move from one stage to another, Jesus Christ used a specific calling.
-The process through which a _lost_ person goes to become a _disciple maker_ is shown in _Figure 2_.
-The two charts previously discussed are related through the diagram shown in _Figure 3_.
+The process through which a _lost_ person goes to become a _disciple maker_ is shown in [Figure 2](#arrow_chart).
+The two charts previously discussed are related through the diagram shown in [Figure 3](#relation_chart).
 
-**Milestones and Phases of the ministry that results in the Movement**: (Figure 1)
+**Milestones and Phases of the ministry that results in the Movement**: [(Figure 1)](#ramp_chart)
 
 - **M0** - Birth of Jesus Christ [(Matthew 1:18)](https://my.bible.com/bible/59/MAT.1.18)
 - _Phase 1_: Preparation period
@@ -85,9 +85,9 @@ The two charts previously discussed are related through the diagram shown in _Fi
 - **M3** - Appointment of the twelve [(Mark 3:13-19)](https://my.bible.com/bible/59/MRK.3.13-19)
 - _Phase 5_: Leadership multiplication
 - **M4** - Death & Resurrection [(Matthew 27:50)](https://my.bible.com/bible/59/MAT.27.50), [(Matthew 28:9)](https://my.bible.com/bible/59/MAT.28.9)
-- _Phase 6: The Movement_ of Multiplying disciples
+- _Phase 6_: The **Movement** of Multiplying disciples
 
-**Jesus's callings and people stages while moving through the disciple-maker path**: (Figure 2)
+**Jesus's callings and people stages while moving through the disciple-maker path**: [(Figure 2)](#arrow_chart)
 > 'For the Son of Man came to seek and to save the lost.” ' [(Luke 19:10)](https://my.bible.com/bible/59/LUK.19.10)
 
 - _Stage 0_: The lost  
@@ -109,13 +109,13 @@ _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were ad
 ---
 
 __Figure 1__ - The _Ramp Chart_: Jesus Ministry, the process for building a disciple-makers movement [|3|](#references)
-![Jesus Ministry of building a disciple-making movement](images/ramp_chart.png)
+![ramp_chart](images/ramp_chart.png)
 
-__Figure 2__ - The _Arrow Chart_: People in the disciple-maker process [|3|](#references)
-![People in the disciple making process](images/arrow_chart.png)
+__Figure 2__ - The _Arrow Chart_[^1]: People in the disciple-maker process [|3|](#references)
+![arrow_chart](images/arrow_chart.png)
 
 __Figure 3__ - The _relationship_ between the Ramp and Arrow charts (two lenses) [|4|](#references)
-![People in the disciple making process](images/relation.png)
+![relation_chart](images/relation.png)
 
 ------------------------------------------------------------------
 # Project description
@@ -133,7 +133,7 @@ We want them to feel comfortable and that no one is forcing ideas on them.
 Therefore our approach of reading the bible will be to discover it together.
 There will be _no authoritative teaching_ of the Word of the Lord, rather it will be a joint/shared _discovery_ of scripture.
 It is done in a group setting, minimum group size is two.
-This tool intends to take people from the stage of unbelief _'lost'_ to (at the least) the next stage of _'connected Lost'_ (in the arrow_chart Figure 2).
+This tool intends to take people from the stage of unbelief _'lost'_ to (at the least) the next stage of _'connected Lost'_ (in the arrow_chart [Figure 2](#arrow_chart)).
 The bible discovery will have 5 initial sessions, called the [Alef discovery](#alef-discovery).
 We assume it is easier for someone to consider going through a small number of sessions, therefore we propose 5 initial sessions.
 Either way the bible discovery can be stoped at any point in time and there are no strings attached, it is just a friendly invitation to know more about God.
@@ -158,9 +158,19 @@ We target mostly young people because of the language and the ease of communicat
 But if the Spirit leads to older people there will be no problem.
 
 - **Project scope**:
-Our project is meant to be implemented in the streets of Innsbruck, as a follow up invitation to the encounters we already have.
-Yet, the framework presented here of the Alef bible discovery, the structure of meetings, and the invitation itself can be used for any evangelistic invitation to any _lost_ who needs the Gospel, reached trough any context.
-Therefore we encourage others to use this framework to simply invite and read the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member.
+   * Our team intends to implement this project on the streets of Innsbruck, handing out this invitation as a follow up to the encounters that we already have.
+   * Yet, the reach of the concept can be even greater as the framework presented here of: the Bible-discovery outlines, the structure of the meetings, materials, and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to _"Come and See" [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)_.
+   The _bible discovery_ as a tool can be implemented by any _saint_ to invite any _lost_ reached trough any _context_.
+   We encourage other _saints_ to use the framework presented here to simply _invite_ and _read_ the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member, people on the street.
+   Any _saint_ can order Gospels of John in the following links [(6,7)](#references).
+   * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
+   Our team will write the contact number/email when we hand out the invitations.
+   Our team will also handout invitations to other _saints_ and encourage them to simply read the bible with any _lost_.
+   The invitation is just an outline of the content to discuss in the _Alef bible discovery_.
+   * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 2)](#arrow_chart), where are you?
+   * _Saints_ can encourage/help _one another_ ([Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)) to know more and grow in their path of becoming a disciple-maker.
+
+> “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
 
 - **Method**:
    1. Continue with our '[A priori](#a-priori)' current method of one-to-one conversations.  
@@ -207,7 +217,6 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
 Alef sessions would be finished in 5 weeks.
    * 1 session per week.
    * 1 hour per session.
-
 
 - **Core team**:
    * Charles Effiong
@@ -303,6 +312,9 @@ Yet we encourage others who have peers in other stages of the disciple-maker pat
 | G6  | Gimel 6 | Elementary doctrines | What is eternal judgement?         |            |
 
 ------------------------------------------------------------------
+# Footnotes
+[^1]: This figure has been enhanced (new concepts) from the original SHIFTm2M diagram.
+
 # Acronyms
 - SoM: State of the Ministry
 
