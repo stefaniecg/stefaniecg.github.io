@@ -24,6 +24,7 @@ The Street Bible-Discovery project
 	- [א - Alef discovery](#-alef-discovery)
 	- [ב - Bet discovery](#-bet-discovery)
 	- [ג - Gimel discovery](#-gimel-discovery)
+- [Footnotes](#footnotes)
 - [Acronyms](#acronyms)
 - [References](#references)
 
@@ -103,6 +104,8 @@ The two charts previously discussed are related through the diagram shown in [Fi
 - _Stage 4_: The disciple-maker
 - **C6** - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 - _Stage 5_: The missionary
+
+>'And Jesus came and said to them, “All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”' [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
 
 _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were added by the author, in comparison to the original Shiftm2M diagram.
 
