@@ -247,15 +247,15 @@ Participants should be at least one, maximum 3 so that the group stays manageabl
 
 ## Milestones
 
-| id  | milestone              | date       | description                                                                   |
-| --- | ---------------------- | ---------- | ----------------------------------------------------------------------------- |
-| M0  | project kickoff        | 7 Oct 2022 | Launch of the Project                                                         |
-| M1  | project specification  | 8 Oct 2022 | Write the project concept                                                     |
-| M2  | design invitation      | on-going   | Design an invitation to the bible discovery and provide a contact email       |
-| M3  | peer-review            | ?          | Ask for feedback of selected peers                                            |
-| M4  | material production    | ?          | Print invitations, order mini John's Gospel, and set-up contact email address |
-| M5  | project launch         | ?          | Take it to the streets                                                        |
-| M6  | project implementation | ?          | Start the first Alef sessions                                                 |
+| id  | milestone              | date        | description                                                                   |
+| --- | ---------------------- | ----------- | ----------------------------------------------------------------------------- |
+| M0  | project kickoff        | 7 Oct 2022  | Launch of the Project                                                         |
+| M1  | project specification  | 10 Oct 2022 | Write the project concept                                                     |
+| M2  | design invitation      | 29 Oct 2022 | Design an invitation to the bible discovery and provide a contact email       |
+| M3  | peer-review            | on-going    | Ask for feedback from selected peers                                          |
+| M4  | material production    | ?           | Print invitations, order mini John's Gospel, and set-up contact email address |
+| M5  | project launch         | ?           | Take it to the streets                                                        |
+| M6  | project implementation | ?           | Start the first Alef sessions                                                 |
 
 ------------------------------------------------------------------
 # The Street Bible Discovery
