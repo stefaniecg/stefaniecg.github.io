@@ -200,6 +200,15 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
       * Pray for each other.
       * Pray for the people who we shared what we learned last week.
 
+- **Dynamic of the Group**:
+We as moderators need to remember we are reading the bible with _non-believers_.
+This is a different setting as the normal _church_ setting, for this is NOT a _bible study_ but rather a _bible discovery_.
+In this discovery-sessions all participants are invited to share their opinion about scripture without retaliation, but rather with tolerance, humbleness, and kindness we are all called to share our interpretation of scripture.
+Active involvement of all participants is needed, included the moderators as if they were just participants.
+We have to tolerate the opinion of the _lost_, yet always being ready to respectfully, kindly, and gently give defense for the reason of the hope that is in us [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15).
+
+>'but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ' [1 Peter 3:15](https://my.bible.com/bible/59/1PE.3.15)
+
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
    * 1 session per week.
@@ -220,8 +229,8 @@ We intend this meeting to be informal, therefore we will meet at:
 
 - **Language**:
 As needed by the person we will adapt:
-   * German - for conversation & bible reading
    * English - main language for conversation
+   * German - for conversation & bible reading
 
 - **Group size**:
 At the least one of member of the core team should be present, better is both.
@@ -229,11 +238,11 @@ Participants should be at least one, maximum 3 so that the group stays manageabl
 
 - **Project scope**:
    * Our team will implement this project on the streets of Innsbruck, handing out the _Alef bible discovery_ invitation as a follow up to the encounters that we already have.
-   * Yet, the reach of this concept can be even greater as the framework presented: the Alef Bible-discovery outline, the structure of the meetings, the material (mini Gospel of John), and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to **"Come and See"** [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46).
+   * Yet, the reach of this concept can be even greater as the framework presented here: the Alef Bible-discovery outline, the structure of the meetings, the material (mini Gospel of John), and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to **"Come and See"** [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46).
    The _Alef bible discovery_ is just an invitation with pre-selected content for any _saint_ to discover the bible with any _lost_.
    Every _saint_ can rely on the guidance of the _Holy Spirit_ to discover the bible with any _lost_.
    Thus, we encourage other _saints_ to use the framework presented here to simply _invite_ and _read_ the Gospel of John with whoever God places in your life to disciple: a friend, a co-worker, a stranger, a family member, people on the street.
-   Any _saint_ can order Gospels of John in the following links [(6,7)](#references) and we want to distribute pre-printed invitations for _saints_ to take with them into the world on a daily bases.
+   Any _saint_ can order Gospels of John in the following links [(6,7)](#references) and we want to distribute pre-printed invitations for _saints_ to take with them into the world on a daily-bases.
    The invitation is just an outline of the content to discuss in the _Alef bible discovery_.
    * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
    Our team will write the contact number/email when we hand out the invitations at the end of our conversation.
