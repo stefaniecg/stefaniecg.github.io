@@ -105,10 +105,9 @@ The two charts previously discussed are related through the diagram shown in [Fi
 - **C6** - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 - _Stage 5_: The missionary
 
->'And Jesus came and said to them, “All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”' [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
-
 _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were added by the author, in comparison to the original Shiftm2M diagram.
 
+>'And Jesus came and said to them, “All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”' [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
 ---
 
 __Figure 1__ - The _Ramp Chart_: Jesus Ministry, the process for building a disciple-makers movement [|3|](#references)
@@ -239,7 +238,7 @@ Participants should be at least one, maximum 3 so that the group stays manageabl
    * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
    Our team will write the contact number/email when we hand out the invitations at the end of our conversation.
    * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 2)](#arrow_chart): where are you?
-   * _Saints_ can encourage/help _one another_ ([Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)) to know more and grow in their path of becoming a disciple-maker.
+   * _Saints_ can encourage/help _one another_ ([Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)) to know God more and grow in their path of becoming a disciple-maker.
 
 > “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
 
