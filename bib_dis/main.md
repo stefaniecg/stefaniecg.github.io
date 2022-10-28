@@ -142,11 +142,11 @@ Either way the bible discovery can be stoped at any point in time and there are 
 If we succeed to go through the initial Alef discovery, then we can continue with the next 7 follow-up sessions, called the [Bet discovery](#bet-discovery).
 Each session will have a topic and a central question we want to answer with the group by reading specific verses of scripture.
 The _bible discovery_ is an already existing tool used to read the bible with non believers [|8|](#references).
-We will use a slightly modified version of its structure, prepare specific bible topics of _John's Gospel_.
+We will use a slightly modified version of its structure and read specific verses in _John's Gospel_ to cover a topic.
 As we target to use this for people mainly reached on the streets we call it _street bible discovery_.
-The reason to use John's gospel is because we already give this material, so there is no need to acquire different material.
+The reason to use John's gospel is because we already give this material, so there is no need to acquire any different material.
 Even though, we prepare specific verses and a structure for the meeting, we will rely on the guidance of the Spirit for its execution.
-Therefore, the structure, topic, and question is a guide that can be adapted.
+Therefore, the structure, topic, and question are only a guide that can be adapted.
 
 - **Expected Outcome**:
 Take the _lost_ we reach on the streets to (at least) the stage of _connected lost_.
@@ -155,7 +155,7 @@ But the _new birth_ can only be done by God, so prayer and leading of the Spirit
 There is nothing we can do without the power and the guidance of the Holy Spirit.
 
 - **Target audience**:
-The Lost [(Luke 19:10)](https://my.bible.com/bible/59/LUK.19.10), both woman and man.
+The Lost [(Luke 19:10)](https://my.bible.com/bible/59/LUK.19.10), both woman and man of at least 18 years old.
 We target mostly young people because of the language and the ease of communication.
 But if the Spirit leads to older people there will be no problem.
 
