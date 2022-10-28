@@ -176,11 +176,10 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
       * Where do you need God's help?
       * How can you be helped practically?
       * What have you implemented since the last meeting from what you learned?
-      * How are the people you care most about doing? What are your next steps with them?
+      * Have you shared what you've discovered in these sessions with someone? What are your next steps with them?
       * Who have you told about an experience of God? Have you prayed with someone?
    2. **Scripture** - [Lesen]
-      * Everyone reads the text for themselves.
-      * Someone reads the text aloud.
+      * We all take turns to read the bible verses out laud for the group.
       * With closed Bibles, one after the other, we all retell the story of the text in our own words.
    3. **Discovery** - [Entdecken]
       * Did you notice anything special in the text?
@@ -191,6 +190,7 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
       * How is my interaction with other people shaped by the text?
       * What will you do with what you have learned before the next meeting?
       * Tell God in your own words what moved you.
+      * => ANSWER THE SESSION'S QUESTION
    5. **Prayer** - [Gebet]
       * PRAY acronym by David Platt [(9)](#references)  
          - P - Praise - Worship God for who He is and what He has done.
