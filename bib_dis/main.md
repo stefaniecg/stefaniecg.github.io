@@ -332,4 +332,4 @@ Yet we encourage others who have peers in other stages of the disciple-maker pat
 
 ------------------------------------------------------------------
 # Footnotes
-[^1]: This figure has been enhanced (new concepts) from the original SHIFTm2M diagram [|3|](#references).
+[^1]: This figure has been enhanced (new concepts) from the original SHIFTm2M diagram [(3)](#references).
