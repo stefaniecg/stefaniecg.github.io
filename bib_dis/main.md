@@ -137,7 +137,7 @@ There will be _no authoritative teaching_ of the Word of the Lord, rather it wil
 It is done in a group setting, minimum group size is two.
 This tool intends to take people from the stage of unbelief _'lost'_ to (at the least) the next stage of _'connected Lost'_ (in the arrow_chart [Figure 2](#arrow_chart)).
 The bible discovery will have 5 initial sessions, called the [Alef discovery](#alef-discovery).
-We assume it is easier for someone to consider going through a small number of sessions, therefore we propose 5 initial sessions.
+We assume it is easier for someone to consider going through a small number of sessions, therefore we have proposed 5 initial sessions.
 Either way the bible discovery can be stoped at any point in time and there are no strings attached, it is just a friendly invitation to know more about God.
 If we succeed to go through the initial Alef discovery, then we can continue with the next 7 follow-up sessions, called the [Bet discovery](#bet-discovery).
 Each session will have a topic and a central question we want to answer with the group by reading specific verses of scripture.
@@ -207,12 +207,13 @@ This is a different setting as the normal _church_ setting, for this is NOT a _b
 In these discovery-sessions all participants are invited to share their opinion about scripture without retaliation, but rather with tolerance, humbleness, and kindness we are all called to share our interpretation of scripture.
 Active involvement of all participants is needed, included the moderators as just participants.
 Remember in this group setting there is no stablished _order_, as we are all reading and discovering the Word of the Lord together.
-We have to tolerate the opinion of the _lost_, yet always being ready to respectfully, kindly, and gently give defense for the reason of the hope that is in us [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15).
+We have to tolerate the opinion of the _lost_, yet always being ready to respectfully, kindly, and gently give a defense for the reason of the hope that is in us [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15).
 
-   * Beware of divisions among the moderators, for satan will do anything to divide the team in order to stop the reading of the Word with the _lost_.
+   * Beware of divisions among the moderators, for satan will do anything to divide the team in order to stop the reading of the Word with the _lost_. Be wise as serpents and innocent as doves,
 
->'but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ' [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15)
 >'Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. '[(1 Peter 4:12)](https://my.bible.com/bible/59/1PE.4.12)
+>'but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ' [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15)
+> ' “Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves. ' [(Matthew 10:16)](https://my.bible.com/bible/59/MAT.10.16)
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
