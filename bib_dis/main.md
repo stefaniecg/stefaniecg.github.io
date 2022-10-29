@@ -166,7 +166,7 @@ But if the Spirit leads to older people there will be no problem.
    4. We would meet the people and read the _Gospel of John_ according to the Alef discovery structure.  
    5. Do the 5 _Alef bible discovery_ sessions.
    6. At the end, invite for next 7 _Bet bible discovery_ sessions.
-   * The prayer is that people repent and become believers at any time. Then we stop and they become part of the family, be baptized and come to our regular bible study bi-weekly meetings.
+The prayer is that people repent and become believers at any time. Then we stop and they become part of the family, be baptized and come to our regular bible study bi-weekly meetings.
 
 - **Structure of bible discovery meetings**:
 The structure is a slightly modified version of the original bible discovery [|8|](#references).
@@ -201,13 +201,18 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
       * Pray for the people who we shared what we learned last week.
 
 - **Dynamic of the Group**:
-We as moderators need to remember we are reading the bible with _non-believers_.
+The _saints_ are referred to as moderators in this sessions.
+We as moderators need to remember that we are reading the bible with _non-believers_.
 This is a different setting as the normal _church_ setting, for this is NOT a _bible study_ but rather a _bible discovery_.
-In this discovery-sessions all participants are invited to share their opinion about scripture without retaliation, but rather with tolerance, humbleness, and kindness we are all called to share our interpretation of scripture.
-Active involvement of all participants is needed, included the moderators as if they were just participants.
+In these discovery-sessions all participants are invited to share their opinion about scripture without retaliation, but rather with tolerance, humbleness, and kindness we are all called to share our interpretation of scripture.
+Active involvement of all participants is needed, included the moderators as just participants.
+Remember in this group setting there is no stablished _order_, as we are all reading and discovering the Word of the Lord together.
 We have to tolerate the opinion of the _lost_, yet always being ready to respectfully, kindly, and gently give defense for the reason of the hope that is in us [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15).
 
->'but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ' [1 Peter 3:15](https://my.bible.com/bible/59/1PE.3.15)
+   * Beware of divisions among the moderators, for satan will do anything to divide the team in order to stop the reading of the Word with the _lost_.
+
+>'but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ' [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15)
+>'Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. '[(1 Peter 4:12)](https://my.bible.com/bible/59/1PE.4.12)
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
