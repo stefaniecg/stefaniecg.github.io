@@ -53,8 +53,11 @@ We present the Gospel through 5 core-gospel threads [|1|](#references) (mileston
 5. The Urgency of Eternity
 
 At the end of the conversation, if the person accepts it:
-1. We give a mini Gospel of John [(6)](#references) and encourage them to read it.
+1. We give a mini Gospel of John [(6)](#references) and encourage them to read it [Figure 1](#gospels).
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
+
+__Figure 1__ - The mini Gospel of John [(6)](#references) and also a mini Gospel of Lukas.
+![gospels](images/gospels.jpg)
 
 ## The Gap
 The goal of our ministry has always been to meet people, share the Gospel, and make disciples.
@@ -68,14 +71,14 @@ We want to close the gap that by devising a clearly outlined method to follow up
 The **Shiftm2M** seminar [|2|](#references) teaches leadership and disciple making Jesus-style.
 The seminar takes the student through the life of Jesus, detecting milestones in his ministry on building a _disciple making movement_.
 Jesus Ministry can be broken down into 6 phases, each phase starts with a milestone.
-The ministry building process is illustrated in [Figure 1](#ramp_chart).
+The ministry building process is illustrated in [Figure 2](#ramp_chart).
 Jesus' _disciple-making process_ took un-believers (_The lost_) and turned them into not only disciples, but _disciple-makers_.
 The end stage of every human is to turn from being in the status of '_lost_' to the status of '_disciple-maker_'.
 For people to move from one stage to another, Jesus Christ used a specific calling.
-The process through which a _lost_ person goes to become a _disciple maker_ is shown in [Figure 2](#arrow_chart).
-The two charts previously discussed are related through the diagram shown in [Figure 3](#relation_chart).
+The process through which a _lost_ person goes to become a _disciple maker_ is shown in [Figure 3](#arrow_chart).
+The two charts previously discussed are related through the diagram shown in [Figure 4](#relation_chart).
 
-**Milestones and Phases of the ministry that results in the Movement**: [(Figure 1)](#ramp_chart)
+**Milestones and Phases of the ministry that results in the Movement**: [(Figure 2)](#ramp_chart)
 
 - **M0** - Birth of Jesus Christ [(Matthew 1:18)](https://my.bible.com/bible/59/MAT.1.18)
 - _Phase 1_: Preparation period
@@ -89,7 +92,7 @@ The two charts previously discussed are related through the diagram shown in [Fi
 - **M4** - Death & Resurrection [(Matthew 27:50)](https://my.bible.com/bible/59/MAT.27.50), [(Matthew 28:9)](https://my.bible.com/bible/59/MAT.28.9)
 - _Phase 6_: The **Movement** of Multiplying disciples
 
-**Jesus's callings and people stages while moving through the disciple-maker path**: [(Figure 2)](#arrow_chart)
+**Jesus's callings and people stages while moving through the disciple-maker path**: [(Figure 3)](#arrow_chart)
 > 'For the Son of Man came to seek and to save the lost.” ' [(Luke 19:10)](https://my.bible.com/bible/59/LUK.19.10)
 
 - _Stage 0_: The lost  
@@ -111,13 +114,13 @@ _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were ad
 >'And Jesus came and said to them, “All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”' [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
 
 ---
-__Figure 1__ - The _Ramp Chart_: Jesus Ministry, the process for building a disciple-makers movement [|3|](#references)
+__Figure 2__ - The _Ramp Chart_: Jesus Ministry, the process for building a disciple-makers movement [|3|](#references)
 ![ramp_chart](images/ramp_chart.png)
 
-__Figure 2__ - The _Arrow Chart_[^1]: People in the disciple-maker process [|3|](#references)
+__Figure 3__ - The _Arrow Chart_[^1]: People in the disciple-maker process [|3|](#references)
 ![arrow_chart](images/arrow_chart.png)
 
-__Figure 3__ - The _relationship_ between the Ramp and Arrow charts (two lenses) [|4|](#references)
+__Figure 4__ - The _relationship_ between the Ramp and Arrow charts (two lenses) [|4|](#references)
 ![relation_chart](images/relation.png)
 
 ------------------------------------------------------------------
@@ -136,7 +139,7 @@ We want them to feel comfortable and that no one is forcing ideas on them.
 Therefore our approach of reading the bible will be to discover it together.
 There will be _no authoritative teaching_ of the Word of the Lord, rather it will be a joint/shared _discovery_ of scripture.
 It is done in a group setting, minimum group size is two.
-This tool intends to take people from the stage of unbelief _'lost'_ to (at the least) the next stage of _'connected Lost'_ (in the arrow_chart [Figure 2](#arrow_chart)).
+This tool intends to take people from the stage of unbelief _'lost'_ to (at the least) the next stage of _'connected Lost'_ (in the arrow_chart [Figure 3](#arrow_chart)).
 The bible discovery will have 5 initial sessions, called the [Alef discovery](#alef-discovery).
 We assume it is easier for someone to consider going through a small number of sessions, therefore we have proposed 5 initial sessions.
 Either way the bible discovery can be stoped at any point in time and there are no strings attached, it is just a friendly invitation to know more about God.
@@ -264,7 +267,7 @@ No preparation is key.
    The invitation is just an outline of the content to discuss in the _Alef bible discovery_.
    * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
    Our team will write the contact number/email when we hand out the invitations at the end of our conversation.
-   * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 2)](#arrow_chart): where are you?
+   * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 3)](#arrow_chart): where are you?
    * _Saints_ can encourage/help _one another_ ([Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)) to know God more and grow in their path of becoming a disciple-maker.
 
 > “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
