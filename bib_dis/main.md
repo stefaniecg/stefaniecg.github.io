@@ -240,14 +240,17 @@ As needed by the person we will adapt:
    * German - for conversation & bible reading
 
 - **Group size**:
-At the least one of member of the core team should be present, better is both.
+All the street bible discovery concept needs is: 1 saint + 1 lost + 1 Holy Spirit + 1 invitation.
+Actually the invitation is not needed in the long run, but it provides a framework for the saint to follow.
+Usually, saints does not know where to start or what topics to discuss with a un-believer, therefore the [א - Alef discovery](#-alef-discovery) is only a topic and scripture guide.
+Specifically for our team, at the least one of member of the core team should be present, better is both.
 Participants should be at least one, maximum 3 so that the group stays manageable.
-All the street bible discovery concept needs is: 1 saint + 1 invitation + 1 lost + 1 Holy Spirit.
 
 - **Preparation**:
 There is no need of preparing anything before meeting for bible discovery.
 This is no teaching of scripture, rather it is a sharing of thoughts while discovering the Bible together live on-sight.
-No preparation is key. 
+The saint has the power of the Holy Spirit of God in Him/Her to be a witness of Christ and proclaim His Gospel [Acts 1:8](https://my.bible.com/bible/59/ACT.1.8).
+No preparation is key.
 
 - **Project scope**:
    * Our team will implement this project on:
