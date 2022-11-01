@@ -4,6 +4,7 @@ Author: The disciple who loves Jesus
 Date: 7 Oct 2022
 Current version: v0.2i
 ---
+
 The Street Bible-Discovery project
 ====================================
 > by The disciple who loves Jesus  
@@ -243,7 +244,9 @@ At the least one of member of the core team should be present, better is both.
 Participants should be at least one, maximum 3 so that the group stays manageable.
 
 - **Project scope**:
-   * Our team will implement this project on the streets of Innsbruck, handing out the _Alef bible discovery_ invitation as a follow up to the encounters that we already have.
+   * Our team will implement this project on:
+      - the streets of Innsbruck, handing out the _Alef bible discovery_ invitation as a follow up to the encounters that we already have.
+      - with people we know from our private-life or church-life.
    * Yet, the reach of this concept can be even greater as the framework presented here: the Alef Bible-discovery outline, the structure of the meetings, the material (mini Gospel of John), and the invitation itself can be used by any _saint_ as an evangelistic invitation to any _lost_ to **"Come and See"** [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46).
    The _Alef bible discovery_ is just an invitation with pre-selected content for any _saint_ to discover the bible with any _lost_.
    Every _saint_ can rely on the guidance of the _Holy Spirit_ to discover the bible with any _lost_.
@@ -275,10 +278,10 @@ Participants should be at least one, maximum 3 so that the group stays manageabl
 ------------------------------------------------------------------
 # The Street Bible Discovery
 
-The project intends to provide a framework to discover God and the Bible with non-believers, through the reading of the Gospel of John together.
-For the time being, only the **Alef discovery** will be launched to the streets.
+The project intends to provide a framework to discover God and the Bible with non-believers, through reading together the Gospel of John.
+For the time being, only the **Alef discovery** will be launched to the streets and to acquaintances.
 All other following _bible discovery_ programs are described here, but they will be launched to the streets only if/when the _Lord of the Harvest_ [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38) provides growth of the first Alef seeds.
-Yet we encourage others who have peers in other stages of the disciple-maker path, to use this framework to help people grow into the maturity of disciple-makers.
+Yet we encourage others who have fellow saints in other stages of the disciple-maker path, to use this framework to grow together into maturity of disciple-makers.
 
 ## א - Alef discovery
 
