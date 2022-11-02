@@ -22,9 +22,9 @@ The Street Bible-Discovery project
 - [Project management](#project-management)
 	- [Milestones](#milestones)
 - [The Street Bible Discovery](#the-street-bible-discovery)
-	- [א Alef discovery](#-alef-discovery)
-	- [ב Bet discovery](#-bet-discovery)
-	- [ג Gimel discovery](#-gimel-discovery)
+	- [א - Alef discovery](#-alef-discovery)
+	- [ב - Bet discovery](#-bet-discovery)
+	- [ג - Gimel discovery](#-gimel-discovery)
 - [Acronyms](#acronyms)
 - [References](#references)
 - [Footnotes](#footnotes)
@@ -55,6 +55,8 @@ We present the Gospel through 5 core-gospel threads [|1|](#references) (mileston
 At the end of the conversation, if the person accepts it:
 1. We give a mini Gospel of John [(6)](#references) and encourage them to read it [Figure 1](#gospels).
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
+
+> 'How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, “**How beautiful are the feet of those who preach the good news!**” ' [(Romans 10:14-15)](https://my.bible.com/bible/59/ROM.10.14-15)
 
 __Figure 1__ - The mini Gospel of John [(6)](#references) and also a mini Gospel of Lukas.
 ![gospels](images/gospels.jpg)
@@ -243,17 +245,20 @@ As needed by the person we will adapt:
    * German - for conversation & bible reading
 
 - **Group size**:
-All the street bible discovery concept needs is: 1 saint + 1 lost + 1 Holy Spirit + 1 invitation.
-Actually the invitation is not needed in the long run, but it provides a framework for the saint to follow.
-Usually, saints does not know where to start or what topics to discuss with a un-believer, therefore the [א - Alef discovery](#-alef-discovery) is only a topic and scripture guide.
-Specifically for our team, at the least one of member of the core team should be present, better is both.
-Participants should be at least one, maximum 3 so that the group stays manageable.
+All the street bible-discovery concept needs is: 1 saint + 1 lost + 1 Holy Spirit + 1 invitation.
+Actually the invitation is not needed in the long run, but it provides a starter-framework for the saint to follow in order to initially share the main milestones of the Gospel with the lost.
+Usually, saints do not know where to start or what topics to discuss with an un-believer, therefore the [א - Alef discovery](#-alef-discovery) is only a topic and scripture guide that goes through the core milestones of the Gospel.
+Specifically in our team, at the least one member of the core team should be present in every session, but better is both as the **unity of the body-of-Christ** is a great testimony to non-beliers, as ordained by Jesus Christ himself [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23) and proven by past experiences.
+The Saints are to _'become perfectly one, so that the world may know that'_ Jesus was sent from God.
+The number of participants (_lost_) should be at least 1 and maximum 3, so that the group stays manageable.
+
+> 'The glory that you have given me I have given to them, that they may be one even as we are one, I in them and you in me, that they may become perfectly one, so that the world may know that you sent me and loved them even as you loved me. ' [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23)
 
 - **Preparation**:
-There is no need of preparing anything before meeting for bible discovery.
-This is no teaching of scripture, rather it is a sharing of thoughts while discovering the Bible together live on-sight.
+There is no need of preparing anything before meeting for the street bible discovery.
+This is no teaching of scripture, rather it is a sharing of thoughts while discovering the Bible together live & on-sight.
 The saint has the power of the Holy Spirit of God in Him/Her to be a witness of Christ and proclaim His Gospel [Acts 1:8](https://my.bible.com/bible/59/ACT.1.8).
-No preparation is key.
+No preparation is key of this method.
 
 - **Project scope**:
    * Our team will implement this project on:
@@ -295,7 +300,7 @@ For the time being, only the **Alef discovery** will be launched to the streets 
 All other following _bible discovery_ programs are described here, but they will be launched to the streets only if/when the _Lord of the Harvest_ [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38) provides growth of the first Alef seeds.
 Yet we encourage others who have fellow saints who are in other stages of the disciple-maker path, to use this framework to grow together into maturity of disciple-makers by going trough the [ב - Bet discovery](#-bet-discovery) or the [ג - Gimel discovery](#-gimel-discovery).
 
-## א Alef discovery
+## א - Alef discovery
 
 * **Central topic**: The Gospel
 * **Expected learning outcome**: Understand the Gospel (the good news)
@@ -312,7 +317,7 @@ Yet we encourage others who have fellow saints who are in other stages of the di
 * The invitation to the Alef discovery  
 ![alef_invitation](images/alef_invitation.png)
 
-## ב Bet discovery
+## ב - Bet discovery
 
 * **Central topic**: The character of God: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
 * **Expected learning outcome**: Know God + self-reading of bible for participants.
@@ -328,7 +333,7 @@ Yet we encourage others who have fellow saints who are in other stages of the di
 | B6  | Bet 6   | The character of God | Why Jesus is the Way, the Truth, and the life? | John 14:1-13  |
 | B7  | Bet 7   | The character of God | Why Jesus is the Vine?                         | John 15:1-17  |
 
-## ג Gimel discovery
+## ג - Gimel discovery
 
 * **Central topic**: Based on the elementary doctrines of [Hebrews 6:1-2 ](https://my.bible.com/bible/59/HEB.6.1-2).
 * **Expected learning outcome**: Stand firm on the elementary doctrines of Christianity.
