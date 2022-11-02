@@ -53,7 +53,7 @@ We present the Gospel through 5 core-gospel threads [|1|](#references) (mileston
 5. The Urgency of Eternity
 
 At the end of the conversation, if the person accepts it:
-1. We give a mini Gospel of John [(6)](#references) and encourage them to read it [Figure 1](#gospels).
+1. We give a mini Gospel of John [(6)](#references) and encourage them to read it. It is shown in [Figure 1](#gospels).
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
 
 > 'How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, “**How beautiful are the feet of those who preach the good news!**” ' [(Romans 10:14-15)](https://my.bible.com/bible/59/ROM.10.14-15)
