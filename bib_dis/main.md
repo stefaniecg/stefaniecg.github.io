@@ -241,24 +241,24 @@ We have to tolerate the opinion of the _lost_, yet always being ready to respect
    * Beware of divisions among the moderators, for satan will do anything to divide the team in order to stop the reading of the Word with the _lost_. Be wise as serpents and innocent as doves,
 
 >'Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. '[(1 Peter 4:12)](https://my.bible.com/bible/59/1PE.4.12)
->'but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ' [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15)
+>'but in your hearts honor Christ the Lord as holy, always being **prepared to make a defense** [[Apologia (ἀπολογία)](https://www.blueletterbible.org/lexicon/g627/kjv/tr/0-1/)] to anyone who asks you for a reason for the hope that is in you; yet do it with **gentleness and respect**, ' [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15)
 > ' “Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves. ' [(Matthew 10:16)](https://my.bible.com/bible/59/MAT.10.16)
 
 - **Group size**:
 All the street bible-discovery concept needs is: 1 saint with The Holy Spirit + 1 lost + 1 mini-Gospel of John + 1 invitation.
 Actually the invitation is not needed in the long run, but it provides a starter-framework for the saint to follow in order to initially share the main milestones of the Gospel with the lost.
 Usually, saints do not know where to start or what topics to discuss with an un-believer, therefore the [א - Alef discovery](#-alef-discovery) is only a topic and scripture guide that goes through the core milestones of the Gospel.
-Specifically in our team, at the least one member of the core team should be present in every session, but better is both as the **unity of the body-of-Christ** is a great testimony to non-beliers, as ordained by Jesus Christ himself [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23) and proven by past experiences.
-The Saints are to _'become perfectly one, so that the world may know that'_ Jesus was sent from God.
+Specifically in our team, at the least one member of the core team should be present in every session, but better is both as the **unity of the body-of-Christ** is a great testimony to non-beliers, as ordained by Jesus Christ himself [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23) and proven by our past experiences.
+We, the Saints, are to _'become perfectly one, so that the world may know that'_ Jesus was sent from God & that God loves the world.
 The number of participants (_lost_) should be at least 1 and maximum 3, so that the group stays manageable.
 
-> 'The glory that you have given me I have given to them, that they may be one even as we are one, I in them and you in me, that they may become perfectly one, so that the world may know that you sent me and loved them even as you loved me. ' [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23)
+> 'The glory that you have given me I have given to them, that they may be one even as we are one, I in them and you in me, that **they may become perfectly one, so that the world may know that you sent me and loved them** even as you loved me. ' [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23)
 
 - **Preparation**:
 There is no need of preparing anything before meeting for the street bible discovery.
 This is no teaching of scripture, rather it is a sharing of thoughts while discovering the Bible together live & on-sight.
-The saint has the power of the Holy Spirit of God in Him/Her to be a witness of Christ and proclaim His Gospel [Acts 1:8](https://my.bible.com/bible/59/ACT.1.8).
-No preparation is key of this method.
+The saint has the power of the Holy Spirit of God in Him/Her to be a witness of Christ and proclaim His Gospel [(Acts 1:8)](https://my.bible.com/bible/59/ACT.1.8).
+No preparation is key of this method: **rely on the power of the Spirit**!
 
 - **Project scope**:
    * Our team will implement this project on:
@@ -273,9 +273,9 @@ No preparation is key of this method.
    * Therefore, all the invitations will not have pre-written contact email/address, but it will have an open space so that any _saint_ can write his/her contact when handing out the invitation.
    Our team will write the contact number/email when we hand out the invitations at the end of our conversation.
    * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 3)](#arrow_chart): where are you?
-   * _Saints_ can encourage/help _one another_ ([Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)) to know God more and grow in their path of becoming a disciple-maker.
+   * _Saints_ can encourage/help _one another_ [[Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)] to know God more and grow in their path of becoming a disciple-maker.
 
-> “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
+> “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the **Lord of the harvest** to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
 
 ------------------------------------------------------------------
 # Project management
