@@ -22,9 +22,9 @@ The Street Bible-Discovery project
 - [Project management](#project-management)
 	- [Milestones](#milestones)
 - [The Street Bible Discovery](#the-street-bible-discovery)
-	- [א - Alef discovery](#-alef-discovery)
-	- [ב - Bet discovery](#-bet-discovery)
-	- [ג - Gimel discovery](#-gimel-discovery)
+	- [א Alef discovery](#-alef-discovery)
+	- [ב Bet discovery](#-bet-discovery)
+	- [ג Gimel discovery](#-gimel-discovery)
 - [Acronyms](#acronyms)
 - [References](#references)
 - [Footnotes](#footnotes)
@@ -293,9 +293,9 @@ No preparation is key.
 The project intends to provide a framework to discover God and the Bible with non-believers, through reading together the Gospel of John.
 For the time being, only the **Alef discovery** will be launched to the streets and to acquaintances.
 All other following _bible discovery_ programs are described here, but they will be launched to the streets only if/when the _Lord of the Harvest_ [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38) provides growth of the first Alef seeds.
-Yet we encourage others who have fellow saints in other stages of the disciple-maker path, to use this framework to grow together into maturity of disciple-makers.
+Yet we encourage others who have fellow saints who are in other stages of the disciple-maker path, to use this framework to grow together into maturity of disciple-makers by going trough the [ב - Bet discovery](#-bet-discovery) or the [ג - Gimel discovery](#-gimel-discovery).
 
-## א - Alef discovery
+## א Alef discovery
 
 * **Central topic**: The Gospel
 * **Expected learning outcome**: Understand the Gospel (the good news)
@@ -312,7 +312,7 @@ Yet we encourage others who have fellow saints in other stages of the disciple-m
 * The invitation to the Alef discovery  
 ![alef_invitation](images/alef_invitation.png)
 
-## ב - Bet discovery
+## ב Bet discovery
 
 * **Central topic**: The character of God: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
 * **Expected learning outcome**: Know God + self-reading of bible for participants.
@@ -328,7 +328,7 @@ Yet we encourage others who have fellow saints in other stages of the disciple-m
 | B6  | Bet 6   | The character of God | Why Jesus is the Way, the Truth, and the life? | John 14:1-13  |
 | B7  | Bet 7   | The character of God | Why Jesus is the Vine?                         | John 15:1-17  |
 
-## ג - Gimel discovery
+## ג Gimel discovery
 
 * **Central topic**: Based on the elementary doctrines of [Hebrews 6:1-2 ](https://my.bible.com/bible/59/HEB.6.1-2).
 * **Expected learning outcome**: Stand firm on the elementary doctrines of Christianity.
