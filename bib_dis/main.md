@@ -2,7 +2,7 @@
 Project name: Street Bible-Discovery
 Author: The disciple who loves Jesus
 Date: 7 Oct 2022
-Current version: v0.2i
+Current version: v1 (M3)
 ---
 
 The Street Bible-Discovery project
@@ -206,21 +206,6 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
       * Pray for each other.
       * Pray for the people who we shared what we learned last week.
 
-- **Dynamic of the Group**:
-The _saints_ are referred to as moderators in this sessions.
-We as moderators need to remember that we are reading the bible with _non-believers_.
-This is a different setting as the normal _church_ setting, for this is NOT a _bible study_ but rather a _bible discovery_.
-In these discovery-sessions all participants are invited to share their opinion about scripture without retaliation, but rather with tolerance, humbleness, and kindness we are all called to share our interpretation of scripture.
-Active involvement of all participants is needed, included the moderators as just participants.
-Remember in this group setting there is no stablished _order_, as we are all reading and discovering the Word of the Lord together.
-We have to tolerate the opinion of the _lost_, yet always being ready to respectfully, kindly, and gently give a defense for the reason of the hope that is in us [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15).
-
-   * Beware of divisions among the moderators, for satan will do anything to divide the team in order to stop the reading of the Word with the _lost_. Be wise as serpents and innocent as doves,
-
->'Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. '[(1 Peter 4:12)](https://my.bible.com/bible/59/1PE.4.12)
->'but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ' [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15)
-> ' “Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves. ' [(Matthew 10:16)](https://my.bible.com/bible/59/MAT.10.16)
-
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
    * 1 session per week.
@@ -244,8 +229,23 @@ As needed by the person we will adapt:
    * English - main language for conversation
    * German - for conversation & bible reading
 
+- **Dynamic of the Group**:
+The _saints_ are referred to as moderators in this sessions.
+We as moderators need to remember that we are reading the bible with _non-believers_.
+This is a different setting as the normal _church_ setting, for this is NOT a _bible study_ but rather a _bible discovery_.
+In these discovery-sessions all participants are invited to share their opinion about scripture without retaliation, but rather with tolerance, humbleness, and kindness we are all called to share our interpretation of scripture.
+Active involvement of all participants is needed, included the moderators as just participants.
+Remember in this group setting there is no stablished _order_, as we are all reading and discovering the Word of the Lord together.
+We have to tolerate the opinion of the _lost_, yet always being ready to respectfully, kindly, and gently give a defense for the reason of the hope that is in us [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15).
+
+   * Beware of divisions among the moderators, for satan will do anything to divide the team in order to stop the reading of the Word with the _lost_. Be wise as serpents and innocent as doves,
+
+>'Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. '[(1 Peter 4:12)](https://my.bible.com/bible/59/1PE.4.12)
+>'but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ' [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15)
+> ' “Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves. ' [(Matthew 10:16)](https://my.bible.com/bible/59/MAT.10.16)
+
 - **Group size**:
-All the street bible-discovery concept needs is: 1 saint + 1 lost + 1 Holy Spirit + 1 invitation.
+All the street bible-discovery concept needs is: 1 saint with The Holy Spirit + 1 lost + 1 mini-Gospel of John + 1 invitation.
 Actually the invitation is not needed in the long run, but it provides a starter-framework for the saint to follow in order to initially share the main milestones of the Gospel with the lost.
 Usually, saints do not know where to start or what topics to discuss with an un-believer, therefore the [א - Alef discovery](#-alef-discovery) is only a topic and scripture guide that goes through the core milestones of the Gospel.
 Specifically in our team, at the least one member of the core team should be present in every session, but better is both as the **unity of the body-of-Christ** is a great testimony to non-beliers, as ordained by Jesus Christ himself [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23) and proven by past experiences.
