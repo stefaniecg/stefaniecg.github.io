@@ -176,7 +176,22 @@ The prayer is that people repent and become believers at any time. Then we stop 
 
 - **Structure of bible discovery meetings**:
 The structure is a slightly modified version of the original bible discovery [|8|](#references).
-The structure has 5 phases, each should last around 10 minutes, to make a total of 50 minutes for the whole session.
+The structure has 5 phases, each should last around 10 minutes, to make a total of ~50 minutes for the whole session.
+
+| id  | phase                    | time | aim                                                                                                       |
+| --- | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------- |
+| p0  | Inaugural Prayer         | -    | Inaugural short-prayer: ask for **Spirit guidance**                                                       |
+| p1  | Exchange & Retrospective | 10   | What have you **experienced**, **implemented**, **shared** from last time's discovery?                    |
+| p2  | Scripture                | 10   | **Read** the Word of God together                                                                         |
+| p3  | Discovery                | 15   | What did you **noticed**, **liked**, **bothered** in the text? What can you **learn** about God & humans? |
+| p4  | Application              | 10   | Does it change: think about God? my life? what to **do**/**moved** you?                                   |
+| p5  | Prayer                   | 2    | **focused** short prayer                                                                                  |
+
+   0. **Inaugural prayer**
+      * Ask for guidance of the Spirit of God
+      * Only one person prays, usually one of the moderators.
+      * Keep it very short, maximum 20 seconds.
+      * Non believers are not ready to endure long prayers.
    1. **Exchange & Retrospective** - [Austauschen + Ruckblick]
       * What did you experience with God this week and what are you thankful for?
       * Where do you need God's help?
@@ -184,6 +199,7 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
       * What have you implemented since the last meeting from what you learned?
       * Have you shared what you've discovered in these sessions with someone? What are your next steps with them?
       * Who have you told about an experience of God? Have you prayed with someone?
+      * => MAKE NOTES TO PRAY AT LAST
    2. **Scripture** - [Lesen]
       * We all take turns to read the bible verses out laud for the group.
       * With closed Bibles, one after the other, we all retell the story of the text in our own words.
@@ -205,6 +221,7 @@ The structure has 5 phases, each should last around 10 minutes, to make a total 
          - Y - Yield - Surrender your life to following Jesus wherever and however He leads you.
       * Pray for each other.
       * Pray for the people who we shared what we learned last week.
+      * All can pray, keep it short, maximum 2 minutes in total.
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
