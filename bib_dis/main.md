@@ -299,15 +299,15 @@ No preparation is key of this method: **rely on the power of the Spirit**!
 
 ## Milestones
 
-| id  | milestone              | date        | description                                                                   |
-| --- | ---------------------- | ----------- | ----------------------------------------------------------------------------- |
-| M0  | project kickoff        | 7 Oct 2022  | Launch of the Project                                                         |
-| M1  | project specification  | 10 Oct 2022 | Write the project concept                                                     |
-| M2  | design invitation      | 29 Oct 2022 | Design an invitation to the bible discovery and provide a contact email       |
-| M3  | peer-review            | on-going    | Ask for feedback from selected peers                                          |
-| M4  | project launch         | ?           | Take it to the streets                                                        |
-| M5  | project implementation | 7 Nov 2022  | Start the first Alef sessions                                                 |
-| M6  | material production    | ?           | Print invitations, order mini John's Gospel, and set-up contact email address |
+| id  | milestone              | date        | description                                                            |
+| --- | ---------------------- | ----------- | ---------------------------------------------------------------------- |
+| M0  | project kickoff        | 7 Oct 2022  | Launch of the Project                                                  |
+| M1  | project specification  | 10 Oct 2022 | Write the project concept                                              |
+| M2  | design invitation      | 29 Oct 2022 | Design an invitation to the bible discovery and set-up a contact email |
+| M3  | peer-review            | 6 Nov 2022  | Ask for feedback from selected peers                                   |
+| M4  | project launch         | ?           | Take it to the lost                                                    |
+| M5  | project implementation | 8 Nov 2022  | Start the first Alef sessions                                          |
+| M6  | material production    | ?           | Print invitations, order mini John's Gospel                            | 
 
 ------------------------------------------------------------------
 # The Street Bible Discovery
