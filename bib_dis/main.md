@@ -305,7 +305,7 @@ No preparation is key of this method: **rely on the power of the Spirit**!
 | M1  | project specification  | 10 Oct 2022 | Write the project concept                                              |
 | M2  | design invitation      | 29 Oct 2022 | Design an invitation to the bible discovery and set-up a contact email |
 | M3  | peer-review            | 6 Nov 2022  | Ask for feedback from selected peers                                   |
-| M4  | project launch         | ?           | Blessing of the Lord                                                   | 
+| M4  | project launch         | ?           | Blessing of the Lord                                                   |
 | M5  | project implementation | 8 Nov 2022  | Start the first Alef sessions                                          |
 | M6  | material production    | ?           | Print invitations, order mini John's Gospel                            |
 
@@ -327,7 +327,7 @@ Yet we encourage others who have fellow saints who are in other stages of the di
 | --- | ------- | ----------------------------------------------------- | ----------------------------- | --------------------- |
 | A1  | Alef 1  | The character of God                                  | Who is Christ?                | John 1:1-18           |
 | A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?               | John 4:1-29           |
-| A3  | Alef 3  | The sufficiency of Christ                             | Why did Jesus died?           | John 1:29-36; 3:14-17 |
+| A3  | Alef 3  | The sufficiency of Christ                             | Why did Jesus die?           | John 1:29-36; 3:14-17 |
 | A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God? | John 3:1-8            |
 | A5  | Alef 5  | The urgency of eternity                               | Does everyone go to heaven?   | John 3:18-21          |
 
