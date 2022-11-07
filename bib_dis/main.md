@@ -174,11 +174,13 @@ But if the Spirit leads to older people there will be no problem.
    6. At the end, invite for next 7 _Bet bible discovery_ sessions.
 The prayer is that people repent and become believers at any time. Then we stop and they become part of the family, be baptized and come to our regular bible study bi-weekly meetings.
 
-- **Structure of bible discovery meetings**:
+- **Structure of meetings**:
 The structure is a slightly modified version of the original bible discovery [|8|](#references).
-The structure has 5 phases, each should last around 10 minutes, to make a total of ~50 minutes for the whole session.
+The structure has 5 segments, each should last around 10 minutes, to make a total of ~50 minutes for the whole session.
 
-| id  | phase                    | time | aim                                                                                                       |
+__Table 1__ - Structure of the street bible discovery meetings
+
+| id  | segment                  | time | aim                                                                                                       |
 | --- | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------- |
 | p0  | Inaugural Prayer         | -    | Inaugural short-prayer: ask for **Spirit guidance**                                                       |
 | p1  | Exchange & Retrospective | 10   | What have you **experienced**, **implemented**, **shared** from last time's discovery?                    |
@@ -299,27 +301,46 @@ No preparation is key of this method: **rely on the power of the Spirit**!
 
 ## Milestones
 
-| id  | milestone              | date        | description                                                            |
-| --- | ---------------------- | ----------- | ---------------------------------------------------------------------- |
-| M0  | project kickoff        | 7 Oct 2022  | Launch of the Project                                                  |
-| M1  | project specification  | 10 Oct 2022 | Write the project concept                                              |
-| M2  | design invitation      | 29 Oct 2022 | Design an invitation to the bible discovery and set-up a contact email |
-| M3  | peer-review            | 6 Nov 2022  | Ask for feedback from selected peers                                   |
-| M4  | project launch         | ?           | Blessing of the Lord                                                   |
-| M5  | project implementation | 8 Nov 2022  | Start the first Alef sessions                                          |
-| M6  | material production    | ?           | Print invitations, order mini John's Gospel                            |
+__Table 2__ - Milestones of the street bible discovery project
+
+| id  | milestone                    | date        | description                                                            |
+| --- | ---------------------------- | ----------- | ---------------------------------------------------------------------- |
+| M0  | project kickoff              | 7 Oct 2022  | Launch of the Project                                                  |
+| M1  | project specification        | 10 Oct 2022 | Write the project concept                                              |
+| M2  | design invitation            | 29 Oct 2022 | Design an invitation to the bible discovery and set-up a contact email |
+| M3  | peer-review                  | 6 Nov 2022  | Ask for feedback from selected peers                                   |
+| M4  | project launch - **phase 1** | ?           | Blessing of the _Lord of the Harvest_                                  |
+| M5  | phase implementation         | 8 Nov 2022  | Start the first **Alef discovery**                                     |
+| M6  | phase material production    | ?           | Print invitations, order mini John's Gospel                            |
+| M7  | phase launch - **phase 2**   | sby         | Request by the _Lord of the Harvest_                                   |
+| M8  | phase implementation         | sby         | Start the first **Bet discovery**                                      |
+| M9  | phase material production    | sby         | Print invitations, order mini John's Gospel                            |
+| ... | ...                          | ...         | ...                                                                    |
 
 ------------------------------------------------------------------
 # The Street Bible Discovery
 
+The Street Bible Discovery entails of 6 discovery programs, each program focuses on a specific call as instructed by Jesus Christ and described in [Figure 3](#arrow_chart) and Table 3.
 The project intends to provide a framework to discover God and the Bible with non-believers, through reading together the Gospel of John.
 For the time being, only the **Alef discovery** will be launched to the streets and to acquaintances.
 All other following _bible discovery_ programs are described here, but they will be launched to the streets only if/when the _Lord of the Harvest_ [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38) provides growth of the first Alef seeds.
 Yet we encourage others who have fellow saints who are in other stages of the disciple-maker path, to use this framework to grow together into maturity of disciple-makers by going trough the [ב - Bet discovery](#-bet-discovery) or the [ג - Gimel discovery](#-gimel-discovery).
 
+__Table 3__ - Summary of the street bible discovery project
+
+| id   | discovery            | calling                                                                                           | focus topic              | aim stage [(Figure 3)](#arrow_chart) | status   |
+| ---- | -------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------ | -------- |
+| sBD1 | א - Alef discovery   | C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)                     | The Gospel               | Connected lost                       | on-going |
+| sBD2 | ב - Bet discovery    | C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)                 | Turn and look at Him     | Believer                             | sby      |
+| sBD3 | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             | sby      |
+| sBD4 | ד‎ - Dalet discovery  | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)          | Discipleship Jesus-style | Disciple                             | sby      |
+| sBD5 | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       | sby      |
+| sBD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           | sby      |
+
 ## א - Alef discovery
 
-* **Central topic**: The Gospel
+* **The calling**: C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)
+* **Focus topic**: The Gospel
 * **Expected learning outcome**: Understand the Gospel (the good news)
 * **Moderator**:  Charles & Stefanie
 
@@ -327,16 +348,17 @@ Yet we encourage others who have fellow saints who are in other stages of the di
 | --- | ------- | ----------------------------------------------------- | ----------------------------- | --------------------- |
 | A1  | Alef 1  | The character of God                                  | Who is Christ?                | John 1:1-18           |
 | A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?               | John 4:1-29           |
-| A3  | Alef 3  | The sufficiency of Christ                             | Why did Jesus die?           | John 1:29-36; 3:14-17 |
+| A3  | Alef 3  | The sufficiency of Christ                             | Why did Jesus die?            | John 1:29-36; 3:14-17 |
 | A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God? | John 3:1-8            |
 | A5  | Alef 5  | The urgency of eternity                               | Does everyone go to heaven?   | John 3:18-21          |
 
 * The invitation to the Alef discovery  
 ![alef_invitation](images/alef_invitation.png)
 
-## ב - Bet discovery
+## ב - Bet discovery (work in progress)
 
-* **Central topic**: The character of God: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
+* **The calling**: C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)  
+* **Focus topic**: Turn and look at Him: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
 * **Expected learning outcome**: Know God + self-reading of bible for participants.
 * **Moderator**: We all rotate the leading of the session with pre-prepared questions, including participants.
 
@@ -350,10 +372,11 @@ Yet we encourage others who have fellow saints who are in other stages of the di
 | B6  | Bet 6   | The character of God | Why Jesus is the Way, the Truth, and the life? | John 14:1-13  |
 | B7  | Bet 7   | The character of God | Why Jesus is the Vine?                         | John 15:1-17  |
 
-## ג - Gimel discovery
+## ג - Gimel discovery (work in progress)
 
-* **Central topic**: Based on the elementary doctrines of [Hebrews 6:1-2 ](https://my.bible.com/bible/59/HEB.6.1-2).
-* **Expected learning outcome**: Stand firm on the elementary doctrines of Christianity.
+* **The calling**: C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)
+* **Focus topic**: Based on the elementary doctrines of [Hebrews 6:1-2 ](https://my.bible.com/bible/59/HEB.6.1-2).
+* **Expected learning outcome**: Stand firm on the elementary doctrines of Christianity: follow Christ.
 * **Moderator**: We all rotate the leading of the session with pre-prepared questions, including participants.
 
 | id  | session | topic                | question                           | scriptures |
@@ -365,9 +388,22 @@ Yet we encourage others who have fellow saints who are in other stages of the di
 | G5  | Gimel 5 | Elementary doctrines | What is resurrection of the death? |            |
 | G6  | Gimel 6 | Elementary doctrines | What is eternal judgement?         |            |
 
+## ד‎ - Dalet discovery (work in progress)
+
+* **The calling**: C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)
+
+## ה‎ - He discovery (work in progress)
+
+* **The calling**: C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)
+
+## ו - Waw discovery (work in progress)
+
+* **The calling**: C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
+
 ------------------------------------------------------------------
 # Acronyms
 - SoM: State of the Ministry
+- sBD: Street Bible Discovery
 
 ------------------------------------------------------------------
 # References
