@@ -214,7 +214,7 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
       * All can pray, keep it short, maximum 2 minutes in total.
 
       __Table 1__ - Structure of the street bible discovery meetings
-      
+
       | id  | segment                  | time | aim                                                                                                       |
       | --- | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------- |
       | p0  | Inaugural Prayer         | -    | Inaugural short-prayer: ask for **Spirit guidance**                                                       |
@@ -327,14 +327,14 @@ Yet we encourage others who have fellow saints who are in other stages of the di
 
 __Table 3__ - Summary of the street bible discovery project
 
-| id   | discovery            | calling                                                                                           | focus topic              | aim stage [(Figure 3)](#arrow_chart) | status   |
-| ---- | -------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------ | -------- |
-| sBD1 | א - Alef discovery   | C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)                     | The Gospel               | Connected lost                       | on-going |
-| sBD2 | ב - Bet discovery    | C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)                 | Turn and look at Him     | Believer                             | sby      |
-| sBD3 | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             | sby      |
-| sBD4 | ד‎ - Dalet discovery  | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)          | Discipleship Jesus-style | Disciple                             | sby      |
-| sBD5 | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       | sby      |
-| sBD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           | sby      |
+| id   | discovery            | calling                                                                                           | focus topic              | aim stage [(Figure 3)](#arrow_chart) |
+| ---- | -------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------ |
+| sBD1 | א - Alef discovery   | C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)                     | The Gospel               | Connected lost                       |
+| sBD2 | ב - Bet discovery    | C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)                 | Turn and look at Him     | Believer                             |
+| sBD3 | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             |
+| sBD4 | ד‎ - Dalet discovery  | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)          | Discipleship Jesus-style | Disciple                             |
+| sBD5 | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       |
+| sBD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           | 
 
 ## א - Alef discovery
 
