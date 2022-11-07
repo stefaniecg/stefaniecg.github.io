@@ -11,4 +11,4 @@
 
 ## References
 
-[1] Johannes-Evangelium. Elberfelder Übersetzung. Verbreitung der Heiligen Schrift e.V., D-35713 Eschenburg [|Available online|](https://www.vdhs.de/index.php?shop.article.884&tax=11357)
+[1] Johannes-Evangelium. Elberfelder Übersetzung. Verbreitung der Heiligen Schrift e.V., D-35713 Eschenburg [(Available online)](https://www.vdhs.de/index.php?shop.article.884&tax=11357)
