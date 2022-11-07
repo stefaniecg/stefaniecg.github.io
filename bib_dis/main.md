@@ -91,7 +91,7 @@ The two charts previously discussed are related through the diagram shown in [Fi
 - _Phase 4_: Expanded outreach
 - **M3** - Appointment of the twelve [(Mark 3:13-19)](https://my.bible.com/bible/59/MRK.3.13-19)
 - _Phase 5_: Leadership multiplication
-- **M4** - Death & Resurrection [(Matthew 27:50)](https://my.bible.com/bible/59/MAT.27.50), [(Matthew 28:9)](https://my.bible.com/bible/59/MAT.28.9)
+- **M4** - Death, Resurrection & Ascension [(Matthew 27:50)](https://my.bible.com/bible/59/MAT.27.50), [(Matthew 28:9)](https://my.bible.com/bible/59/MAT.28.9), [(Acts 1:9)](https://my.bible.com/bible/59/ACT.1.9)
 - _Phase 6_: The **Movement** of Multiplying disciples
 
 **Jesus's callings and people stages while moving through the disciple-maker path**: [(Figure 3)](#arrow_chart)
@@ -305,9 +305,9 @@ No preparation is key of this method: **rely on the power of the Spirit**!
 | M1  | project specification  | 10 Oct 2022 | Write the project concept                                              |
 | M2  | design invitation      | 29 Oct 2022 | Design an invitation to the bible discovery and set-up a contact email |
 | M3  | peer-review            | 6 Nov 2022  | Ask for feedback from selected peers                                   |
-| M4  | project launch         | ?           | Take it to the lost                                                    |
+| M4  | project launch         | ?           | Blessing of the Lord                                                   | 
 | M5  | project implementation | 8 Nov 2022  | Start the first Alef sessions                                          |
-| M6  | material production    | ?           | Print invitations, order mini John's Gospel                            | 
+| M6  | material production    | ?           | Print invitations, order mini John's Gospel                            |
 
 ------------------------------------------------------------------
 # The Street Bible Discovery
