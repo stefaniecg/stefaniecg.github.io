@@ -214,6 +214,7 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
       * All can pray, keep it short, maximum 2 minutes in total.
 
       __Table 1__ - Structure of the street bible discovery meetings
+      
       | id  | segment                  | time | aim                                                                                                       |
       | --- | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------- |
       | p0  | Inaugural Prayer         | -    | Inaugural short-prayer: ask for **Spirit guidance**                                                       |
