@@ -237,6 +237,7 @@ Alef sessions would be finished in 5 weeks.
 We intend this meeting to be informal, therefore we will meet at:
    * Rapoldipark (if warm enough)
    * Sill park lounge (if too cold)
+   * or wherever the Lord leads us to
 
 - **Bible translation**:
    * We have been using the Johannes-Evangelium, the Elberfelder Übersetzung [(6)](#references),
@@ -308,10 +309,10 @@ __Table 2__ - Milestones of the street bible discovery project
 | M1  | project specification        | 10 Oct 2022 | Write the project concept                                              |
 | M2  | design invitation            | 29 Oct 2022 | Design an invitation to the bible discovery and set-up a contact email |
 | M3  | peer-review                  | 6 Nov 2022  | Ask for feedback from selected peers                                   |
-| M4  | project launch - **phase 1** | ?           | Blessing of the _Lord of the Harvest_                                  |
-| M5  | phase implementation         | 8 Nov 2022  | Start the first **Alef discovery**                                     |
-| M6  | phase material production    | ?           | Print invitations, order mini John's Gospel                            |
-| M7  | phase launch - **phase 2**   | sby         | Request by the _Lord of the Harvest_                                   |
+| M4  | project launch - **phase 1** | 6 Nov 2022  | Blessing of the _Lord of the Harvest_                                  |
+| M5  | phase material production    | 7 Nov 2022  | Print invitations, order mini John's Gospel                            |
+| M6  | phase implementation         | 8 Nov 2022  | Start the first **Alef discovery**                                     |
+| M7  | phase launch - **phase 2**   | sby         | Wait for the _Lord of the Harvest_                                     |
 | M8  | phase implementation         | sby         | Start the first **Bet discovery**                                      |
 | M9  | phase material production    | sby         | Print invitations, order mini John's Gospel                            |
 | ... | ...                          | ...         | ...                                                                    |
@@ -334,7 +335,7 @@ __Table 3__ - Summary of the street bible discovery project
 | sBD3 | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             |
 | sBD4 | ד‎ - Dalet discovery  | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)          | Discipleship Jesus-style | Disciple                             |
 | sBD5 | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       |
-| sBD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           | 
+| sBD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           |
 
 ## א - Alef discovery
 
