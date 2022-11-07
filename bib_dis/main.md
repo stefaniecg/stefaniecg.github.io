@@ -177,18 +177,6 @@ The prayer is that people repent and become believers at any time. Then we stop 
 - **Structure of meetings**:
 The structure is a slightly modified version of the original bible discovery [|8|](#references).
 The structure has 5 segments, each should last around 10 minutes, to make a total of ~50 minutes for the whole session.
-
-__Table 1__ - Structure of the street bible discovery meetings
-
-| id  | segment                  | time | aim                                                                                                       |
-| --- | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------- |
-| p0  | Inaugural Prayer         | -    | Inaugural short-prayer: ask for **Spirit guidance**                                                       |
-| p1  | Exchange & Retrospective | 10   | What have you **experienced**, **implemented**, **shared** from last time's discovery?                    |
-| p2  | Scripture                | 10   | **Read** the Word of God together                                                                         |
-| p3  | Discovery                | 15   | What did you **noticed**, **liked**, **bothered** in the text? What can you **learn** about God & humans? |
-| p4  | Application              | 10   | Does it change: think about God? my life? what to **do**/**moved** you?                                   |
-| p5  | Prayer                   | 2    | **focused** short prayer                                                                                  |
-
    0. **Inaugural prayer**
       * Ask for guidance of the Spirit of God
       * Only one person prays, usually one of the moderators.
@@ -224,6 +212,16 @@ __Table 1__ - Structure of the street bible discovery meetings
       * Pray for each other.
       * Pray for the people who we shared what we learned last week.
       * All can pray, keep it short, maximum 2 minutes in total.
+
+      __Table 1__ - Structure of the street bible discovery meetings
+      | id  | segment                  | time | aim                                                                                                       |
+      | --- | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------- |
+      | p0  | Inaugural Prayer         | -    | Inaugural short-prayer: ask for **Spirit guidance**                                                       |
+      | p1  | Exchange & Retrospective | 10   | What have you **experienced**, **implemented**, **shared** from last time's discovery?                    |
+      | p2  | Scripture                | 10   | **Read** the Word of God together                                                                         |
+      | p3  | Discovery                | 15   | What did you **noticed**, **liked**, **bothered** in the text? What can you **learn** about God & humans? |
+      | p4  | Application              | 10   | Does it change: think about God? my life? what to **do**/**moved** you?                                   |
+      | p5  | Prayer                   | 2    | **focused** short prayer                                                                                  |
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
