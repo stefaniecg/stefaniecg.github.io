@@ -124,7 +124,7 @@ _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were ad
 
 > 'And they devoted themselves to the apostles’ **teaching** and the **fellowship**, to the **breaking of bread** and the **prayers**. ' [(Acts 2:42)](https://my.bible.com/bible/59/ACT.2.42)
 
-The mission is to connect and win the _lost_ to evangelize, build the _believer_ to edify, train the _disciple_ by equipping him/her, and send the _disciple-maker_ to make more disciples.
+The task is to connect and win the _lost_ to evangelize, build the _believer_ to edify, train the _disciple_ by equipping him/her, and send the _disciple-maker_ to make more disciples.
 
 |                                                                |                 | person               | to  ... him/her,    | (focus) so that he/she...                                                                             |
 | -------------------------------------------------------------- | --------------- | -------------------- | ------------------- | ----------------------------------------------------------------------------------------------------- |
