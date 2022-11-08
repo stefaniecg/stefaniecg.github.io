@@ -116,22 +116,22 @@ The two charts previously discussed are related through the diagram shown in [Fi
 
 _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were added by the author, in comparison to the original Shiftm2M diagram.
 
-## The mission
+## The task
 
 > “The time is fulfilled, and the **kingdom of God** is at hand; **repent** and **believe** in the **gospel**.” ' [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15)
 
->“All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, **I am with you** always, to the end of the age.” [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
+>“All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations [(ἔθνη)](https://biblehub.com/greek/1484.htm), baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, **I am with you** always, to the end of the age.” [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
 
 > 'And they devoted themselves to the apostles’ **teaching** and the **fellowship**, to the **breaking of bread** and the **prayers**. ' [(Acts 2:42)](https://my.bible.com/bible/59/ACT.2.42)
 
 The mission is to connect and win the _lost_ to evangelize, build the _believer_ to edify, train the _disciple_ by equipping him/her, and send the _disciple-maker_ to make more disciples.
 
-|                                                     |                 | person               | to                  | focus on                                    |
-| --------------------------------------------------- | --------------- | -------------------- | ------------------- | ------------------------------------------- |
-| **Evangelism**                                      | Connect and win | the _lost_           | evangelize          | the good news                               |
-| [**Ekklésia**](https://biblehub.com/greek/1577.htm) | Build           | the _believer_       | edify (growth)      | know Him                                    |
-| **Discipleship**                                    | Train           | the _disciple_       | equip (disciple)    | practical training for the work of ministry |
-| **Mission**                                         | Send            | the _disciple-maker_ | make more disciples | the expansion of the Kingdom of God         |
+|                                                                |                 | person               | to  ... him/her,    | (focus) so that he/she...                                                                             |
+| -------------------------------------------------------------- | --------------- | -------------------- | ------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Evangelism**                                                 | Connect and win | the _lost_           | evangelize          | understands the good news of the Gospel [(εὐαγγέλιον)](https://biblehub.com/greek/2098.htm) .         |
+| **Ekklésia** [(ἐκκλησία)](https://biblehub.com/greek/1577.htm) | Build           | the _believer_       | edify (growth)      | knows [(γινώσκω)](https://biblehub.com/greek/1097.htm) Him.                                           |
+| **Discipleship**                                               | Train           | the _disciple_       | equip (disciple)    | gets _practical_ training for the work of ministry [(διακονία)](https://biblehub.com/greek/1248.htm). |
+| **Mission**                                                    | Send            | the _disciple-maker_ | make more disciples | works for the expansion of the Kingdom [(βασιλεία)](https://biblehub.com/greek/932.htm) of God.       |
 
 ---
 __Figure 2__ - The _Ramp Chart_: Jesus Ministry, the process for building a disciple-makers movement [|3|](#references)
