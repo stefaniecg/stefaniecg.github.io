@@ -1,8 +1,7 @@
 ---
 Project name: Street Bible-Discovery
 Author: The disciple who loves Jesus
-Date: 7 Oct 2022
-Current version: v1 (M3)
+Kick-off date: 7 Oct 2022
 ---
 
 The Street Bible-Discovery project
@@ -18,13 +17,17 @@ The Street Bible-Discovery project
 	- [A priori](#a-priori)
 	- [The Gap](#the-gap)
 	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
+	- [The mission](#the-mission)
 - [Project description](#project-description)
 - [Project management](#project-management)
 	- [Milestones](#milestones)
 - [The Street Bible Discovery](#the-street-bible-discovery)
 	- [א - Alef discovery](#-alef-discovery)
-	- [ב - Bet discovery](#-bet-discovery)
-	- [ג - Gimel discovery](#-gimel-discovery)
+	- [ב - Bet discovery (WiP)](#-bet-discovery-wip)
+	- [ג - Gimel discovery (WiP)](#-gimel-discovery-wip)
+	- [ד‎ - Dalet discovery (WiP)](#-dalet-discovery-wip)
+	- [ה‎ - He discovery (WiP)](#-he-discovery-wip)
+	- [ו - Waw discovery (WiP)](#-waw-discovery-wip)
 - [Acronyms](#acronyms)
 - [References](#references)
 - [Footnotes](#footnotes)
@@ -113,7 +116,20 @@ The two charts previously discussed are related through the diagram shown in [Fi
 
 _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were added by the author, in comparison to the original Shiftm2M diagram.
 
->'And Jesus came and said to them, “All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”' [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
+## The mission
+
+> “The time is fulfilled, and the **kingdom of God** is at hand; **repent** and **believe** in the **gospel**.” ' [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15)
+
+>“All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.” [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
+
+The mission is to connect and win the _lost_ to evangelize, build the _believer_ to edify, train the _disciple_ by equipping him/her, and send the _disciple-maker_ to make more disciples.
+
+|                  |                 | person               | to                  | focus on                                    |
+| ---------------- | --------------- | -------------------- | ------------------- | ------------------------------------------- |
+| **Evangelism**   | Connect and win | the _lost_           | evangelize          | the good news                               |
+|                  | Build           | the _believer_       | edify (growth)      | know Him                                    |
+| **Discipleship** | Train           | the _disciple_       | equip (disciple)    | practical training for the work of ministry |
+| **Mission**      | Send            | the _disciple-maker_ | make more disciples | the expansion of the Kingdom of God         |
 
 ---
 __Figure 2__ - The _Ramp Chart_: Jesus Ministry, the process for building a disciple-makers movement [|3|](#references)
@@ -355,7 +371,7 @@ __Table 3__ - Summary of the street bible discovery project
 * The invitation to the Alef discovery  
 ![alef_invitation](images/alef_invitation.png)
 
-## ב - Bet discovery (work in progress)
+## ב - Bet discovery (WiP)
 
 * **The calling**: C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)  
 * **Focus topic**: Turn and look at Him: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
@@ -372,7 +388,7 @@ __Table 3__ - Summary of the street bible discovery project
 | B6  | Bet 6   | The character of God | Why Jesus is the Way, the Truth, and the life? | John 14:1-13  |
 | B7  | Bet 7   | The character of God | Why Jesus is the Vine?                         | John 15:1-17  |
 
-## ג - Gimel discovery (work in progress)
+## ג - Gimel discovery (WiP)
 
 * **The calling**: C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)
 * **Focus topic**: Based on the elementary doctrines of [Hebrews 6:1-2 ](https://my.bible.com/bible/59/HEB.6.1-2).
@@ -388,15 +404,15 @@ __Table 3__ - Summary of the street bible discovery project
 | G5  | Gimel 5 | Elementary doctrines | What is resurrection of the death? |            |
 | G6  | Gimel 6 | Elementary doctrines | What is eternal judgement?         |            |
 
-## ד‎ - Dalet discovery (work in progress)
+## ד‎ - Dalet discovery (WiP)
 
 * **The calling**: C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)
 
-## ה‎ - He discovery (work in progress)
+## ה‎ - He discovery (WiP)
 
 * **The calling**: C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)
 
-## ו - Waw discovery (work in progress)
+## ו - Waw discovery (WiP)
 
 * **The calling**: C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 
@@ -404,6 +420,7 @@ __Table 3__ - Summary of the street bible discovery project
 # Acronyms
 - SoM: State of the Ministry
 - sBD: Street Bible Discovery
+- WiP: Work in progress
 
 ------------------------------------------------------------------
 # References
