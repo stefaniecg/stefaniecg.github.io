@@ -120,7 +120,7 @@ _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were ad
 
 > “The time is fulfilled, and the **kingdom of God** is at hand; **repent** and **believe** in the **gospel**.” ' [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15)
 
->“All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.” [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
+>“All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, **I am with you** always, to the end of the age.” [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
 
 The mission is to connect and win the _lost_ to evangelize, build the _believer_ to edify, train the _disciple_ by equipping him/her, and send the _disciple-maker_ to make more disciples.
 
