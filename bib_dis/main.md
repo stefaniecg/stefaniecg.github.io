@@ -17,7 +17,7 @@ The Street Bible-Discovery project
 	- [A priori](#a-priori)
 	- [The Gap](#the-gap)
 	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
-	- [The mission](#the-mission)
+	- [The task](#the-task)
 - [Project description](#project-description)
 - [Project management](#project-management)
 	- [Milestones](#milestones)
