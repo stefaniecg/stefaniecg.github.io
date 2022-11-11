@@ -377,6 +377,8 @@ __Table 3__ - Summary of the street bible discovery project
 
 * The invitation to the Alef discovery  
 ![alef_invitation](images/alef_invitation.png)
+![alef_john](images/alef_john.png)
+
 
 ## ב - Bet discovery (WIP)
 
