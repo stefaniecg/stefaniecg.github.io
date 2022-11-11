@@ -45,10 +45,15 @@ Currently our evangelistic ministry is to make outreaches every week at Rapoldip
 Our method is to engage in one-to-one conversations with people [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
 The duration of each conversation depends on the leading of the Spirit [(Luke 12:12)](https://my.bible.com/bible/59/LUK.12.12), but it usually takes between 30 minutes to 1 hour.
 We go two-by-two [(Luke 10:1)](https://my.bible.com/bible/59/LUK.10.1) and our aim is to sow seeds [(Matthew 13:3-23)](https://my.bible.com/bible/59/MAT.13.3-23.) by presenting the Gospel.
+In one-on-one conversations with the Lost, the Gospel should always be shared in a *dialogue*, not a _monologue_ (preach).
+Always ask questions that lead to a dialogue, follow the example of Jesus Christ on one-on-one evangelism [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
+The _monologue_ version (a.k.a. preaching) leave it for big crowds.
 
 The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, Jehovas' witness, and one time a jewish person.
 
-We present the Gospel through 5 core-gospel threads [|1|](#references) (milestones) along the conversation:
+We present the Gospel through 5 core-Gospel threads [|1|](#references) (milestones) along the conversation.
+
+**The Gospel Threads**:
 1. The Character of God
 2. The Sinfulness of Man
 3. The Sufficiency of Christ
@@ -129,7 +134,7 @@ The task is to connect and win the _lost_ to evangelize, build the _believer_ to
 |                                                                |                 | person               | to                             | (focus) so that he/she...                                                                             |
 | -------------------------------------------------------------- | --------------- | -------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | **Evangelism**                                                 | Connect and win | the _lost_           | evangelize                     | understands the good news of the Gospel [(εὐαγγέλιον)](https://biblehub.com/greek/2098.htm) .         |
-| **Ekklésia** [(ἐκκλησία)](https://biblehub.com/greek/1577.htm) | Build           | the _believer_       | edify (growth)                 | knows [(γινώσκω)](https://biblehub.com/greek/1097.htm) Him.                                           | 
+| **Ekklésia** [(ἐκκλησία)](https://biblehub.com/greek/1577.htm) | Build           | the _believer_       | edify (growth)                 | knows [(γινώσκω)](https://biblehub.com/greek/1097.htm) Him.                                           |
 | **Discipleship**                                               | Train           | the _disciple_       | equip (disciple)               | gets _practical_ training for the work of ministry [(διακονία)](https://biblehub.com/greek/1248.htm). |
 | **Mission**                                                    | Send            | the _disciple-maker_ | multiply (make more disciples) | works for the expansion of the Kingdom [(βασιλεία)](https://biblehub.com/greek/932.htm) of God.       |
 
@@ -327,8 +332,8 @@ __Table 2__ - Milestones of the street bible discovery project
 | M1  | project specification        | 10 Oct 2022 | Write the project concept                                              |
 | M2  | design invitation            | 29 Oct 2022 | Design an invitation to the bible discovery and set-up a contact email |
 | M3  | peer-review                  | 6 Nov 2022  | Ask for feedback from selected peers                                   |
-| M4  | project launch - **phase 1** | 6 Nov 2022  | Blessing of the _Lord of the Harvest_                                  |
-| M5  | phase material production    | 7 Nov 2022  | Print invitations, order mini John's Gospel                            |
+| M4  | phase material production    | 7 Nov 2022  | Print invitations, order mini John's Gospel                            |
+| M5  | project launch - **phase 1** | 11 Nov 2022 | Ask for the blessing of the _Lord of the Harvest_                      |
 | M6  | phase implementation         | ?           | Start the first **Alef discovery**                                     |
 | M7  | phase launch - **phase 2**   | sby         | Wait for the _Lord of the Harvest_                                     |
 | M8  | phase implementation         | sby         | Start the first **Bet discovery**                                      |
