@@ -240,12 +240,12 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
 
 | id  | segment                  | time | aim                                                                                                               |
 | --- | ------------------------ | ---- | ----------------------------------------------------------------------------------------------------------------- |
-| p0  | Greeting                 | -    | A short-focused **prayer** (loud or in-thought): ask for the **Spirit understanding**                             |
+| -   | Greeting                 | -    | A short-focused **prayer** (loud or in-thought): ask for the **Spirit understanding**                             |
 | p1  | Exchange & Retrospective | 10   | What have you **experienced**, **implemented**, **shared** from last time's discovery?                            |
 | p2  | Scripture                | 10   | **Read** the Word of God together. **Tell the story** with closed bibles.                                         |
 | p3  | Discovery                | 20   | (a) What did you **noticed**, **liked**, **bothered** in the text? (b) What can you **learn** about God & humans? |
-| p4  | Application              | 10   | Does it change: **think** about God/your life? what to **do**/**moved** you?                                         |
-| p5  | Farewell                 | -    | A short-focused **prayer** (loud or in-thought): ask for **Spirit wisdom**                                        |
+| p4  | Application              | 10   | Does it change: **think** about God/your life? what to **do**/**moved** you?                                      |
+| -   | Farewell                 | -    | A short-focused **prayer** (loud or in-thought): ask for **Spirit wisdom**                                        |
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
