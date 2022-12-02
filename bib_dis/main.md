@@ -220,12 +220,12 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
       * Did you notice anything special in the text?
       * What do you like and what bothers you?
       * What can you learn about God and people from this text?
+      * => ANSWER THE SESSION'S QUESTION
    4. **Application** - [Anwenden]
       * How does the text change the way you think about God? And about how you live?
       * How is my interaction with other people shaped by the text?
       * What will you do with what you have learned before the next meeting?
       * Tell God in your own words what moved you.
-      * => ANSWER THE SESSION'S QUESTION
    5. **Prayer** - [Gebet]
       * PRAY acronym by David Platt [(9)](#references)  
          - P - Praise - Worship God for who He is and what He has done.
@@ -238,14 +238,14 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
 
       __Table 1__ - Structure of the street bible discovery meetings
 
-| id  | segment                  | time | aim                                                                                                               |
-| --- | ------------------------ | ---- | ----------------------------------------------------------------------------------------------------------------- |
-| -   | Greeting                 | -    | A short-focused **prayer** (loud or in-thought): ask for the **Spirit understanding**                             |
-| p1  | Exchange & Retrospective | 10   | What have you **experienced**, **implemented**, **shared** from last time's discovery?                            |
-| p2  | Scripture                | 10   | **Read** the Word of God together. **Tell the story** with closed bibles.                                         |
-| p3  | Discovery                | 20   | (a) What did you **noticed**, **liked**, **bothered** in the text? (b) What can you **learn** about God & humans? |
-| p4  | Application              | 10   | Does it change: **think** about God/your life? what to **do**/**moved** you?                                      |
-| -   | Farewell                 | -    | A short-focused **prayer** (loud or in-thought): ask for **Spirit wisdom**                                        |
+| id  | segment                  | time | aim                                                                                                                                                             |
+| --- | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -   | Greeting                 | -    | A short-focused **prayer**: ask for the **Spirit understanding**                                                                                                |
+| p1  | Exchange & Retrospective | 10   | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                        |
+| p2  | Scripture                | 10   | **Read together** the Word of God, each **read alone**, then **tell the story** with closed bibles.                                                             |
+| p3  | Discovery                | 20   | **Focus**: answer the **session question**. (a) What did you **noticed**, **liked/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? | 
+| p4  | Application              | 10   | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                    |
+| -   | Farewell                 | -    | A short-focused **prayer**: ask for **Spirit wisdom**                                                                                                           |
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
@@ -334,7 +334,7 @@ __Table 2__ - Milestones of the street bible discovery project
 | M3  | peer-review                  | 6 Nov 2022  | Ask for feedback from selected peers                                   |
 | M4  | phase material production    | 7 Nov 2022  | Print invitations, order mini John's Gospel                            |
 | M5  | project launch - **phase 1** | 11 Nov 2022 | Ask for the blessing of the _Lord of the Harvest_                      |
-| M6  | phase implementation         | ?           | Start the first **Alef discovery**                                     |
+| M6  | phase implementation         | 1 Dec 2022  | Start the first **Alef discovery**                                     |
 | M7  | phase launch - **phase 2**   | sby         | Wait for the _Lord of the Harvest_                                     |
 | M8  | phase implementation         | sby         | Start the first **Bet discovery**                                      |
 | M9  | phase material production    | sby         | Print invitations, order mini John's Gospel                            |
