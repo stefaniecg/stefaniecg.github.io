@@ -51,7 +51,7 @@ The _monologue_ version (a.k.a. preaching) leave it for big crowds.
 
 The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, Jehovas' witness, and one time a jewish person.
 
-We present the Gospel through 5 core-Gospel threads [|1|](#references) (milestones) along the conversation.
+We present the Gospel through 5 core-Gospel threads [(1)](#references) (milestones) along the conversation.
 
 **The Gospel Threads**:
 1. The Character of God
@@ -238,14 +238,14 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
 
       __Table 1__ - Structure of the street bible discovery meetings
 
-| id  | segment                  | time | aim                                                                                                                                                             |
-| --- | ------------------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| -   | Greeting                 | -    | A short-focused **prayer**: ask for the **Spirit understanding**                                                                                                |
-| p1  | Exchange & Retrospective | 10   | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                        |
-| p2  | Scripture                | 10   | **Read together** the Word of God, each **read alone**, then **tell the story** with closed bibles.                                                             |
-| p3  | Discovery                | 20   | **Focus**: answer the **session question**. (a) What did you **noticed**, **liked/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? | 
-| p4  | Application              | 10   | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                    |
-| -   | Farewell                 | -    | A short-focused **prayer**: ask for **Spirit wisdom**                                                                                                           |
+| id  | segment                  | time | aim                                                                                                                                                            |
+| --- | ------------------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -   | Greeting                 | -    | A short-focused **prayer**: ask for the **Spirit understanding**                                                                                               |
+| p1  | Exchange & Retrospective | 10   | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                       |
+| p2  | Scripture                | 10   | **Read together** the Word of God, each **read alone**, then **tell the story** with closed bibles.                                                            |
+| p3  | Discovery                | 20   | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? | 
+| p4  | Application              | 10   | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
+| -   | Farewell                 | -    | A short-focused **prayer**: ask for **Spirit wisdom**                                                                                                          |
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
