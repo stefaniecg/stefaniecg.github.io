@@ -240,12 +240,12 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
 
 | id  | segment                  | time | aim                                                                                                                                                            |
 | --- | ------------------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| -   | Greeting                 | -    | A short-focused **prayer**: ask for the **Spirit understanding**                                                                                               |
+| -   | Greeting                 | -    | A short-focused **prayer**: ask for the **Spirit understanding**.                                                                                               |
 | p1  | Exchange & Retrospective | 10   | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                       |
 | p2  | Scripture                | 10   | **Read together** the Word of God, each **read alone**, then **tell the story** with closed bibles.                                                            |
-| p3  | Discovery                | 20   | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? | 
+| p3  | Discovery                | 20   | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? |
 | p4  | Application              | 10   | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
-| -   | Farewell                 | -    | A short-focused **prayer**: ask for **Spirit wisdom**                                                                                                          |
+| -   | Farewell                 | -    | A short-focused **prayer**: ask for **Spirit wisdom** & pray for each other (Sangeet-style).                                                                |
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
