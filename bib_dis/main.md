@@ -64,10 +64,10 @@ At the end of the conversation, if the person accepts it:
 1. We give a mini Gospel of John [(6)](#references) and encourage them to read it. It is shown in [Figure 1](#gospels).
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
 
-> 'How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, “**How beautiful are the feet of those who preach the good news!**” ' [(Romans 10:14-15)](https://my.bible.com/bible/59/ROM.10.14-15)
-
 __Figure 1__ - The mini Gospel of John [(6)](#references) and also a mini Gospel of Lukas.
 ![gospels](images/gospels.jpg)
+
+> 'How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, “**How beautiful are the feet of those who preach the good news!**” ' [(Romans 10:14-15)](https://my.bible.com/bible/59/ROM.10.14-15)
 
 ## The Gap
 The goal of our ministry has always been to meet people, share the Gospel, and make disciples.
@@ -123,12 +123,6 @@ _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were ad
 
 ## The task
 
-> “The time is fulfilled, and the **kingdom of God** is at hand; **repent** and **believe** in the **gospel**.” ' [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15)
-
->“All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations [(ἔθνη)](https://biblehub.com/greek/1484.htm), baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, **I am with you** always, to the end of the age.” [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
-
-> 'And they devoted themselves to the apostles’ **teaching** and the **fellowship**, to the **breaking of bread** and the **prayers**. ' [(Acts 2:42)](https://my.bible.com/bible/59/ACT.2.42)
-
 The task is to connect and win the _lost_ to evangelize, build the _believer_ to edify, train the _disciple_ by equipping him/her, and send the _disciple-maker_ to make more disciples.
 
 |                                                                |                 | person               | to                             | (focus) so that he/she...                                                                             |
@@ -137,6 +131,12 @@ The task is to connect and win the _lost_ to evangelize, build the _believer_ to
 | **Ekklésia** [(ἐκκλησία)](https://biblehub.com/greek/1577.htm) | Build           | the _believer_       | edify (growth)                 | knows [(γινώσκω)](https://biblehub.com/greek/1097.htm) Him.                                           |
 | **Discipleship**                                               | Train           | the _disciple_       | equip (disciple)               | gets _practical_ training for the work of ministry [(διακονία)](https://biblehub.com/greek/1248.htm). |
 | **Mission**                                                    | Send            | the _disciple-maker_ | multiply (make more disciples) | works for the expansion of the Kingdom [(βασιλεία)](https://biblehub.com/greek/932.htm) of God.       |
+
+> “The time is fulfilled, and the **kingdom of God** is at hand; **repent** and **believe** in the **gospel**.” ' [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15)
+
+> “All authority in heaven and on earth has been given to me. **Go therefore and make disciples** of all nations [(ἔθνη)](https://biblehub.com/greek/1484.htm), baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, **I am with you** always, to the end of the age.” [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20)
+
+> 'And they devoted themselves to the apostles’ **teaching** and the **fellowship**, to the **breaking of bread** and the **prayers**. ' [(Acts 2:42)](https://my.bible.com/bible/59/ACT.2.42)
 
 ---
 __Figure 2__ - The _Ramp Chart_: Jesus Ministry, the process for building a disciple-makers movement [|3|](#references)
@@ -238,14 +238,14 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
 
       __Table 1__ - Structure of the street bible discovery meetings
 
-| id  | segment                  | time | aim                                                                                                                                                            |
-| --- | ------------------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| -   | Greeting                 | -    | A short-focused **prayer**: ask for the **Spirit understanding**.                                                                                               |
-| p1  | Exchange & Retrospective | 10   | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                       |
-| p2  | Scripture                | 10   | **Read together** the Word of God, each **read alone**, then **tell the story** with closed bibles.                                                            |
-| p3  | Discovery                | 20   | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? |
-| p4  | Application              | 10   | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
-| -   | Farewell                 | -    | A short-focused **prayer**: ask for **Spirit wisdom** & pray for each other (Sangeet-style).                                                                |
+| id  | segment                  | aim                                                                                                                                                            |
+| --- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -   | Greeting                 | A short-focused **prayer**: ask for the **Spirit understanding**.                                                                                              |
+| p1  | Exchange & Retrospective | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                       |
+| p2  | Scripture                | **Read together** the Word of God, each **read alone**, then **tell the story** with closed bibles.                                                            |
+| p3  | Discovery                | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? |
+| p4  | Application              | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
+| -   | Farewell                 | A short-focused **prayer**: ask for **Spirit wisdom** & pray for each other (Sangeet-style).                                                                   |
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
