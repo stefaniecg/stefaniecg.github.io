@@ -247,6 +247,9 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
 | p4  | Application              | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
 | -   | Farewell                 | A short-focused **prayer**: ask for **Spirit wisdom** & pray for each other (Sangeet-style).                                                                   |
 
+__Figure 5__ - The Bible Discovery meeting structure  
+![structure](images/bible_discovery.jpeg)  
+
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
    * 1 session per week.
