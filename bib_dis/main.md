@@ -45,20 +45,21 @@ Currently our evangelistic ministry is to make outreaches every week at Rapoldip
 Our method is to engage in one-to-one conversations with people [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
 The duration of each conversation depends on the leading of the Spirit [(Luke 12:12)](https://my.bible.com/bible/59/LUK.12.12), but it usually takes between 30 minutes to 1 hour.
 We go two-by-two [(Luke 10:1)](https://my.bible.com/bible/59/LUK.10.1) and our aim is to sow seeds [(Matthew 13:3-23)](https://my.bible.com/bible/59/MAT.13.3-23.) by presenting the Gospel.
-In one-on-one conversations with the Lost, the Gospel should always be shared in a *dialogue*, not a _monologue_ (preach).
+In one-on-one conversations with the Lost, the Gospel should always be shared in a *dialogue*, not a _monologue_ (do not preach).
 Always ask questions that lead to a dialogue, follow the example of Jesus Christ on one-on-one evangelism [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
-The _monologue_ version (a.k.a. preaching) leave it for big crowds.
+The _monologue_ version (a.k.a. preaching) we leave it for big crowds outreach.
 
 The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, Jehovas' witness, and one time a jewish person.
 
 We present the Gospel through 5 core-Gospel threads [(1)](#references) (milestones) along the conversation.
 
-**The Gospel Threads**:
+**The Gospel Threads** (_extended by scg_):
 1. The Character of God
 2. The Sinfulness of Man
 3. The Sufficiency of Christ
 4. The Necessity of Repentance, Faith, and the New birth
-5. The Urgency of Eternity
+5. The Gift of mercy and grace: restored relationship with God and His Kingdom (church family)
+6. The Urgency of Eternity
 
 At the end of the conversation, if the person accepts it:
 1. We give a mini Gospel of John [(6)](#references) and encourage them to read it. It is shown in [Figure 1](#gospels).
@@ -75,7 +76,7 @@ We succeed to share the core of the Gospel with the people, but the usual case o
 Our current SoM does not have a clearly outlined method to follow up with the people we talk to.
 Even though it is undeniable that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we do not have a method to follow up with the people.
 Through our current method we share the Gospel with the _lost_ and can know: _'Where is each person at now? (Meet them)'_, but it fails to follow up: _'What is their next step? (Move them)'_.
-We want to close the gap that by devising a clearly outlined method to follow up with the people we encounter: invite them to a follow up encounter.
+We want to close the gap that by devising a clearly outlined method to follow up with the people we encounter: give them further guideline to read by themselves and/or invite them to a follow up encounter.
 
 ## A paradigm shift: From ministries to Movements
 The **Shiftm2M** seminar [|2|](#references) teaches leadership and disciple making Jesus-style.
