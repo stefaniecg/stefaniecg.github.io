@@ -370,14 +370,16 @@ __Table 3__ - Summary of the street bible discovery project
 * **Focus topic**: The Gospel
 * **Expected learning outcome**: Understand the Gospel (the good news)
 * **Moderator**:  Charles & Stefanie
+* _Update_: a 6th session was added as Alef 5 (8 Sep 2023) to talk about the gift of mercy and grace.
 
-| id  | session | topic                                                 | question                      | scriptures            |
-| --- | ------- | ----------------------------------------------------- | ----------------------------- | --------------------- |
-| A1  | Alef 1  | The character of God                                  | Who is Christ?                | John 1:1-18           |
-| A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?               | John 4:1-29           |
-| A3  | Alef 3  | The sufficiency of Christ                             | Why did Jesus die?            | John 1:29-36; 3:14-17 |
-| A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God? | John 3:1-8            |
-| A5  | Alef 5  | The urgency of eternity                               | Does everyone go to heaven?   | John 3:18-21          |
+| id  | session | topic                                                 | question                                               | scriptures            |
+| --- | ------- | ----------------------------------------------------- | ------------------------------------------------------ | --------------------- |
+| A1  | Alef 1  | The character of God                                  | Who is Christ?                                         | John 1:1-18           |
+| A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?                                        | John 4:1-29           |
+| A3  | Alef 3  | The sufficiency of Christ                             | Why did Jesus die?                                     | John 1:29-36; 3:14-17 |
+| A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God?                          | John 3:1-8            |
+| A5  | Alef 5  | The gift of mercy and grace                           | How to restore a relationship with God and his family? | -                      |
+| A6  | Alef 6  | The urgency of eternity                               | Does everyone go to heaven?                            | John 3:18-21          |
 
 * The invitation to the Alef discovery  
 ![alef_invitation](images/alef_invitation.png)
