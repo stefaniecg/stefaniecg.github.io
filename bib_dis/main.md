@@ -51,15 +51,22 @@ The _monologue_ version (a.k.a. preaching) we leave it for big crowds outreach.
 
 The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, Jehovas' witness, and one time a jewish person.
 
-We present the Gospel through 5 core-Gospel threads [(1)](#references) (milestones) along the conversation.
+We present the Gospel through 6 core-Gospel threads [(1)](#references) (milestones) along the conversation.
+Updated to 6 core-Gospel threads on 8 Sept 2023, added the gift of grace.
 
 **The Gospel Threads** (_extended by scg_):
-1. The Character of God
-2. The Sinfulness of Man
-3. The Sufficiency of Christ
-4. The Necessity of Repentance, Faith, and the New birth
-5. The Gift of mercy and grace: restored relationship with God and His Kingdom (church family)
-6. The Urgency of Eternity
+1. The **Character of God**
+   - Creator, Holy, Just, Merciful & Gracious [(Genesis 1:1; Leviticus 19:2; Exodus 34:6)](https://www.biblegateway.com/passage/?search=Genesis+1%3A1%3B+Leviticus+19%3A2%3B+Exodus+34%3A6&version=ESV)
+2. The **Sinfulness of Man**
+   - The Law [(Romans 3:20)](https://www.biblegateway.com/passage/?search=Romans+3%3A20&version=ESV)
+3. The **Sufficiency of Christ: mercy**
+   - Propitiation/atonement by His blood [(Romans 3:24)](https://www.biblegateway.com/passage/?search=Romans+3%3A24-26&version=ESV)
+4. The **Necessity of Repentance, Faith, and the New birth**
+   - Turn from your sin, by Faith Alone, receive the Holy Spirit [(John 3:7; Acts 2:38)](https://www.biblegateway.com/passage/?search=John+3%3A7%3B+Acts+2%3A38&version=ESV)
+5. The **Gift of grace**
+   - A restored relationship with God and His Kingdom (church-family) [(Ephesians 2:14-22)](https://www.biblegateway.com/passage/?search=Ephesians+2%3A14-22&version=ESV)
+6. The **Urgency of Eternity**
+   - Heaven & hell [(Revelation 20:11-15)](https://www.biblegateway.com/passage/?search=Revelation+20%3A11-15&version=ESV)
 
 At the end of the conversation, if the person accepts it:
 1. We give a mini Gospel of John [(6)](#references) and encourage them to read it. It is shown in [Figure 1](#gospels).
@@ -116,7 +123,7 @@ The two charts previously discussed are related through the diagram shown in [Fi
 - **C4** - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)
 - _Stage 3_: The disciple (the worker in training)
 - **C5** - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)
-- _Stage 4_: The disciple-maker
+- _Stage 4_: The disciple-maker (the trainer)
 - **C6** - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 - _Stage 5_: The missionary
 
@@ -376,9 +383,9 @@ __Table 3__ - Summary of the street bible discovery project
 | --- | ------- | ----------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | A1  | Alef 1  | The character of God                                  | Who is Christ?                                         | John 1:1-18           |
 | A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?                                        | John 4:1-29           |
-| A3  | Alef 3  | The sufficiency of Christ                             | Why did Jesus die?                                     | John 1:29-36; 3:14-17 |
+| A3  | Alef 3  | The sufficiency of Christ: mercy                      | Why did Jesus die?                                     | John 1:29-36; 3:14-17 |
 | A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God?                          | John 3:1-8            |
-| A5  | Alef 5  | The gift of mercy and grace                           | How to restore a relationship with God and his family? | -                      |
+| A5  | Alef 5  | The gift of grace                                     | How to restore a relationship with God and his family? | -                     |
 | A6  | Alef 6  | The urgency of eternity                               | Does everyone go to heaven?                            | John 3:18-21          |
 
 * The invitation to the Alef discovery  
