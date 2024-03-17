@@ -2,6 +2,7 @@
 Project name: Street Bible-Discovery
 Author: The disciple who loves Jesus
 Kick-off date: 7 Oct 2022
+Last update: 17 Mar 2024
 ---
 
 The Street Bible-Discovery project
@@ -13,14 +14,14 @@ The Street Bible-Discovery project
 **TABLE OF CONTENT**:
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [The State-of-the-Ministry](#the-state-of-the-ministry)
-	- [A priori](#a-priori)
+- [Introduction](#introduction)
+	- [The State-of-the-Ministry](#the-state-of-the-ministry)
 	- [The Gap](#the-gap)
+- [Background](#background)
 	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
 	- [The task](#the-task)
-- [Project description](#project-description)
-- [Project management](#project-management)
-	- [Milestones](#milestones)
+- [Method](#method)
+	- [Project management](#project-management)
 - [The Street Bible Discovery](#the-street-bible-discovery)
 	- [א - Alef discovery](#-alef-discovery)
 	- [ב - Bet discovery (WIP)](#-bet-discovery-wip)
@@ -38,23 +39,24 @@ The Street Bible-Discovery project
 Corresponding author: [stefaniecg@icloud.com](mailto:stefaniecg@icloud.com)
 
 ------------------------------------------------------------------
-# The State-of-the-Ministry
+# Introduction
 
-## A priori
-Currently our evangelistic ministry is to make outreaches every week at Rapoldipark in Innsbruck, where our aim is to share the Gospel with _the lost_ [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20.).
+## The State-of-the-Ministry
+Currently our evangelistic ministry is to make outreaches with the aim of sharing the Gospel with _the lost_ [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20.).
 Our method is to engage in one-to-one conversations with people [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
 The duration of each conversation depends on the leading of the Spirit [(Luke 12:12)](https://my.bible.com/bible/59/LUK.12.12), but it usually takes between 30 minutes to 1 hour.
-We go two-by-two [(Luke 10:1)](https://my.bible.com/bible/59/LUK.10.1) and our aim is to sow seeds [(Matthew 13:3-23)](https://my.bible.com/bible/59/MAT.13.3-23.) by presenting the Gospel.
+We go two-by-two [(Luke 10:1)](https://my.bible.com/bible/59/LUK.10.1) and our aim is to sow seeds [(Matthew 13:3-23)](https://my.bible.com/bible/59/MAT.13.3-23.) by presenting the Gospel trough 6 threads.
 In one-on-one conversations with the Lost, the Gospel should always be shared in a *dialogue*, not a _monologue_ (do not preach).
 Always ask questions that lead to a dialogue, follow the example of Jesus Christ on one-on-one evangelism [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
-The _monologue_ version (a.k.a. preaching) we leave it for big crowds outreach.
+The _monologue_ version (a.k.a. preaching) are also encouraged but for big crowds outreach.
 
-The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, Jehovas' witness, and one time a jewish person.
+There are two main categories of non-believers: atheist and agnostics.
+The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, jews, and Jehovas' witness.
 
 We present the Gospel through 6 core-Gospel threads [(1)](#references) (milestones) along the conversation.
-Updated to 6 core-Gospel threads on 8 Sept 2023, added the gift of grace.
 
-**The Gospel Threads** (_extended by scg_):
+**The Gospel Threads**
+(_original by D. Platt, extended by scg_):
 1. The **Character of God**
    - Creator, Holy, Just, Merciful & Gracious [(Genesis 1:1; Leviticus 19:2; Exodus 34:6)](https://www.biblegateway.com/passage/?search=Genesis+1%3A1%3B+Leviticus+19%3A2%3B+Exodus+34%3A6&version=ESV)
 2. The **Sinfulness of Man**
@@ -62,30 +64,34 @@ Updated to 6 core-Gospel threads on 8 Sept 2023, added the gift of grace.
 3. The **Sufficiency of Christ: mercy**
    - Propitiation/atonement by His blood [(Romans 3:24)](https://www.biblegateway.com/passage/?search=Romans+3%3A24-26&version=ESV)
 4. The **Necessity of Repentance, Faith, and the New birth**
-   - Turn from your sin, by Faith Alone, receive the Holy Spirit [(John 3:7; Acts 2:38)](https://www.biblegateway.com/passage/?search=John+3%3A7%3B+Acts+2%3A38&version=ESV)
+   - Turn from your sin, by Faith Alone, receive the Holy Spirit as a seal [(John 3:7; Acts 2:38)](https://www.biblegateway.com/passage/?search=John+3%3A7%3B+Acts+2%3A38&version=ESV)
 5. The **Gift of grace**
-   - A restored relationship with God and His Kingdom (church-family) [(Ephesians 2:14-22)](https://www.biblegateway.com/passage/?search=Ephesians+2%3A14-22&version=ESV)
+   - The restored relationship with God and His Kingdom (church-family) [(Ephesians 2:14-22)](https://www.biblegateway.com/passage/?search=Ephesians+2%3A14-22&version=ESV)
 6. The **Urgency of Eternity**
    - Heaven & hell [(Revelation 20:11-15)](https://www.biblegateway.com/passage/?search=Revelation+20%3A11-15&version=ESV)
 
-At the end of the conversation, if the person accepts it:
+At the end of the conversation make a call to action and if the person accepts it:
 1. We give a mini Gospel of John [(6)](#references) and encourage them to read it. It is shown in [Figure 1](#gospels).
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
 
 __Figure 1__ - The mini Gospel of John [(6)](#references) and also a mini Gospel of Lukas.
 ![gospels](images/gospels.jpg)
 
-> 'How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, “**How beautiful are the feet of those who preach the good news!**” ' [(Romans 10:14-15)](https://my.bible.com/bible/59/ROM.10.14-15)
+> 'How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? And how are they to preach unless they are sent? As it is written, **“How beautiful are the feet of those who preach the good news!”** ' [(Romans 10:14-15)](https://my.bible.com/bible/59/ROM.10.14-15)
 
 ## The Gap
 The goal of our ministry has always been to meet people, share the Gospel, and make disciples.
 We succeed to share the core of the Gospel with the people, but the usual case of our encounters is that after planting the Gospel seed, we never see the them again (with a few exceptions).
 Our current SoM does not have a clearly outlined method to follow up with the people we talk to.
-Even though it is undeniable that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we do not have a method to follow up with the people.
+Even though it is undeniable that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we describe now a method to follow up with the people.
 Through our current method we share the Gospel with the _lost_ and can know: _'Where is each person at now? (Meet them)'_, but it fails to follow up: _'What is their next step? (Move them)'_.
 We want to close the gap that by devising a clearly outlined method to follow up with the people we encounter: give them further guideline to read by themselves and/or invite them to a follow up encounter.
 
+------------------------------------------------------------------
+# Background
+
 ## A paradigm shift: From ministries to Movements
+
 The **Shiftm2M** seminar [|2|](#references) teaches leadership and disciple making Jesus-style.
 The seminar takes the student through the life of Jesus, detecting milestones in his ministry on building a _disciple making movement_.
 Jesus Ministry can be broken down into 6 phases, each phase starts with a milestone.
@@ -157,7 +163,7 @@ __Figure 4__ - The _relationship_ between the Ramp and Arrow charts (two lenses)
 ![relation_chart](images/relation.png)
 
 ------------------------------------------------------------------
-# Project description
+# Method
 
 - **Aim**:
 We want to close [the gap](#the-gap) in our current SoM by designing a clearly outlined method to follow up with _lost_, and accompany them to take the next step in their path with the Lord, in the arrow chart to become at the least a _connected lost_.
@@ -263,14 +269,10 @@ Alef sessions would be finished in 5 weeks.
    * 1 session per week.
    * 1 hour per session.
 
-- **Core team**:
-   * Charles Effiong
-   * Stefanie Castillo
-
 - **Location**:
 We intend this meeting to be informal, therefore we will meet at:
-   * Rapoldipark (if warm enough)
-   * Sill park lounge (if too cold)
+   * Park (if warm enough)
+   * Lounge (if too cold)
    * or wherever the Lord leads us to
 
 - **Bible translation**:
@@ -293,7 +295,7 @@ We have to tolerate the opinion of the _lost_, yet always being ready to respect
 
    * Beware of divisions among the moderators, for satan will do anything to divide the team in order to stop the reading of the Word with the _lost_. Be wise as serpents and innocent as doves,
 
->'Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. '[(1 Peter 4:12)](https://my.bible.com/bible/59/1PE.4.12)
+>'Beloved, do not be surprised at the **fiery trial when it comes upon you to test you**, as though something strange were happening to you. '[(1 Peter 4:12)](https://my.bible.com/bible/59/1PE.4.12)
 >'but in your hearts honor Christ the Lord as holy, always being **prepared to make a defense** [[Apologia (ἀπολογία)](https://www.blueletterbible.org/lexicon/g627/kjv/tr/0-1/)] to anyone who asks you for a reason for the hope that is in you; yet do it with **gentleness and respect**, ' [(1 Peter 3:15)](https://my.bible.com/bible/59/1PE.3.15)
 > ' “Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves. ' [(Matthew 10:16)](https://my.bible.com/bible/59/MAT.10.16)
 
@@ -331,9 +333,7 @@ No preparation is key of this method: **rely on the power of the Spirit**!
 > “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the **Lord of the harvest** to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
 
 ------------------------------------------------------------------
-# Project management
-
-## Milestones
+## Project management
 
 __Table 2__ - Milestones of the street bible discovery project
 
