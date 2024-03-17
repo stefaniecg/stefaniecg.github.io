@@ -137,14 +137,18 @@ _Note_: Stage 3 was re-named, the new birth, calling 6 (C6), and Stage 5 were ad
 
 ## The task
 
-The task is to connect and win the _lost_ to evangelize, build the _believer_ to edify, train the _disciple_ by equipping him/her, and send the _disciple-maker_ to make more disciples.
+The task is to:
+   - connect and win the _lost_ by evangelizing,
+   - build the _believer_ by edification,
+   - train the _disciple_ by equipping him/her,
+   - and send the _disciple-maker_ to make more disciples.
 
-|                                                                |                 | person               | to                             | (focus) so that he/she...                                                                             |
-| -------------------------------------------------------------- | --------------- | -------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| **Evangelism**                                                 | Connect and win | the _lost_           | evangelize                     | understands the good news of the Gospel [(εὐαγγέλιον)](https://biblehub.com/greek/2098.htm) .         |
-| **Ekklésia** [(ἐκκλησία)](https://biblehub.com/greek/1577.htm) | Build           | the _believer_       | edify (growth)                 | knows [(γινώσκω)](https://biblehub.com/greek/1097.htm) Him.                                           |
-| **Discipleship**                                               | Train           | the _disciple_       | equip (disciple)               | gets _practical_ training for the work of ministry [(διακονία)](https://biblehub.com/greek/1248.htm). |
-| **Mission**                                                    | Send            | the _disciple-maker_ | multiply (make more disciples) | works for the expansion of the Kingdom [(βασιλεία)](https://biblehub.com/greek/932.htm) of God.       |
+|                                                                |                 | person               | by                                | (focus) so that he/she...                                                                             |
+| -------------------------------------------------------------- | --------------- | -------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Evangelism**                                                 | Connect and win | the _lost_           | evangelizing (fish)               | understands the good news of the Gospel [(εὐαγγέλιον)](https://biblehub.com/greek/2098.htm) .         |
+| **Ekklésia** [(ἐκκλησία)](https://biblehub.com/greek/1577.htm) | Build           | the _believer_       | edifying (growth)                 | knows [(γινώσκω)](https://biblehub.com/greek/1097.htm) Him.                                           |
+| **Discipleship**                                               | Train           | the _disciple_       | equipping (discipling)            | gets _practical_ training for the work of ministry [(διακονία)](https://biblehub.com/greek/1248.htm). |
+| **Mission**                                                    | Send            | the _disciple-maker_ | multiplying (make more disciples) | works for the expansion of the Kingdom [(βασιλεία)](https://biblehub.com/greek/932.htm) of God.       |
 
 > “The time is fulfilled, and the **kingdom of God** is at hand; **repent** and **believe** in the **gospel**.” ' [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15)
 
