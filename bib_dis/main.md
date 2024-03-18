@@ -38,10 +38,15 @@ The Street Bible-Discovery project
 > All Scripture quotations are taken from the ESV Bible (The Holy Bible, English Standard Version) [|5|](#references), unless stated otherwise.  
 Corresponding author: [stefaniecg@icloud.com](mailto:stefaniecg@icloud.com)
 
+This document presents the `The Street Bible-Discovery project`, a tool to reach _the lost_ with the Gospel of Jesus Christ and it is organized as follows.
+Section [Introduction](#introduction) presents the topic, rationale/gap, and aim of this work.
+Section [Methods](#methods) presents the methodology of our approach.
+Section [The Street Bible Discovery](#the-street-bible-discovery) presents the tool.
+
 ------------------------------------------------------------------
 # Introduction
 
-## The State-of-the-Ministry
+## Our Ministry
 Currently our evangelistic ministry is to make outreaches with the aim of sharing the Gospel with _the lost_ [(Matthew 28:18-20)](https://my.bible.com/bible/59/MAT.28.18-20.).
 Our method is to engage in one-to-one conversations with people [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
 The duration of each conversation depends on the leading of the Spirit [(Luke 12:12)](https://my.bible.com/bible/59/LUK.12.12), but it usually takes between 30 minutes to 1 hour.
@@ -86,6 +91,13 @@ Our current SoM does not have a clearly outlined method to follow up with the pe
 Even though it is undeniable that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we describe now a method to follow up with the people.
 Through our current method we share the Gospel with the _lost_ and can know: _'Where is each person at now? (Meet them)'_, but it fails to follow up: _'What is their next step? (Move them)'_.
 We want to close the gap that by devising a clearly outlined method to follow up with the people we encounter: give them further guideline to read by themselves and/or invite them to a follow up encounter.
+
+- **Aim**:
+We want to close [the gap](#the-gap) in our current SoM by designing a clearly outlined method to follow up with _lost_, and accompany them to take the next step in their path with the Lord, in the arrow chart to become at the least a _connected lost_.
+The calling is: **'Come and see'**.
+We want to invite the lost to come see, and get to know our Lord, by inviting them to read The Gospel of John with us.
+First invite them to 5 initial sessions, that if the Spirit wills, could be extended to other extra 7 sessions, in total 12 sessions.
+Our hope and prayer is that (at least) a few [(Matthew 7:13-14)](https://my.bible.com/bible/59/MAT.7.13-14) become first believers, then disciples, and finally disciple-makers who can start the process with someone else and multiply.
 
 ------------------------------------------------------------------
 # Background
@@ -167,14 +179,7 @@ __Figure 4__ - The _relationship_ between the Ramp and Arrow charts (two lenses)
 ![relation_chart](images/relation.png)
 
 ------------------------------------------------------------------
-# Method
-
-- **Aim**:
-We want to close [the gap](#the-gap) in our current SoM by designing a clearly outlined method to follow up with _lost_, and accompany them to take the next step in their path with the Lord, in the arrow chart to become at the least a _connected lost_.
-The calling is: **'Come and see'**.
-We want to invite the lost to come see, and get to know our Lord, by inviting them to read The Gospel of John with us.
-First invite them to 5 initial sessions, that if the Spirit wills, could be extended to other extra 7 sessions, in total 12 sessions.
-Our hope and prayer is that (at least) a few [(Matthew 7:13-14)](https://my.bible.com/bible/59/MAT.7.13-14) become first believers, then disciples, and finally disciple-makers who can start the process with someone else and multiply.
+# Methods
 
 - **Project characterization**:
 The _street bible-discovery_ is a tool to discover the Bible with unbelievers in the street.
@@ -336,7 +341,7 @@ No preparation is key of this method: **rely on the power of the Spirit**!
 
 > “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the **Lord of the harvest** to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
 
-------------------------------------------------------------------
+-------
 ## Project management
 
 __Table 2__ - Milestones of the street bible discovery project
