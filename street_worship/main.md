@@ -6,8 +6,8 @@ Kick-off date: 2022
 
 The Street Worship Project
 ===========================
-> by The disciple who loves Jesus, the Christ
-> 17 Dec 2024, Innsbruck, Austria
+> by The disciple who loves Jesus, the Christ  
+17 Dec 2024, Innsbruck, Austria
 
 ---
 Corresponding author: [stefaniecg@icloud.com](mailto:stefaniecg@icloud.com)

@@ -6,7 +6,7 @@ Kick-off date: 7 Oct 2022
 
 The Hebrew Bible-Discovery project
 ====================================
-> by The disciple who loves Jesus, the Christ
+> by The disciple who loves Jesus, the Christ  
 16 May 2023, Innsbruck, Austria
 
 ------------------------------------------------------------------

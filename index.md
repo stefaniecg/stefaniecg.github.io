@@ -1,7 +1,7 @@
 # Welcome to my GitHub Pages
 
-> by [The disciple who loves Jesus, the Christ](mailto:stefaniecg@icloud.com)
-> 2022, Innsbruck, AT
+> by [The disciple who loves Jesus, the Christ](mailto:stefaniecg@icloud.com)  
+2022, Innsbruck, AT
 
 ## List of projects
 
