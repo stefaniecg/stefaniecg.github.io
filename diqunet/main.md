@@ -11,4 +11,6 @@ The DiQuNET architecture for the control of Quantum Processors
 
 This is a test
 
-![Video](./diqunet.mp4)
+<video width="320" height="240" controls loop="" muted = "" autoplay="">
+   <source src="https://github.com/stefaniecg/stefaniecg.github.io/raw/refs/heads/main/diqunet/diqunet.mp4">
+</video>
