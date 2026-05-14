@@ -466,7 +466,6 @@ __Table 3__ - Summary of the street bible discovery project
 
 ------------------------------------------------------------------
 # References
-
 [1] Platt, David, "Gospel Threads," Radical Inc, 2017. [|Available online|](https://radical.net/book/gospel-threads-2/)
 [2] Shiftm2M Seminar. Campus für Christus. Saalfelden, Austria. August 2022. [|Available online|](https://www.campusaustria.at/bereiche/shift/)
 [3] Roennfeldt, Peter. “The movement strategy of Jesus in the Early Church,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eArticle-The_Movement_Strategy_of_Jesus_in_the_Early_Church.pdf)
