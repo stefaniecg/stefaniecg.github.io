@@ -2,7 +2,7 @@
 Project name: Street Bible-Discovery
 Author: The disciple who loves Jesus
 Kick-off date: 7 Oct 2022
-Last update: 17 Mar 2024
+Last update: 14 May 2026
 ---
 
 The Street Bible-Discovery project
@@ -12,7 +12,30 @@ The Street Bible-Discovery project
 
 ------------------------------------------------------------------
 **TABLE OF CONTENT**:
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Introduction](#introduction)
+	- [Our Ministry](#our-ministry)
+	- [The Gap](#the-gap)
+- [Background](#background)
+	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
+	- [The task](#the-task)
+- [Methods](#methods)
+	- [Project management](#project-management)
+- [The Street Bible Discovery](#the-street-bible-discovery)
+	- [א - Alef discovery](#-alef-discovery)
+	- [ב - Bet discovery (WIP)](#-bet-discovery-wip)
+	- [ג - Gimel discovery (WIP)](#-gimel-discovery-wip)
+	- [ד‎ - Dalet discovery (WIP)](#-dalet-discovery-wip)
+	- [ה‎ - He discovery (WIP)](#-he-discovery-wip)
+	- [ו - Waw discovery (WIP)](#-waw-discovery-wip)
+- [Others](#others)
+	- [Acronyms](#acronyms)
+	- [Footnotes](#footnotes)
+	- [Useful material](#useful-material)
+- [References](#references)
+
+<!-- /TOC -->
 
 > All Scripture quotations are taken from the ESV Bible (The Holy Bible, English Standard Version) [|5|](#references), unless stated otherwise.
 Corresponding author: [stefaniecg@icloud.com](mailto:stefaniecg@icloud.com)
@@ -425,13 +448,25 @@ __Table 3__ - Summary of the street bible discovery project
 * **The calling**: C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 
 ------------------------------------------------------------------
-# Acronyms
+# Others
+
+## Acronyms
 - SoM: State of the Ministry
 - sBD: Street Bible Discovery
 - WIP: Work in progress
 
+## Footnotes
+[^1]: This figure has been enhanced (new concepts) from the original SHIFTm2M diagram [(3)](#references).
+
+## Useful material
+
+![books of bible](./images/books_bible.jpg)
+![old testament story 1](./images/ot_1.png)
+![old testament story 2](./images/ot_2.png)
+
 ------------------------------------------------------------------
 # References
+
 [1] Platt, David, "Gospel Threads," Radical Inc, 2017. [|Available online|](https://radical.net/book/gospel-threads-2/)
 [2] Shiftm2M Seminar. Campus für Christus. Saalfelden, Austria. August 2022. [|Available online|](https://www.campusaustria.at/bereiche/shift/)
 [3] Roennfeldt, Peter. “The movement strategy of Jesus in the Early Church,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eArticle-The_Movement_Strategy_of_Jesus_in_the_Early_Church.pdf)
@@ -441,14 +476,3 @@ __Table 3__ - Summary of the street bible discovery project
 [7] Johannes-Evangelium. Schlachter 2000 Übersetzung. Christliche Literatur-Verbreitung e.V., 33649 Bielefeld [|Available online|](https://clv.de/Schlachter-2000-Bibel-Johannes-Evangelium/256420)
 [8] My friends: Bible Discovery. MyFriends Ministry, Campus für Christus Schweiz, CH-8005 Zürich [|Available online|](https://myfriends.life/biblediscovery/)
 [9] Platt, David, "PRAY and FAST", 6 January 2019. [|Available online|](https://radical.net/podcasts/radical-podcast/pray-and-fast/)
-
-------------------------------------------------------------------
-# Footnotes
-[^1]: This figure has been enhanced (new concepts) from the original SHIFTm2M diagram [(3)](#references).
-
-------------------------------------------------------------------
-# Useful material
-
-![books of bible](./images/books_bible.jpg)
-![old testament story 1](./images/ot_1.png)
-![old testament story 2](./images/ot_2.png)
