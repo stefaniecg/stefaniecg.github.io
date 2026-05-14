@@ -7,35 +7,14 @@ Last update: 17 Mar 2024
 
 The Street Bible-Discovery project
 ====================================
-> by The disciple who loves Jesus  
+> by The disciple who loves Jesus
 7 October 2022, Innsbruck, Austria
 
 ------------------------------------------------------------------
 **TABLE OF CONTENT**:
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Introduction](#introduction)
-	- [The State-of-the-Ministry](#the-state-of-the-ministry)
-	- [The Gap](#the-gap)
-- [Background](#background)
-	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
-	- [The task](#the-task)
-- [Method](#method)
-	- [Project management](#project-management)
-- [The Street Bible Discovery](#the-street-bible-discovery)
-	- [א - Alef discovery](#-alef-discovery)
-	- [ב - Bet discovery (WIP)](#-bet-discovery-wip)
-	- [ג - Gimel discovery (WIP)](#-gimel-discovery-wip)
-	- [ד‎ - Dalet discovery (WIP)](#-dalet-discovery-wip)
-	- [ה‎ - He discovery (WIP)](#-he-discovery-wip)
-	- [ו - Waw discovery (WIP)](#-waw-discovery-wip)
-- [Acronyms](#acronyms)
-- [References](#references)
-- [Footnotes](#footnotes)
 
-<!-- /TOC -->
-
-> All Scripture quotations are taken from the ESV Bible (The Holy Bible, English Standard Version) [|5|](#references), unless stated otherwise.  
+> All Scripture quotations are taken from the ESV Bible (The Holy Bible, English Standard Version) [|5|](#references), unless stated otherwise.
 Corresponding author: [stefaniecg@icloud.com](mailto:stefaniecg@icloud.com)
 
 This document presents the `The Street Bible-Discovery project`, a tool to reach _the lost_ with the Gospel of Jesus Christ and it is organized as follows.
@@ -131,11 +110,11 @@ The two charts previously discussed are related through the diagram shown in [Fi
 **Jesus's callings and people stages while moving through the disciple-maker path**: [(Figure 3)](#arrow_chart)
 > 'For the Son of Man came to seek and to save the lost.” ' [(Luke 19:10)](https://my.bible.com/bible/59/LUK.19.10)
 
-- _Stage 0_: The lost  
-- **C1** - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)  
-- _Stage 1_: The connected Lost  
-- **C2** - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)  
-- **New birth** [(John 3:7)](https://my.bible.com/bible/59/JHN.3.7.ESV)  
+- _Stage 0_: The lost
+- **C1** - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)
+- _Stage 1_: The connected Lost
+- **C2** - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)
+- **New birth** [(John 3:7)](https://my.bible.com/bible/59/JHN.3.7.ESV)
 - **C3** - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)
 - _Stage 2_: The believer (the consumer)
 - **C4** - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)
@@ -212,10 +191,10 @@ We target mostly young people because of the language and the ease of communicat
 But if the Spirit leads to older people there will be no problem.
 
 - **Method**:
-   1. Continue with our '[A priori](#a-priori)' current method of one-to-one conversations.  
-   2. At the end of the conversation give the _Gospel of John_.  
-   3. Invite them to think about what we spoke and invite them to consider meeting us for 5 _Alef bible discovery_ sessions. They will take the invitation, which includes the contact information to reach us via email.  
-   4. We would meet the people and read the _Gospel of John_ according to the Alef discovery structure.  
+   1. Continue with our '[A priori](#a-priori)' current method of one-to-one conversations.
+   2. At the end of the conversation give the _Gospel of John_.
+   3. Invite them to think about what we spoke and invite them to consider meeting us for 5 _Alef bible discovery_ sessions. They will take the invitation, which includes the contact information to reach us via email.
+   4. We would meet the people and read the _Gospel of John_ according to the Alef discovery structure.
    5. Do the 5 _Alef bible discovery_ sessions.
    6. At the end, invite for next 7 _Bet bible discovery_ sessions.
 The prayer is that people repent and become believers at any time. Then we stop and they become part of the family, be baptized and come to our regular bible study bi-weekly meetings.
@@ -225,9 +204,8 @@ The structure is a slightly modified version of the original bible discovery [|8
 The structure has 5 segments, each should last around 10 minutes, to make a total of ~50 minutes for the whole session.
    0. **Inaugural prayer**
       * Ask for guidance of the Spirit of God
-      * Only one person prays, usually one of the moderators.
-      * Keep it very short, maximum 20 seconds.
-      * Non believers are not ready to endure long prayers.
+      * Only one person prays.
+      * Keep it short. Non believers are not ready to endure long prayers.
    1. **Exchange & Retrospective** - [Austauschen + Ruckblick]
       * What did you experience with God this week and what are you thankful for?
       * Where do you need God's help?
@@ -238,10 +216,9 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
       * => MAKE NOTES TO PRAY AT LAST
    2. **Scripture** - [Lesen]
       * We all take turns to read the bible verses out laud for the group.
-      * With closed Bibles, one after the other, we all retell the story of the text in our own words.
    3. **Discovery** - [Entdecken]
       * Did you notice anything special in the text?
-      * What do you like and what bothers you?
+      * What do you like and what do you dislike/find weird?
       * What can you learn about God and people from this text?
       * => ANSWER THE SESSION'S QUESTION
    4. **Application** - [Anwenden]
@@ -250,7 +227,7 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
       * What will you do with what you have learned before the next meeting?
       * Tell God in your own words what moved you.
    5. **Prayer** - [Gebet]
-      * PRAY acronym by David Platt [(9)](#references)  
+      * PRAY acronym by David Platt [(9)](#references)
          - P - Praise - Worship God for who He is and what He has done.
          - R - Repent - Confess your sin to God and acknowledge your need for Jesus.
          - A - Ask - Intercession and petition for specific needs in your life and others’ lives.
@@ -264,14 +241,14 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
 | id  | segment                  | aim                                                                                                                                                            |
 | --- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | -   | Greeting                 | A short-focused **prayer**: ask for the **Spirit understanding**.                                                                                              |
-| p1  | Exchange & Retrospective | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                       |
-| p2  | Scripture                | **Read together** the Word of God, each **read alone**, then **tell the story** with closed bibles.                                                            |
-| p3  | Discovery                | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? |
-| p4  | Application              | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
+| D1  | Exchange & Retrospective | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                       |
+| D2  | Scripture                | **Read together** the Word of God.                                                                                                                             |
+| D3  | Discovery                | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? |
+| D4  | Application              | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
 | -   | Farewell                 | A short-focused **prayer**: ask for **Spirit wisdom** & pray for each other (Sangeet-style).                                                                   |
 
-__Figure 5__ - The Bible Discovery meeting structure  
-![structure](images/bible_discovery.jpeg)  
+__Figure 5__ - The Bible Discovery meeting structure
+![structure](images/bible_discovery.jpg)
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
@@ -339,7 +316,7 @@ No preparation is key of this method: **rely on the power of the Spirit**!
    * Every _saint_ is on his/her own walk trough the disciple-maker process shown in the arrow chart [(Figure 3)](#arrow_chart): where are you?
    * _Saints_ can encourage/help _one another_ [[Allelon (ἀλλήλων)](https://www.blueletterbible.org/lexicon/g240/kjv/tr/0-1/)] to know God more and grow in their path of becoming a disciple-maker.
 
-> “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the **Lord of the harvest** to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)  
+> “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the **Lord of the harvest** to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)
 
 -------
 ## Project management
@@ -371,14 +348,14 @@ Yet we encourage others who have fellow saints who are in other stages of the di
 
 __Table 3__ - Summary of the street bible discovery project
 
-| id   | discovery            | calling                                                                                           | focus topic              | aim stage [(Figure 3)](#arrow_chart) |
-| ---- | -------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------ |
-| sBD1 | א - Alef discovery   | C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)                     | The Gospel               | Connected lost                       |
-| sBD2 | ב - Bet discovery    | C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)                 | Turn and look at Him     | Believer                             |
-| sBD3 | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             |
-| sBD4 | ד‎ - Dalet discovery  | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)          | Discipleship Jesus-style | Disciple                             |
-| sBD5 | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       |
-| sBD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           |
+| id  | discovery            | calling                                                                                           | focus topic              | aim stage [(Figure 3)](#arrow_chart) |
+| --- | -------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------ |
+| BD1 | א - Alef discovery   | C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)                     | The Gospel               | Connected lost                       |
+| BD2 | ב - Bet discovery    | C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)                 | Turn and look at Him     | Believer                             |
+| BD3 | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             |
+| BD4 | ד‎ - Dalet discovery | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)           | Discipleship Jesus-style | Disciple                             |
+| BD5 | ה‎ - He discovery    | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)                | Mission in your own town | Disciple-maker                       |
+| BD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           |
 
 ## א - Alef discovery
 
@@ -397,14 +374,14 @@ __Table 3__ - Summary of the street bible discovery project
 | A5  | Alef 5  | The gift of grace                                     | How to restore a relationship with God and his family? | -                     |
 | A6  | Alef 6  | The urgency of eternity                               | Does everyone go to heaven?                            | John 3:18-21          |
 
-* The invitation to the Alef discovery  
+* The invitation to the Alef discovery
 ![alef_invitation](images/alef_invitation.png)
 ![alef_john](images/alef_john.png)
 
 
 ## ב - Bet discovery (WIP)
 
-* **The calling**: C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)  
+* **The calling**: C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)
 * **Focus topic**: Turn and look at Him: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
 * **Expected learning outcome**: Know God + self-reading of bible for participants.
 * **Moderator**: We all rotate the leading of the session with pre-prepared questions, including participants.
@@ -455,16 +432,23 @@ __Table 3__ - Summary of the street bible discovery project
 
 ------------------------------------------------------------------
 # References
-[1] Platt, David, "Gospel Threads," Radical Inc, 2017. [|Available online|](https://radical.net/book/gospel-threads-2/)  
-[2] Shiftm2M Seminar. Campus für Christus. Saalfelden, Austria. August 2022. [|Available online|](https://www.campusaustria.at/bereiche/shift/)  
-[3] Roennfeldt, Peter. “The movement strategy of Jesus in the Early Church,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eArticle-The_Movement_Strategy_of_Jesus_in_the_Early_Church.pdf)  
-[4] Hodgson, Bill. “Movements in 3D,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eBook-Movements_in_3D.pdf)  
-[5] English Standard Version. Crossway. [|Available online|](https://www.esv.org)   
-[6] Johannes-Evangelium. Elberfelder Übersetzung. Verbreitung der Heiligen Schrift e.V., D-35713 Eschenburg [|Available online|](https://www.vdhs.de/index.php?shop.article.884&tax=11357)  
-[7] Johannes-Evangelium. Schlachter 2000 Übersetzung. Christliche Literatur-Verbreitung e.V., 33649 Bielefeld [|Available online|](https://clv.de/Schlachter-2000-Bibel-Johannes-Evangelium/256420)  
-[8] My friends: Bible Discovery. MyFriends Ministry, Campus für Christus Schweiz, CH-8005 Zürich [|Available online|](https://myfriends.life/biblediscovery/)  
+[1] Platt, David, "Gospel Threads," Radical Inc, 2017. [|Available online|](https://radical.net/book/gospel-threads-2/)
+[2] Shiftm2M Seminar. Campus für Christus. Saalfelden, Austria. August 2022. [|Available online|](https://www.campusaustria.at/bereiche/shift/)
+[3] Roennfeldt, Peter. “The movement strategy of Jesus in the Early Church,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eArticle-The_Movement_Strategy_of_Jesus_in_the_Early_Church.pdf)
+[4] Hodgson, Bill. “Movements in 3D,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eBook-Movements_in_3D.pdf)
+[5] English Standard Version. Crossway. [|Available online|](https://www.esv.org)
+[6] Johannes-Evangelium. Elberfelder Übersetzung. Verbreitung der Heiligen Schrift e.V., D-35713 Eschenburg [|Available online|](https://www.vdhs.de/index.php?shop.article.884&tax=11357)
+[7] Johannes-Evangelium. Schlachter 2000 Übersetzung. Christliche Literatur-Verbreitung e.V., 33649 Bielefeld [|Available online|](https://clv.de/Schlachter-2000-Bibel-Johannes-Evangelium/256420)
+[8] My friends: Bible Discovery. MyFriends Ministry, Campus für Christus Schweiz, CH-8005 Zürich [|Available online|](https://myfriends.life/biblediscovery/)
 [9] Platt, David, "PRAY and FAST", 6 January 2019. [|Available online|](https://radical.net/podcasts/radical-podcast/pray-and-fast/)
 
 ------------------------------------------------------------------
 # Footnotes
 [^1]: This figure has been enhanced (new concepts) from the original SHIFTm2M diagram [(3)](#references).
+
+------------------------------------------------------------------
+# Useful material
+
+![books of bible](./images/books_bible.jpg)
+![old testament story 1](./images/ot_1.png)
+![old testament story 2](./images/ot_2.png)
