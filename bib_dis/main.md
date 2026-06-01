@@ -55,10 +55,10 @@ The duration of each conversation depends on the leading of the Spirit [(Luke 12
 We go two-by-two [(Luke 10:1)](https://my.bible.com/bible/59/LUK.10.1) and our aim is to sow seeds [(Matthew 13:3-23)](https://my.bible.com/bible/59/MAT.13.3-23.) by presenting the Gospel trough 6 threads.
 In one-on-one conversations with the Lost, the Gospel should always be shared in a *dialogue*, not a _monologue_ (do not preach).
 Always ask questions that lead to a dialogue, follow the example of Jesus Christ on one-on-one evangelism [(John 4:7-30)](https://my.bible.com/bible/59/JHN.4.7-30).
-The _monologue_ version (a.k.a. preaching) are also encouraged but for big crowds outreach.
+The _monologue_ version (a.k.a. preaching) are also encouraged but for big crowd outreach.
 
 There are two main categories of non-believers: atheist and agnostics.
-The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by muslims, catholics, jews, and Jehovas' witness.
+The audience (_the type of lost_) we encounter are in great majority atheist (deny the existence and belief in God), then agnostics (do not know if there is a God, but do not deny nor assert it), followed by Muslims, Catholics, Mormons, and Jehovas' witness.
 
 We present the Gospel through 6 core-Gospel threads [(1)](#references) (milestones) along the conversation.
 
@@ -77,7 +77,7 @@ We present the Gospel through 6 core-Gospel threads [(1)](#references) (mileston
 6. The **Urgency of Eternity**
    - Heaven & hell [(Revelation 20:11-15)](https://www.biblegateway.com/passage/?search=Revelation+20%3A11-15&version=ESV)
 
-At the end of the conversation make a call to action and if the person accepts it:
+At the end of the conversation make a call to action, also if the person accepts it:
 1. We give a mini Gospel of John [(6)](#references) and encourage them to read it. It is shown in [Figure 1](#gospels).
 2. We pray for the person [(1 Timothy 2:1)](https://my.bible.com/bible/59/1TI.2.1).
 
@@ -89,24 +89,24 @@ __Figure 1__ - The mini Gospel of John [(6)](#references) and also a mini Gospel
 ## The Gap
 The goal of our ministry has always been to meet people, share the Gospel, and make disciples.
 We succeed to share the core of the Gospel with the people, but the usual case of our encounters is that after planting the Gospel seed, we never see the them again (with a few exceptions).
-Our current SoM does not have a clearly outlined method to follow up with the people we talk to.
-Even though it is undeniable that God will grow that seed if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we describe now a method to follow up with the people.
+Currently, our ministry does not have a clearly outlined method to follow up with the people we talk to.
+Even though it is undeniable that God will grow that seed, if it is His will [(1 Corinthians 3:9)](https://my.bible.com/bible/59/1CO.3.9), we describe now a method to follow up with the people.
 Through our current method we share the Gospel with the _lost_ and can know: _'Where is each person at now? (Meet them)'_, but it fails to follow up: _'What is their next step? (Move them)'_.
 We want to close the gap that by devising a clearly outlined method to follow up with the people we encounter: give them further guideline to read by themselves and/or invite them to a follow up encounter.
 
-- **Aim**:
-We want to close [the gap](#the-gap) in our current SoM by designing a clearly outlined method to follow up with _lost_, and accompany them to take the next step in their path with the Lord, in the arrow chart to become at the least a _connected lost_.
+- **Objectives**:
+We want to close [the gap](#the-gap) in our current ministry by designing a clearly outlined method to follow up with _lost_, and accompany them to take the next step in their path with the Lord, that means in the arrow chart to become at the least a _connected lost_.
 The calling is: **'Come and see'**.
-We want to invite the lost to come see, and get to know our Lord, by inviting them to read The Gospel of John with us.
-First invite them to 5 initial sessions, that if the Spirit wills, could be extended to other extra 7 sessions, in total 12 sessions.
-Our hope and prayer is that (at least) a few [(Matthew 7:13-14)](https://my.bible.com/bible/59/MAT.7.13-14) become first believers, then disciples, and finally disciple-makers who can start the process with someone else and multiply.
+We want to invite the lost to come see, and get to know The Lord, by inviting them to read The Gospel of John with us.
+First invite them to 5 initial sessions that, if the Spirit wills, could be extended to other extra 7 sessions, in total 12 sessions.
+Our hope and prayer is that (at least) a few [(Matthew 7:13-14)](https://my.bible.com/bible/59/MAT.7.13-14) come and see to become first believers, then disciples, and finally disciple-makers who can start the process with someone else and thus “be fruitful and multiply” [(Genesis 1:28)](https://www.bible.com/bible/59/GEN.1.28.ESV).
 
 ------------------------------------------------------------------
 # Background
 
 ## A paradigm shift: From ministries to Movements
 
-The **Shiftm2M** seminar [|2|](#references) teaches leadership and disciple making Jesus-style.
+The **Shiftm2M** seminar [|2|](#references) teaches Jesus-style leadership and disciple making.
 The seminar takes the student through the life of Jesus, detecting milestones in his ministry on building a _disciple making movement_.
 Jesus Ministry can be broken down into 6 phases, each phase starts with a milestone.
 The ministry building process is illustrated in [Figure 2](#ramp_chart).
@@ -186,7 +186,7 @@ __Figure 4__ - The _relationship_ between the Ramp and Arrow charts (two lenses)
 - **Project characterization**:
 The _street bible-discovery_ is a tool to discover the Bible with unbelievers in the street.
 We want them to feel comfortable and that no one is forcing ideas on them.
-Therefore our approach of reading the bible will be to discover it together.
+Therefore our approach of reading the bible will be to __discover__ it together.
 There will be _no authoritative teaching_ of the Word of the Lord, rather it will be a joint/shared _discovery_ of scripture.
 It is done in a group setting, minimum group size is two.
 This tool intends to take people from the stage of unbelief _'lost'_ to (at the least) the next stage of _'connected Lost'_ (in the arrow_chart [Figure 3](#arrow_chart)).
@@ -198,8 +198,8 @@ Each session will have a topic and a central question we want to answer with the
 The _bible discovery_ is an already existing tool used to read the bible with non believers [|8|](#references).
 We will use a slightly modified version of its structure and read specific verses in _John's Gospel_ to cover a topic.
 As we target to use this for people mainly reached on the streets we call it _street bible discovery_.
-The reason to use John's gospel is because we already give this material, so there is no need to acquire any different material.
-Even though, we prepare specific verses and a structure for the meeting, we will rely on the guidance of the Spirit for its execution.
+The reason to use John's gospel is because we already give this material, so there is no need to acquire new material.
+Even though for each session we outline specific verses and a structure for the meeting, we will rely on the guidance of the Spirit for its execution.
 Therefore, the structure, topic, and question are only a guide that can be adapted.
 
 - **Expected Outcome**:
@@ -216,20 +216,20 @@ But if the Spirit leads to older people there will be no problem.
 - **Method**:
    1. Continue with our '[A priori](#a-priori)' current method of one-to-one conversations.
    2. At the end of the conversation give the _Gospel of John_.
-   3. Invite them to think about what we spoke and invite them to consider meeting us for 5 _Alef bible discovery_ sessions. They will take the invitation, which includes the contact information to reach us via email.
+   3. Invite them to think about what we spoke and invite them to consider meeting us for 5 _Alef bible discovery_ sessions. They give them the invitation, which includes the contact information to reach us via email.
    4. We would meet the people and read the _Gospel of John_ according to the Alef discovery structure.
    5. Do the 5 _Alef bible discovery_ sessions.
    6. At the end, invite for next 7 _Bet bible discovery_ sessions.
-The prayer is that people repent and become believers at any time. Then we stop and they become part of the family, be baptized and come to our regular bible study bi-weekly meetings.
+The prayer is that people repent and become believers at any time, thus becoming part of the family, be baptized, and continue in their growth of knowing God and His kingdom.
 
 - **Structure of meetings**:
 The structure is a slightly modified version of the original bible discovery [|8|](#references).
 The structure has 5 segments, each should last around 10 minutes, to make a total of ~50 minutes for the whole session.
-   0. **Inaugural prayer**
+   1. **Pray**
       * Ask for guidance of the Spirit of God
-      * Only one person prays.
+      * One person prays.
       * Keep it short. Non believers are not ready to endure long prayers.
-   1. **Exchange & Retrospective** - [Austauschen + Ruckblick]
+   2. **Exchange & Retrospective**
       * What did you experience with God this week and what are you thankful for?
       * Where do you need God's help?
       * How can you be helped practically?
@@ -237,38 +237,38 @@ The structure has 5 segments, each should last around 10 minutes, to make a tota
       * Have you shared what you've discovered in these sessions with someone? What are your next steps with them?
       * Who have you told about an experience of God? Have you prayed with someone?
       * => MAKE NOTES TO PRAY AT LAST
-   2. **Scripture** - [Lesen]
+   3. **Scripture**
       * We all take turns to read the bible verses out laud for the group.
-   3. **Discovery** - [Entdecken]
+      * Read the scripture passages in blocks and immediately discuss them. Afterwards, continue to the next scripture block.
+   4. **Discovery**
       * Did you notice anything special in the text?
-      * What do you like and what do you dislike/find weird?
+      * What do you like and what do you dislike/find-weird?
       * What can you learn about God and people from this text?
       * => ANSWER THE SESSION'S QUESTION
-   4. **Application** - [Anwenden]
+   5. **Apply**
       * How does the text change the way you think about God? And about how you live?
       * How is my interaction with other people shaped by the text?
       * What will you do with what you have learned before the next meeting?
       * Tell God in your own words what moved you.
-   5. **Prayer** - [Gebet]
+   6. **Pray**
       * PRAY acronym by David Platt [(9)](#references)
          - P - Praise - Worship God for who He is and what He has done.
          - R - Repent - Confess your sin to God and acknowledge your need for Jesus.
          - A - Ask - Intercession and petition for specific needs in your life and others’ lives.
          - Y - Yield - Surrender your life to following Jesus wherever and however He leads you.
       * Pray for each other.
-      * Pray for the people who we shared what we learned last week.
-      * All can pray, keep it short, maximum 2 minutes in total.
+      * All can pray, keep it short.
 
-      __Table 1__ - Structure of the street bible discovery meetings
+__Table 1__ - Structure of the street bible discovery meetings, list of steps.
 
 | id  | segment                  | aim                                                                                                                                                            |
 | --- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | -   | Greeting                 | A short-focused **prayer**: ask for the **Spirit understanding**.                                                                                              |
-| D1  | Exchange & Retrospective | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                       |
-| D2  | Scripture                | **Read together** the Word of God.                                                                                                                             |
-| D3  | Discovery                | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? |
-| D4  | Application              | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
-| -   | Farewell                 | A short-focused **prayer**: ask for **Spirit wisdom** & pray for each other (Sangeet-style).                                                                   |
+| S1  | Exchange & Retrospective | What have you **experienced** with God this week, **implemented**/**shared** from last time's discovery?                                                       |
+| S2  | Scripture                | **Read together** the Word of God.                                                                                                                             |
+| S3  | Discovery                | **Focus**: answer the **session question**. (a) What did you **noticed**, **like/not-like** in the text? (b) What can you **learn** about _God & His kingdom_? |
+| S4  | Application              | Does it change: how you **think** about God? how you **live** your life? see this **world**?                                                                   |
+| -   | Farewell                 | A short-focused **prayer**: ask for **Spirit wisdom** & pray for each other.                                                                   |
 
 __Figure 5__ - The Bible Discovery meeting structure
 ![structure](images/bible_discovery.jpg)
@@ -282,6 +282,7 @@ Alef sessions would be finished in 5 weeks.
 We intend this meeting to be informal, therefore we will meet at:
    * Park (if warm enough)
    * Lounge (if too cold)
+   * Online
    * or wherever the Lord leads us to
 
 - **Bible translation**:
@@ -295,7 +296,7 @@ As needed by the person we will adapt:
 
 - **Dynamic of the Group**:
 The _saints_ are referred to as moderators in this sessions.
-We as moderators need to remember that we are reading the bible with _non-believers_.
+Moderators need to remember that we are reading the bible with _non-believers_.
 This is a different setting as the normal _church_ setting, for this is NOT a _bible study_ but rather a _bible discovery_.
 In these discovery-sessions all participants are invited to share their opinion about scripture without retaliation, but rather with tolerance, humbleness, and kindness we are all called to share our interpretation of scripture.
 Active involvement of all participants is needed, included the moderators as just participants.
@@ -309,20 +310,20 @@ We have to tolerate the opinion of the _lost_, yet always being ready to respect
 > ' “Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves. ' [(Matthew 10:16)](https://my.bible.com/bible/59/MAT.10.16)
 
 - **Group size**:
-All the street bible-discovery concept needs is: 1 saint with The Holy Spirit + 1 lost + 1 mini-Gospel of John + 1 invitation.
+All the street bible-discovery concept needs is: 1 saint with The Holy Spirit + 1 lost + 1 Gospel of John + 1 invitation.
 Actually the invitation is not needed in the long run, but it provides a starter-framework for the saint to follow in order to initially share the main milestones of the Gospel with the lost.
 Usually, saints do not know where to start or what topics to discuss with an un-believer, therefore the [א - Alef discovery](#-alef-discovery) is only a topic and scripture guide that goes through the core milestones of the Gospel.
-Specifically in our team, at the least one member of the core team should be present in every session, but better is both as the **unity of the body-of-Christ** is a great testimony to non-beliers, as ordained by Jesus Christ himself [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23) and proven by our past experiences.
-We, the Saints, are to _'become perfectly one, so that the world may know that'_ Jesus was sent from God & that God loves the world.
+At the least one member of the core team should be present in every session, but better is both as the **unity of the body-of-Christ** is a great testimony to non-beliers, as ordained by Jesus Christ himself [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23) and proven by our past experiences.
+We, the Saints, are to _'become perfectly one, so that the world may know that'_ Jesus was sent from God & that God loves the world [(John 17:23)](https://www.bible.com/bible/59/JHN.17.23.ESV).
 The number of participants (_lost_) should be at least 1 and maximum 3, so that the group stays manageable.
 
 > 'The glory that you have given me I have given to them, that they may be one even as we are one, I in them and you in me, that **they may become perfectly one, so that the world may know that you sent me and loved them** even as you loved me. ' [(John 17:22-23)](https://my.bible.com/bible/59/JHN.17.22-23)
 
 - **Preparation**:
-There is no need of preparing anything before meeting for the street bible discovery.
-This is no teaching of scripture, rather it is a sharing of thoughts while discovering the Bible together live & on-sight.
+There is no need to prepare anything before the meeting for street bible discovery.
 The saint has the power of the Holy Spirit of God in Him/Her to be a witness of Christ and proclaim His Gospel [(Acts 1:8)](https://my.bible.com/bible/59/ACT.1.8).
 No preparation is key of this method: **rely on the power of the Spirit**!
+This is no teaching of scripture, rather it is a sharing of thoughts while discovering the Bible together live & on-site.
 
 - **Project scope**:
    * Our team will implement this project on:
@@ -376,8 +377,8 @@ __Table 3__ - Summary of the street bible discovery project
 | BD1 | א - Alef discovery   | C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)                     | The Gospel               | Connected lost                       |
 | BD2 | ב - Bet discovery    | C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)                 | Turn and look at Him     | Believer                             |
 | BD3 | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             |
-| BD4 | ד‎ - Dalet discovery | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)           | Discipleship Jesus-style | Disciple                             |
-| BD5 | ה‎ - He discovery    | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)                | Mission in your own town | Disciple-maker                       |
+| BD4 | ד‎ - Dalet discovery  | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)          | Discipleship Jesus-style | Disciple                             |
+| BD5 | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       |
 | BD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           |
 
 ## א - Alef discovery
