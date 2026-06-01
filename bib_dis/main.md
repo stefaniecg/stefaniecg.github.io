@@ -30,7 +30,7 @@ The Street Bible-Discovery project
 	- [ד‎ - Dalet discovery (WIP)](#-dalet-discovery-wip)
 	- [ה‎ - He discovery (WIP)](#-he-discovery-wip)
 	- [ו - Waw discovery (WIP)](#-waw-discovery-wip)
-- [Others](#others)
+- [Epilog](#epilog)
 	- [Acronyms](#acronyms)
 	- [Footnotes](#footnotes)
 	- [Useful material](#useful-material)
@@ -99,7 +99,7 @@ We want to close the gap that by devising a clearly outlined method to follow up
 We want to close [the gap](#the-gap) in our current ministry by designing a clearly outlined method to follow up with _lost_, and accompany them to take the next step in their path with the Lord, that means in the arrow chart to become at the least a _connected lost_.
 The calling is: **'Come and see'**.
 We want to invite the lost to come see, and get to know The Lord, by inviting them to read The Gospel of John with us.
-First invite them to 5 initial sessions that, if the Spirit wills, could be extended to other extra 7 sessions, in total 12 sessions.
+First invite them to 5 initial sessions that, if the Spirit wills, could be extended to other extra 5 sessions, in total 6 sessions, each corresponding to a calling of Jesus.
 Our hope and prayer is that (at least) a few [(Matthew 7:13-14)](https://my.bible.com/bible/59/MAT.7.13-14) come and see to become first believers, then disciples, and finally disciple-makers who can start the process with someone else and thus “be fruitful and multiply” [(Genesis 1:28)](https://www.bible.com/bible/59/GEN.1.28.ESV).
 
 ------------------------------------------------------------------
@@ -376,12 +376,12 @@ __Table 3__ - Summary of the street bible discovery project
 
 | id  | discovery            | calling                                                                                           | focus topic              | aim stage [(Figure 3)](#arrow_chart) |
 | --- | -------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------ |
-| BD1 | א - Alef discovery   | C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)                     | The Gospel               | Connected lost                       |
-| BD2 | ב - Bet discovery    | C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)                 | Turn and look at Him     | Believer                             |
-| BD3 | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             |
-| BD4 | ד‎ - Dalet discovery  | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)          | Discipleship Jesus-style | Disciple                             |
-| BD5 | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       |
-| BD6 | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           |
+| M1  | א - Alef discovery   | C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)                     | The Gospel               | Connected lost                       |
+| M2  | ב - Bet discovery    | C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)                 | Turn and look at Him     | Believer                             |
+| M3  | ג - Gimel discovery  | C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)                              | Abide in Him             | Believer                             |
+| M4  | ד‎ - Dalet discovery  | C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)          | Discipleship Jesus-style | Disciple                             |
+| M5  | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       |
+| M6  | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           |
 
 ## א - Alef discovery
 
@@ -403,7 +403,6 @@ __Table 3__ - Summary of the street bible discovery project
 * The invitation to the Alef discovery
 ![alef_invitation](images/alef_invitation.png)
 ![alef_john](images/alef_john.png)
-
 
 ## ב - Bet discovery (WIP)
 
@@ -451,7 +450,7 @@ __Table 3__ - Summary of the street bible discovery project
 * **The calling**: C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 
 ------------------------------------------------------------------
-# Others
+# Epilog
 
 ## Acronyms
 - SoM: State of the Ministry
