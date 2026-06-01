@@ -25,11 +25,11 @@ The Street Bible-Discovery project
 	- [Project management](#project-management)
 - [The Street Bible Discovery](#the-street-bible-discovery)
 	- [א - Alef discovery](#-alef-discovery)
-	- [ב - Bet discovery (WIP)](#-bet-discovery-wip)
-	- [ג - Gimel discovery (WIP)](#-gimel-discovery-wip)
-	- [ד‎ - Dalet discovery (WIP)](#-dalet-discovery-wip)
-	- [ה‎ - He discovery (WIP)](#-he-discovery-wip)
-	- [ו - Waw discovery (WIP)](#-waw-discovery-wip)
+	- [ב - Bet discovery](#-bet-discovery)
+	- [ג - Gimel discovery](#-gimel-discovery)
+	- [ד‎ - Dalet discovery](#-dalet-discovery)
+	- [ה‎ - He discovery](#-he-discovery)
+	- [ו - Waw discovery](#-waw-discovery)
 - [Epilog](#epilog)
 	- [Acronyms](#acronyms)
 	- [Footnotes](#footnotes)
@@ -404,7 +404,7 @@ __Table 3__ - Summary of the street bible discovery project
 ![alef_invitation](images/alef_invitation.png)
 ![alef_john](images/alef_john.png)
 
-## ב - Bet discovery (WIP)
+## ב - Bet discovery
 
 * **The calling**: C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)
 * **Focus topic**: Turn and look at Him: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
@@ -421,7 +421,7 @@ __Table 3__ - Summary of the street bible discovery project
 | B6  | Bet 6   | The character of God | Why Jesus is the Way, the Truth, and the life? | John 14:1-13  |
 | B7  | Bet 7   | The character of God | Why Jesus is the Vine?                         | John 15:1-17  |
 
-## ג - Gimel discovery (WIP)
+## ג - Gimel discovery
 
 * **The calling**: C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)
 * **Focus topic**: Based on the elementary doctrines of [Hebrews 6:1-2 ](https://my.bible.com/bible/59/HEB.6.1-2).
@@ -437,15 +437,15 @@ __Table 3__ - Summary of the street bible discovery project
 | G5  | Gimel 5 | Elementary doctrines | What is resurrection of the death? |            |
 | G6  | Gimel 6 | Elementary doctrines | What is eternal judgement?         |            |
 
-## ד‎ - Dalet discovery (WIP)
+## ד‎ - Dalet discovery
 
 * **The calling**: C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)
 
-## ה‎ - He discovery (WIP)
+## ה‎ - He discovery
 
 * **The calling**: C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)
 
-## ו - Waw discovery (WIP)
+## ו - Waw discovery
 
 * **The calling**: C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 
