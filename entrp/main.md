@@ -5,9 +5,9 @@ Kick-off date: 1 June 2026
 ---
 
 Entrepreneurship
-====================================
-> by Stefanie Castillo,
-> 1 June 2026, Innsbruck, AT
+================
+> by Stefanie Castillo
+  1 June 2026, Innsbruck, AT
 
 ## EWOR
 

@@ -7,8 +7,8 @@ Last update: 14 May 2026
 
 The Street Bible-Discovery project
 ====================================
-> by The disciple who loves Jesus
-7 October 2022, Innsbruck, Austria
+> by The disciple who loves Jesus, the Christ
+  7 October 2022, Innsbruck, Austria
 
 ------------------------------------------------------------------
 **TABLE OF CONTENT**:
