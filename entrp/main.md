@@ -12,11 +12,12 @@ Entrepreneurship
 ---
 ## EWOR
 
+## Intro
+
 <video width="640" height="360" controls loop="" muted = "" autoplay="">
    <source src="https://github.com/stefaniecg/stefaniecg.github.io/raw/refs/heads/main/entrp/ewor.mp4">
 </video>
 
-[Alef_discovery.pdf](./../bib_dis/src/alef.pdf)<br>
-[Pitch deck](./ewor.pdf)
+### Pitch deck
 
 <embed src="./ewor.pdf" type="application/pdf" width="100%" height="600" />
