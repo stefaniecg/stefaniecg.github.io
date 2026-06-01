@@ -16,5 +16,5 @@ Entrepreneurship
    <source src="https://github.com/stefaniecg/stefaniecg.github.io/raw/refs/heads/main/entrp/ewor.mp4">
 </video>
 
-[alef_discovery.pdf](./../bib_dis/src/alef.pdf)
-[pitch deck](./260601_deck_preseed_ewor_spdf)
+[Alef_discovery.pdf](./../bib_dis/src/alef.pdf)<br>
+[Pitch deck](./ewor.pdf)
