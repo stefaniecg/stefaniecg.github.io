@@ -14,10 +14,10 @@ Entrepreneurship
 
 ## Intro
 
-<video width="640" height="360" controls loop="" muted = "" autoplay="">
+<video width="640" height="360" controls muted = "">
    <source src="https://github.com/stefaniecg/stefaniecg.github.io/raw/refs/heads/main/entrp/ewor.mp4">
 </video>
 
-### Pitch deck
+<!-- ### Pitch deck -->
 
-<embed src="./ewor.pdf" type="application/pdf" width="100%" height="600" />
+<!-- <embed src="./ewor.pdf" type="application/pdf" width="100%" height="600" /> -->
