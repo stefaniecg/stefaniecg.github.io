@@ -21,6 +21,7 @@ The Street Bible-Discovery project
 	- [A paradigm shift: From ministries to Movements](#a-paradigm-shift-from-ministries-to-movements)
 	- [The task](#the-task)
 - [Methods](#methods)
+	- [Description](#description)
 	- [Project management](#project-management)
 - [The Street Bible Discovery](#the-street-bible-discovery)
 	- [א - Alef discovery](#-alef-discovery)
@@ -183,6 +184,8 @@ __Figure 4__ - The _relationship_ between the Ramp and Arrow charts (two lenses)
 ------------------------------------------------------------------
 # Methods
 
+## Description
+
 - **Project characterization**:
 The _street bible-discovery_ is a tool to discover the Bible with unbelievers in the street.
 We want them to feel comfortable and that no one is forcing ideas on them.
@@ -271,7 +274,7 @@ __Table 1__ - Structure of the street bible discovery meetings, list of steps.
 | -   | Farewell                 | A short-focused **prayer**: ask for **Spirit wisdom** & pray for each other.                                                                   |
 
 __Figure 5__ - The Bible Discovery meeting structure
-![structure](images/bible_discovery.jpg)
+<img src="images/bible_discovery.jpg" width=70% height=80%>
 
 - **Duration**:
 Alef sessions would be finished in 5 weeks.
@@ -342,7 +345,6 @@ This is no teaching of scripture, rather it is a sharing of thoughts while disco
 
 > “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the **Lord of the harvest** to send out laborers into his harvest.” [(Matthew 9:37-38)](https://my.bible.com/bible/59/MAT.9.37-38)
 
--------
 ## Project management
 
 __Table 2__ - Milestones of the street bible discovery project
