@@ -7,7 +7,7 @@ Last update: 14 May 2026
 
 The Street Bible-Discovery project
 ====================================
-> by The disciple who loves Jesus, the Christ
+> by The disciple who loves Jesus, the Christ<br>
 7 October 2022, Innsbruck, Austria
 
 ------------------------------------------------------------------
@@ -468,12 +468,12 @@ __Table 3__ - Summary of the street bible discovery project
 
 ------------------------------------------------------------------
 # References
-[1] Platt, David, "Gospel Threads," Radical Inc, 2017. [|Available online|](https://radical.net/book/gospel-threads-2/)
-[2] Shiftm2M Seminar. Campus für Christus. Saalfelden, Austria. August 2022. [|Available online|](https://www.campusaustria.at/bereiche/shift/)
-[3] Roennfeldt, Peter. “The movement strategy of Jesus in the Early Church,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eArticle-The_Movement_Strategy_of_Jesus_in_the_Early_Church.pdf)
-[4] Hodgson, Bill. “Movements in 3D,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eBook-Movements_in_3D.pdf)
-[5] English Standard Version. Crossway. [|Available online|](https://www.esv.org)
-[6] Johannes-Evangelium. Elberfelder Übersetzung. Verbreitung der Heiligen Schrift e.V., D-35713 Eschenburg [|Available online|](https://www.vdhs.de/index.php?shop.article.884&tax=11357)
-[7] Johannes-Evangelium. Schlachter 2000 Übersetzung. Christliche Literatur-Verbreitung e.V., 33649 Bielefeld [|Available online|](https://clv.de/Schlachter-2000-Bibel-Johannes-Evangelium/256420)
-[8] My friends: Bible Discovery. MyFriends Ministry, Campus für Christus Schweiz, CH-8005 Zürich [|Available online|](https://myfriends.life/biblediscovery/)
-[9] Platt, David, "PRAY and FAST", 6 January 2019. [|Available online|](https://radical.net/podcasts/radical-podcast/pray-and-fast/)
+[1] Platt, David, "Gospel Threads," Radical Inc, 2017. [|Available online|](https://radical.net/book/gospel-threads-2/)<br>
+[2] Shiftm2M Seminar. Campus für Christus. Saalfelden, Austria. August 2022. [|Available online|](https://www.campusaustria.at/bereiche/shift/)<br>
+[3] Roennfeldt, Peter. “The movement strategy of Jesus in the Early Church,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eArticle-The_Movement_Strategy_of_Jesus_in_the_Early_Church.pdf)<br>
+[4] Hodgson, Bill. “Movements in 3D,” PowerToChange, Australia, 2016. [|Available online|](https://www.movementbuilders.com.au/wp-content/uploads/SHIFTm2M_eBook-Movements_in_3D.pdf)<br>
+[5] English Standard Version. Crossway. [|Available online|](https://www.esv.org)<br>
+[6] Johannes-Evangelium. Elberfelder Übersetzung. Verbreitung der Heiligen Schrift e.V., D-35713 Eschenburg [|Available online|](https://www.vdhs.de/index.php?shop.article.884&tax=11357)<br>
+[7] Johannes-Evangelium. Schlachter 2000 Übersetzung. Christliche Literatur-Verbreitung e.V., 33649 Bielefeld [|Available online|](https://clv.de/Schlachter-2000-Bibel-Johannes-Evangelium/256420)<br>
+[8] My friends: Bible Discovery. MyFriends Ministry, Campus für Christus Schweiz, CH-8005 Zürich [|Available online|](https://myfriends.life/biblediscovery/)<br>
+[9] Platt, David, "PRAY and FAST", 6 January 2019. [|Available online|](https://radical.net/podcasts/radical-podcast/pray-and-fast/)<br>
