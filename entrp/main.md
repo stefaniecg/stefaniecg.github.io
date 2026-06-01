@@ -19,11 +19,4 @@ Entrepreneurship
 [Alef_discovery.pdf](./../bib_dis/src/alef.pdf)<br>
 [Pitch deck](./ewor.pdf)
 
-<embed src="./ewor.pdf" width="500" height="375"
- type="application/pdf">
-
- <iframe src="./ewor.pdf" width="100%" height="600" type="application/pdf"></iframe>
-
- <embed src="./ewor.pdf" type="application/pdf" width="100%" height="600" />
-
-this is the end
+<embed src="./ewor.pdf" type="application/pdf" width="100%" height="600" />
