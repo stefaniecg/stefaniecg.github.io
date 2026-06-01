@@ -428,14 +428,14 @@ __Table 3__ - Summary of the street bible discovery project
 * **Expected learning outcome**: Stand firm on the elementary doctrines of Christianity: follow Christ.
 * **Moderator**: We all rotate the leading of the session with pre-prepared questions, including participants.
 
-| id  | session | topic                | question                           | scriptures |
-| --- | ------- | -------------------- | ---------------------------------- | ---------- |
-| G1  | Gimel 1 | Elementary doctrines | What is repentance?                |            |
-| G2  | Gimel 2 | Elementary doctrines | What is faith?                     |            |
-| G3  | Gimel 3 | Elementary doctrines | What is baptism?                   |            |
-| G4  | Gimel 4 | Elementary doctrines | What is lying of hands?            |            |
-| G5  | Gimel 5 | Elementary doctrines | What is resurrection of the death? |            |
-| G6  | Gimel 6 | Elementary doctrines | What is eternal judgement?         |            |
+| id  | session | topic                 | question                           | scriptures |
+| --- | ------- | --------------------- | ---------------------------------- | ---------- |
+| G1  | Gimel 1 | The sinfulness of man | What is repentance?                |            |
+| G2  | Gimel 2 | The sinfulness of man | What is faith?                     |            |
+| G3  | Gimel 3 | The sinfulness of man | What is baptism?                   |            |
+| G4  | Gimel 4 | The sinfulness of man | What is lying of hands?            |            |
+| G5  | Gimel 5 | The sinfulness of man | What is resurrection of the death? |            |
+| G6  | Gimel 6 | The sinfulness of man | What is eternal judgement?         |            |
 
 ## ד‎ - Dalet discovery
 
