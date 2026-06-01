@@ -1,6 +1,6 @@
 # Welcome to my GitHub Pages
 
-> by [Stefanie Castillo](mailto:stefaniecg@icloud.com)
+> by [Stefanie Castillo](mailto:stefaniecg@icloud.com)<br>
   June 2026, Innsbruck, AT
 
 ## List of projects
