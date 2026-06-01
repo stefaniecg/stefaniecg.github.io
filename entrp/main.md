@@ -6,7 +6,7 @@ Kick-off date: 1 June 2026
 
 Entrepreneurship
 ================
-> by Stefanie Castillo
+> by Stefanie Castillo<br>
   1 June 2026, Innsbruck, AT
 
 ---
