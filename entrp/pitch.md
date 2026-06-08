@@ -31,7 +31,7 @@ __What? = The Mission__<br>
 We build the DiQuNET architecture which is the control and operation backbone of Quantum Processors.
 
 __How? = UVP__
-The DiQuNET is a creative destruction because it defines methods and devices (patent) that challenge and re-define the current status quo (von Neumann) physical control implementation of DV DT quantum processors.
+The DiQuNET is a creative destruction because its features (methods and devices) that challenge and re-define the current status quo (von Neumann) physical control implementation of DV DT quantum processors.
 
 ## References
 
