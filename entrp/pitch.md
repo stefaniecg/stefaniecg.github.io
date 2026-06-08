@@ -41,6 +41,10 @@ The DiQuNET is a creative destruction because its features (methods and devices)
 ---
 ## Acronyms
 
-* [DiQuNET]: Distributed Quantum control NETwork
-* [DV]: Discrete Variable
-* [DT]: Discrete Time
+* DiQuNET: Distributed Quantum control NETwork
+* DV: Discrete Variable
+* DT: Discrete Time
+
+*[DiQuNET]: Distributed Quantum control NETwork
+*[DV]: Discrete Variable
+*[DT]: Discrete Time
