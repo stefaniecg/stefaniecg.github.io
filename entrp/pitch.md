@@ -22,6 +22,14 @@ DiQuNET Pitch
 
 <!-- <embed src="./ewor.pdf" type="application/pdf" width="100%" height="600" /> -->
 
+<br>
+
+__The vision__<br>
+DiQuNET exists to unleash the value that Quantum Computing promises for the benefit of humanity.
+
+__The mission__<br>
+We build the DiQuNET architecture which is the control and operation backbone of Quantum Processors.
+
 ## References
 
 [1] S. Castillo, “The DiQuNET Architecture for the Control of Quantum Processors: The Case Study of Trapped Ions,” IEEE Access, vol. 14, pp. 42245–42269, 2026, doi: [10.1109/ACCESS.2026.3665594](https://doi.org/10.1109/ACCESS.2026.3665594).<br>
