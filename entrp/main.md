@@ -1,17 +1,16 @@
 ---
-Project name: EWOR application
+Project name: The founder
 Author: Stefanie Castillo
 Kick-off date: 1 June 2026
 ---
 
-EWOR application
-================
+The DiQuNET founder
+===================
 > by [Stefanie Castillo](mailto:stefaniecg@diqunet.com)<br>
-  1 June 2026, Innsbruck, AT
+  1 June 2026, Innsbruck, AT<br>
   [https://www.linkedin.com/in/stefaniecg](https://www.linkedin.com/in/stefaniecg/)
 
 ---
-## EWOR
 
 ## Intro
 
