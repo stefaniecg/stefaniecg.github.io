@@ -38,9 +38,11 @@ The DiQuNET is a creative destruction because its features (methods and devices)
 [1] S. Castillo, “The DiQuNET Architecture for the Control of Quantum Processors: The Case Study of Trapped Ions,” IEEE Access, vol. 14, pp. 42245–42269, 2026, doi: [10.1109/ACCESS.2026.3665594](https://doi.org/10.1109/ACCESS.2026.3665594).<br>
 [2] S. Castillo, “The DiQuNET Ion-Transport IC of a Trapped-Ion Quantum Processor: A PoC,” IEEE Access, vol. 14, pp. 35527–35551, 2026, doi: [10.1109/ACCESS.2026.3665566](https://doi.org/10.1109/ACCESS.2026.3665566).<br>
 
-## Acronyms
+---
 
 *[DiQuNET]: Distributed Quantum control NETwork
 *[DV]: Discrete Variable
 *[DT]: Discrete Time
 *[HTML]: Hyper Text Markup Language
+
+<abbr title="Distributed Quantum control NETwork">DiQuNET</abbr>
