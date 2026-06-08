@@ -14,7 +14,7 @@ DiQuNET Pitch
 
 ## 1.4 minute pitch
 
-<video width="640" height="360">
+<video width="640" height="360" controls>
    <source src="https://github.com/stefaniecg/stefaniecg.github.io/raw/refs/heads/main/entrp/2min.mp4">
 </video>
 

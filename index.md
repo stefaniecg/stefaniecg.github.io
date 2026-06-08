@@ -12,4 +12,4 @@
 | p3  | The DiQuNET architecture           | 4 Sept 2025   | [description](/diqunet/main.html)                    |                                                                                                                   |
 | p4  | Maya's song book                   | 28 Feb 2026   |                                                      | [maya.pdf](/maya/maya.pdf)                                                                                        |
 | p5  | EWOR application                   | 1 June 2026   | [description](/entrp/main.html)                      |                                                                                                                   |
-| p6  | Pitch                              | 8 June 2026   | [description](/entrp/pitch.html)                     |                                                                                                                   |
+| p6  | DiQuNET Pitch                      | 8 June 2026   | [description](/entrp/pitch.html)                     |                                                                                                                   |

@@ -15,7 +15,7 @@ EWOR application
 
 ## Intro
 
-<video width="640" height="360" controls muted = "">
+<video width="640" height="360" controls>
    <source src="https://github.com/stefaniecg/stefaniecg.github.io/raw/refs/heads/main/entrp/ewor.mp4">
 </video>
 
