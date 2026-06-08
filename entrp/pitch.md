@@ -42,10 +42,13 @@ The DiQuNET is a creative destruction because its features (methods and devices)
 
 *[DiQuNET]: Distributed Quantum control NETwork
 [DiQuNET]: Distributed Quantum control NETwork
+todo
 *[DV]: Discrete Variable
 [DV]: Discrete Variable
+mas
 *[DT]: Discrete Time
 [DT]: Discrete Time
+no se
 *[HTML]: Hyper Text Markup Language
 
 <abbr title="Distributed Quantum control NETwork">DiQuNET</abbr>
