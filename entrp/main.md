@@ -1,13 +1,14 @@
 ---
-Project name: Entrepreneurship
+Project name: EWOR application
 Author: Stefanie Castillo
 Kick-off date: 1 June 2026
 ---
 
-Entrepreneurship
+EWOR application
 ================
-> by Stefanie Castillo<br>
+> by [Stefanie Castillo](mailto:stefaniecg@diqunet.com)<br>
   1 June 2026, Innsbruck, AT
+  [https://www.linkedin.com/in/stefaniecg](https://www.linkedin.com/in/stefaniecg/)
 
 ---
 ## EWOR

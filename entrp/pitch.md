@@ -4,20 +4,25 @@ Author: Stefanie Castillo
 Kick-off date: 8 June 2026
 ---
 
-Pitch
+DiQuNET Pitch
 ================
-> by Stefanie Castillo<br>
+> by [Stefanie Castillo](mailto:stefaniecg@diqunet.com)<br>
   8 June 2026, Innsbruck, AT
+  [https://www.linkedin.com/in/stefaniecg](https://www.linkedin.com/in/stefaniecg/)
 
 ---
-## DiQuNET Pitch
 
 ## 1.4 minute pitch
 
-<video width="640" height="360" controls muted = "">
+<video width="640" height="360">
    <source src="https://github.com/stefaniecg/stefaniecg.github.io/raw/refs/heads/main/entrp/2min.mp4">
 </video>
 
 <!-- ### Pitch deck -->
 
 <!-- <embed src="./ewor.pdf" type="application/pdf" width="100%" height="600" /> -->
+
+## References
+
+[1] S. Castillo, “The DiQuNET Architecture for the Control of Quantum Processors: The Case Study of Trapped Ions,” IEEE Access, vol. 14, pp. 42245–42269, 2026, doi: [10.1109/ACCESS.2026.3665594](https://doi.org/10.1109/ACCESS.2026.3665594).<br>
+[2] S. Castillo, “The DiQuNET Ion-Transport IC of a Trapped-Ion Quantum Processor: A PoC,” IEEE Access, vol. 14, pp. 35527–35551, 2026, doi: [10.1109/ACCESS.2026.3665566](https://doi.org/10.1109/ACCESS.2026.3665566).<br>
