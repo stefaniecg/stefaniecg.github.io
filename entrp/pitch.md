@@ -27,11 +27,11 @@ DiQuNET Pitch
 __Why? - The Vision__<br>
 DiQuNET exists to be the control backbone that unleashes the value that Quantum Computing promises for the benefit of humanity.
 
-__What? - The Mission__<br>
-We build the DiQuNET architecture which is the control and operation backbone of Quantum Processors.
-
 __How? - UVP__<br>
 The DiQuNET is a creative destruction because its features (methods and devices) challenge and re-define the current status quo (von Neumann) physical control implementation of DV DT quantum processors.
+
+__What? - The Mission__<br>
+We build the DiQuNET architecture which is the control and operation backbone of Quantum Processors.
 
 ## References
 
