@@ -428,7 +428,7 @@ __Table 3__ - Summary of the street bible discovery project
 * **Expected learning outcome**: Stand firm on the elementary doctrines of Christianity: follow Christ.
 * **Moderator**: We all rotate the leading of the session with pre-prepared questions, including participants.
 
-| id  | session | topic                 | question                           | scripture | 
+| id  | session | topic                 | question                           | scripture |
 | --- | ------- | --------------------- | ---------------------------------- | --------- |
 | G1  | Gimel 1 | The sinfulness of man | What is repentance?                |           |
 | G2  | Gimel 2 | The sinfulness of man | What is faith?                     |           |
