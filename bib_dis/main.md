@@ -391,14 +391,14 @@ __Table 3__ - Summary of the street bible discovery project
 * **Moderator**:  Charles & Stefanie
 * _Update_: a 6th session was added as Alef 5 (8 Sep 2023) to talk about the gift of mercy and grace.
 
-| id  | session | topic                                                 | question                                               | scriptures            |
-| --- | ------- | ----------------------------------------------------- | ------------------------------------------------------ | --------------------- |
-| A1  | Alef 1  | The character of God                                  | Who is the Christ?                                     | John 1:1-18           |
-| A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?                                        | John 4:1-29           |
-| A3  | Alef 3  | The sufficiency of Christ --mercy--                   | Why did Jesus die?                                     | John 1:29-36; 3:14-17 |
-| A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God?                          | John 3:1-8           |
-| A5  | Alef 5  | The gift of grace                                     | How to restore a relationship with God and his family? | John 21:1:19          |
-| A6  | Alef 6  | The urgency of eternity                               | Does everyone go to heaven?                            | John 3:16-21          |
+| id  | session | topic                                                 | question                                  | scripture             |
+| --- | ------- | ----------------------------------------------------- | ----------------------------------------- | --------------------- |
+| A1  | Alef 1  | The character of God                                  | Who is the Christ?                        | John 1:1-18           |
+| A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?                           | John 4:1-29           |
+| A3  | Alef 3  | The sufficiency of Christ --mercy--                   | Why did Jesus die?                        | John 1:29-36; 3:14-17 |
+| A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God?             | John 3:1-8            |
+| A5  | Alef 5  | The gift of grace                                     | How to restore our relationship with God? | John 21:1:19          |
+| A6  | Alef 6  | The urgency of eternity                               | Does everyone go to heaven?               | John 3:16-21          |
 
 * The invitation to the Alef discovery
 ![alef_invitation](images/alef_invitation.png)
@@ -411,7 +411,7 @@ __Table 3__ - Summary of the street bible discovery project
 * **Expected learning outcome**: Know God + self-reading of bible for participants.
 * **Moderator**: We all rotate the leading of the session with pre-prepared questions, including participants.
 
-| id  | session | topic                | question                                       | scriptures    |
+| id  | session | topic                | question                                       | scripture     |
 | --- | ------- | -------------------- | ---------------------------------------------- | ------------- |
 | B1  | Bet 1   | The character of God | Why Jesus is the Bread of life?                | John 6:1-69   |
 | B2  | Bet 2   | The character of God | Why Jesus is the Light of the world?           | John 8:2-36   |
@@ -428,14 +428,14 @@ __Table 3__ - Summary of the street bible discovery project
 * **Expected learning outcome**: Stand firm on the elementary doctrines of Christianity: follow Christ.
 * **Moderator**: We all rotate the leading of the session with pre-prepared questions, including participants.
 
-| id  | session | topic                 | question                           | scriptures |
-| --- | ------- | --------------------- | ---------------------------------- | ---------- |
-| G1  | Gimel 1 | The sinfulness of man | What is repentance?                |            |
-| G2  | Gimel 2 | The sinfulness of man | What is faith?                     |            |
-| G3  | Gimel 3 | The sinfulness of man | What is baptism?                   |            |
-| G4  | Gimel 4 | The sinfulness of man | What is lying of hands?            |            |
-| G5  | Gimel 5 | The sinfulness of man | What is resurrection of the death? |            |
-| G6  | Gimel 6 | The sinfulness of man | What is eternal judgement?         |            |
+| id  | session | topic                 | question                           | scripture | 
+| --- | ------- | --------------------- | ---------------------------------- | --------- |
+| G1  | Gimel 1 | The sinfulness of man | What is repentance?                |           |
+| G2  | Gimel 2 | The sinfulness of man | What is faith?                     |           |
+| G3  | Gimel 3 | The sinfulness of man | What is baptism?                   |           |
+| G4  | Gimel 4 | The sinfulness of man | What is lying of hands?            |           |
+| G5  | Gimel 5 | The sinfulness of man | What is resurrection of the death? |           |
+| G6  | Gimel 6 | The sinfulness of man | What is eternal judgement?         |           |
 
 ## ד‎ - Dalet discovery
 
