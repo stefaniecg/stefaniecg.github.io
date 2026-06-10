@@ -33,6 +33,22 @@ The DiQuNET is a creative destruction because its features (methods and devices)
 __What? - The Mission__<br>
 We build the DiQuNET architecture which is the control and operation backbone of Quantum Processors.
 
+<div id="contentBox" style="margin:0px auto; width:70%">
+
+ <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
+    <div id="column1" style="float:left; margin:0; width:33%;">
+     CONTENT
+    </div>
+
+    <div id="column2" style="float:left; margin:0;width:33%;">
+     CONTENT
+    </div>
+
+    <div id="column3" style="float:left; margin:0;width:33%">
+     CONTENT
+    </div>
+</div>
+
 ## References
 
 [1] S. Castillo, “The DiQuNET Architecture for the Control of Quantum Processors: The Case Study of Trapped Ions,” IEEE Access, vol. 14, pp. 42245–42269, 2026, doi: [10.1109/ACCESS.2026.3665594](https://doi.org/10.1109/ACCESS.2026.3665594).<br>
