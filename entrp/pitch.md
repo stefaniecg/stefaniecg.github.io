@@ -24,30 +24,26 @@ DiQuNET Pitch
 
 <br>
 
-__Why? - The Vision__<br>
-DiQuNET exists to be the control backbone that unleashes the value that Quantum Computing promises for the benefit of humanity.
-
-__How? - UVP__<br>
-The DiQuNET is a creative destruction because its features (methods and devices) challenge and re-define the current status quo (von Neumann) physical control implementation of DV DT quantum processors.
-
-__What? - The Mission__<br>
-We build the DiQuNET architecture which is the control and operation backbone of Quantum Processors.
-
-<div id="contentBox" style="margin:0px auto; width:70%">
+<div id="contentBox" style="margin:0px auto; width:100%">
 
  <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
-    <div id="column1" style="float:left; margin:0; width:33%;">
-     CONTENT
+    <div id="column1" style="float:left; margin:0; width:50%;">
+    __Why? - The Vision__<br>
+    DiQuNET exists to be the control backbone that unleashes the value that Quantum Computing promises for the benefit of humanity.
+
+    __How? - UVP__<br>
+    The DiQuNET is a creative destruction because its features (methods and devices) challenge and re-define the current status quo (von Neumann) physical control implementation of DV DT quantum processors.
+
+    __What? - The Mission__<br>
+    We build the DiQuNET architecture which is the control and operation backbone of Quantum Processors.
     </div>
 
-    <div id="column2" style="float:left; margin:0;width:33%;">
-     CONTENT
-    </div>
-
-    <div id="column3" style="float:left; margin:0;width:33%">
+    <div id="column2" style="float:left; margin:0;width:50%;">
      CONTENT
     </div>
 </div>
+
+---
 
 ## References
 
