@@ -39,7 +39,7 @@ We build the DiQuNET architecture which is the control and operation backbone of
 
 [1] S. Castillo, “The DiQuNET Architecture for the Control of Quantum Processors: The Case Study of Trapped Ions,” IEEE Access, vol. 14, pp. 42245–42269, 2026, doi: [10.1109/ACCESS.2026.3665594](https://doi.org/10.1109/ACCESS.2026.3665594).<br>
 [2] S. Castillo, “The DiQuNET Ion-Transport IC of a Trapped-Ion Quantum Processor: A PoC,” IEEE Access, vol. 14, pp. 35527–35551, 2026, doi: [10.1109/ACCESS.2026.3665566](https://doi.org/10.1109/ACCESS.2026.3665566).<br>
-[3] S. Jordan, “The quantum algorithm zoo.” [Online]. Available: https://quantumalgorithmzoo.org
+[3] S. Jordan, “The quantum algorithm zoo.” [Online]. Available: [https://quantumalgorithmzoo.org](https://quantumalgorithmzoo.org)<br>
 
 ---
 ## Acronyms
