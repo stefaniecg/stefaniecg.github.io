@@ -18,6 +18,8 @@ DiQuNET Pitch
    <source src="https://github.com/stefaniecg/stefaniecg.github.io/raw/refs/heads/main/entrp/3min.mp4">
 </video>
 
+Currency correction: EUROS
+
 <!-- ### Pitch deck -->
 
 <!-- <embed src="./ewor.pdf" type="application/pdf" width="100%" height="600" /> -->
