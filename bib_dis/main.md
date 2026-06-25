@@ -73,10 +73,10 @@ We present the Gospel through 6 core-Gospel threads [(1)](#references) (mileston
    - Propitiation/atonement by His blood [(Romans 3:24)](https://www.biblegateway.com/passage/?search=Romans+3%3A24-26&version=ESV)
 4. The **Necessity of Repentance, Faith, and the New birth**
    - Turn from your sin, by Faith Alone, receive the Holy Spirit as a seal [(John 3:7; Acts 2:38)](https://www.biblegateway.com/passage/?search=John+3%3A7%3B+Acts+2%3A38&version=ESV)
-5. The **Gift of grace**
-   - The restored relationship with God and His Kingdom (church-family) [(Ephesians 2:14-22)](https://www.biblegateway.com/passage/?search=Ephesians+2%3A14-22&version=ESV)
-6. The **Urgency of Eternity**
+5. The **Urgency of Eternity**
    - Heaven & hell [(Revelation 20:11-15)](https://www.biblegateway.com/passage/?search=Revelation+20%3A11-15&version=ESV)
+6. The **Gift of grace**
+   - The restored relationship with God and His Kingdom (church-family) [(Ephesians 2:14-22)](https://www.biblegateway.com/passage/?search=Ephesians+2%3A14-22&version=ESV)
 
 At the end of the conversation make a call to action, also if the person accepts it:
 1. We give a mini Gospel of John [(6)](#references) and encourage them to read it. It is shown in [Figure 1](#gospels).
@@ -397,10 +397,10 @@ __Table 3__ - Summary of the street bible discovery project
 | A2  | Alef 2  | The sinfulness of man                                 | Are we sinners?                           | John 4:1-29           |
 | A3  | Alef 3  | The sufficiency of Christ --mercy--                   | Why did Jesus die?                        | John 1:29-36; 3:14-17 |
 | A4  | Alef 4  | The necessity of repentance, faith, and the new birth | How to become a child of God?             | John 3:1-8            |
-| A5  | Alef 5  | The gift of grace                                     | How to restore our relationship with God? | John 21:1:19          |
-| A6  | Alef 6  | The urgency of eternity                               | Does everyone go to heaven?               | John 3:16-21          |
+| A5  | Alef 5  | The urgency of eternity                               | Does everyone go to heaven?               | John 3:16-21          |
+| A6  | Alef 6  | The gift of grace                                     | How to restore our relationship with God? | John 21:1:19          |
 
-* The invitation to the Alef discovery
+  * The invitation to the Alef discovery
 ![alef_invitation](images/alef_invitation.png)
 ![alef_john](images/alef_john.png)
 
