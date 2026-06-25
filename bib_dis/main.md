@@ -349,19 +349,19 @@ This is no teaching of scripture, rather it is a sharing of thoughts while disco
 
 __Table 2__ - Milestones of the street bible discovery project
 
-| id  | milestone                    | date        | description                                                            |
-| --- | ---------------------------- | ----------- | ---------------------------------------------------------------------- |
-| M0  | project kickoff              | 7 Oct 2022  | Launch of the Project                                                  |
-| M1  | project specification        | 10 Oct 2022 | Write the project concept                                              |
-| M2  | design invitation            | 29 Oct 2022 | Design an invitation to the bible discovery and set-up a contact email |
-| M3  | peer-review                  | 6 Nov 2022  | Ask for feedback from selected peers                                   |
-| M4  | phase material production    | 7 Nov 2022  | Print invitations, order mini John's Gospel                            |
-| M5  | project launch - **phase 1** | 11 Nov 2022 | Ask for the blessing of the _Lord of the Harvest_                      |
-| M6  | phase implementation         | 1 Dec 2022  | Start the first **Alef discovery**                                     |
-| M7  | phase launch - **phase 2**   | sby         | Wait for the _Lord of the Harvest_                                     |
-| M8  | phase implementation         | sby         | Start the first **Bet discovery**                                      |
-| M9  | phase material production    | sby         | Print invitations, order mini John's Gospel                            |
-| ... | ...                          | ...         | ...                                                                    |
+| id  | milestone                    | date         | description                                                            |
+| --- | ---------------------------- | ------------ | ---------------------------------------------------------------------- |
+| M0  | project kickoff              | 7 Oct 2022   | Launch of the Project                                                  |
+| M1  | project specification        | 10 Oct 2022  | Write the project concept                                              |
+| M2  | design invitation            | 29 Oct 2022  | Design an invitation to the bible discovery and set-up a contact email |
+| M3  | peer-review                  | 6 Nov 2022   | Ask for feedback from selected peers                                   |
+| M4  | phase material production    | 7 Nov 2022   | Print invitations, order mini John's Gospel                            |
+| M5  | project launch - **phase 1** | 11 Nov 2022  | Ask for the blessing of the _Lord of the Harvest_                      |
+| M6  | phase implementation         | 1 Dec 2022   | Start the first **Alef discovery**                                     |
+| M7  | phase launch - **phase 2**   | 25 June 3036 | Design of Bet Discovery                                                | 
+| M8  | phase implementation         | sby          | Start the first **Bet discovery**                                      |
+| M9  | phase material production    | sby          | Print invitations, order mini John's Gospel                            |
+| ... | ...                          | ...          | ...                                                                    |
 
 ------------------------------------------------------------------
 # The Street Bible Discovery
