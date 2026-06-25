@@ -24,12 +24,12 @@ The Street Bible-Discovery project
 	- [Description](#description)
 	- [Project management](#project-management)
 - [The Street Bible Discovery](#the-street-bible-discovery)
-	- [א - Alef discovery](##alef-discovery)
-	- [ב - Bet discovery](##bet-discovery)
-	- [ג - Gimel discovery](##gimel-discovery)
-	- [ד‎ - Dalet discovery](##dalet-discovery)
-	- [ה‎ - He discovery](##he-discovery)
-	- [ו - Waw discovery](##waw-discovery)
+	- [Alef discovery](#alef-discovery)
+	- [Bet discovery](#bet-discovery)
+	- [Gimel discovery](#gimel-discovery)
+	- [דDalet discovery](#dalet-discovery)
+	- [He discovery](#he-discovery)
+	- [Waw discovery](#waw-discovery)
 - [Epilog](#epilog)
 	- [Acronyms](#acronyms)
 	- [Footnotes](#footnotes)
@@ -358,7 +358,7 @@ __Table 2__ - Milestones of the street bible discovery project
 | M4  | phase material production    | 7 Nov 2022   | Print invitations, order mini John's Gospel                            |
 | M5  | project launch - **phase 1** | 11 Nov 2022  | Ask for the blessing of the _Lord of the Harvest_                      |
 | M6  | phase implementation         | 1 Dec 2022   | Start the first **Alef discovery**                                     |
-| M7  | phase launch - **phase 2**   | 25 June 3036 | Design of Bet Discovery                                                | 
+| M7  | phase launch - **phase 2**   | 25 June 3036 | Design of Bet Discovery                                                |
 | M8  | phase implementation         | sby          | Start the first **Bet discovery**                                      |
 | M9  | phase material production    | sby          | Print invitations, order mini John's Gospel                            |
 | ... | ...                          | ...          | ...                                                                    |
@@ -383,7 +383,7 @@ __Table 3__ - Summary of the street bible discovery project
 | M5  | ה‎ - He discovery     | C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)               | Mission in your own town | Disciple-maker                       |
 | M6  | ו - Waw discovery    | C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.) | Mission into the nations | Missionary                           |
 
-## א - Alef discovery
+## Alef discovery
 
 * **The calling**: C1 - Come and see [(John 1:39,46)](https://my.bible.com/bible/59/JHN.1.39,46)
 * **Focus topic**: The Gospel
@@ -404,7 +404,7 @@ __Table 3__ - Summary of the street bible discovery project
 ![alef_invitation](images/alef_invitation.png)
 ![alef_john](images/alef_john.png)
 
-## ב - Bet discovery
+## Bet discovery
 
 * **The calling**: C2 - Repent and believe [(Mark 1:15)](https://my.bible.com/bible/59/MRK.1.15.ESV)
 * **Focus topic**: Turn and look at Him: Yahweh [יְהוָ֥ה], Jesus Christ [Ἰησοῦ Χριστοῦ], and the Holy Spirit [רוּחַ - πνεῦμα].
@@ -416,12 +416,12 @@ __Table 3__ - Summary of the street bible discovery project
 | B1  | Bet 1   | The character of God | Why Jesus is the Bread of life?                | John 6:1-69   |
 | B2  | Bet 2   | The character of God | Why Jesus is the Light of the world?           | John 8:2-36   |
 | B3  | Bet 3   | The character of God | Why Jesus is the Door?                         | John 9:1-10:9 |
-| B4  | Bet 4   | The character of God | Why Jesus is the Good shepherd                 | John 10:10-30 |
-| B5  | Bet 5   | The character of God | Why Jesus is the Resurrection ?                | John 11:1-46  |
-| B6  | Bet 6   | The character of God | Why Jesus is the Way, the Truth, and the life? | John 14:1-13  |
+| B4  | Bet 4   | The character of God | Why Jesus is the Good Shepherd?                | John 10:10-30 |
+| B5  | Bet 5   | The character of God | Why Jesus is the Resurrection?                 | John 11:1-46  |
+| B6  | Bet 6   | The character of God | Why Jesus is the Way, the Truth, and the Life? | John 14:1-13  |
 | B7  | Bet 7   | The character of God | Why Jesus is the Vine?                         | John 15:1-17  |
 
-## ג - Gimel discovery
+## Gimel discovery
 
 * **The calling**: C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)
 * **Focus topic**: Based on the elementary doctrines of [Hebrews 6:1-2 ](https://my.bible.com/bible/59/HEB.6.1-2).
@@ -437,15 +437,15 @@ __Table 3__ - Summary of the street bible discovery project
 | G5  | Gimel 5 | The sinfulness of man | What is resurrection of the death? |           |
 | G6  | Gimel 6 | The sinfulness of man | What is eternal judgement?         |           |
 
-## ד‎ - Dalet discovery
+## דDalet discovery
 
 * **The calling**: C4 - Follow Me and fish for men [(Matthew 4:19)](https://my.bible.com/bible/59/MAT.4.19)
 
-## ה‎ - He discovery
+## He discovery
 
 * **The calling**: C5 - Go bear much fruit [(John 15:16)](https://my.bible.com/bible/59/JHN.15.16.ESV)
 
-## ו - Waw discovery
+## Waw discovery
 
 * **The calling**: C6 - Go make disciples of all Nations [(Matthew 28:18)](https://my.bible.com/bible/59/MAT.28.18.)
 
