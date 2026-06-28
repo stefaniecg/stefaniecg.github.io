@@ -7,7 +7,7 @@ Kick-off date: 28 June 2026
 DiQuNET Pitch
 ================
 > by [Stefanie Castillo](mailto:stefaniecg@diqunet.com)<br>
-  8 June 2026, Innsbruck, AT<br>
+  28 June 2026, Innsbruck, AT<br>
   [https://www.linkedin.com/in/stefaniecg](https://www.linkedin.com/in/stefaniecg/)
 
 ---
