@@ -45,9 +45,5 @@ We build the DiQuNET architecture which is the control and operation backbone of
 ## Acronyms
 
 * DiQuNET: Distributed Quantum control NETwork
-* DV: Discrete Variable
-* DT: Discrete Time
 
 *[DiQuNET]: Distributed Quantum control NETwork
-*[DV]: Discrete Variable
-*[DT]: Discrete Time
