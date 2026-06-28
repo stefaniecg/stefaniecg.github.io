@@ -1,7 +1,7 @@
 ---
 Project name: Pitch
 Author: Stefanie Castillo
-Kick-off date: 8 June 2026
+Kick-off date: 28 June 2026
 ---
 
 DiQuNET Pitch
