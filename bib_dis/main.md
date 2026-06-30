@@ -421,6 +421,9 @@ __Table 3__ - Summary of the street bible discovery project
 | B6  | Bet 6   | The character of God | Why Jesus is the Way, the Truth, and the Life? | John 14:1-13  |
 | B7  | Bet 7   | The character of God | Why Jesus is the Vine?                         | John 15:1-17  |
 
+* The invitation to the Bet discovery
+![bet_invitation](images/bet_invitation.png)
+
 ## Gimel discovery
 
 * **The calling**: C3 - Follow Me [(John 1:43)](https://my.bible.com/bible/59/JHN.1.43)
