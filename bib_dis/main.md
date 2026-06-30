@@ -357,10 +357,9 @@ __Table 2__ - Milestones of the street bible discovery project
 | M3  | peer-review                  | 6 Nov 2022   | Ask for feedback from selected peers                                   |
 | M4  | phase material production    | 7 Nov 2022   | Print invitations, order mini John's Gospel                            |
 | M5  | project launch - **phase 1** | 11 Nov 2022  | Ask for the blessing of the _Lord of the Harvest_                      |
-| M6  | phase implementation         | 1 Dec 2022   | Start the first **Alef discovery**                                     |
-| M7  | phase launch - **phase 2**   | 25 June 3036 | Design of Bet Discovery                                                |
-| M8  | phase implementation         | sby          | Start the first **Bet discovery**                                      |
-| M9  | phase material production    | sby          | Print invitations, order mini John's Gospel                            |
+| M6  | phase 1 implementation       | 1 Dec 2022   | Start the first **Alef discovery**                                     |
+| M7  | phase launch - **phase 2**   | 25 June 2026 | Design of Bet Discovery                                                |
+| M8  | phase 2 implementation       | sby          | Start the first **Bet discovery**                                      |
 | ... | ...                          | ...          | ...                                                                    |
 
 ------------------------------------------------------------------
