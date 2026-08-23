@@ -14,3 +14,4 @@
 | p5  | The DiQuNET architecture           | 4 Sep 2025    | [description](/diqunet/main.html)                       |                                                                                                                   |
 | p6  | DiQuNET Pitch - 3 min              | 8 Jun 2026    | [description](/entrp/pitch.html)                        |                                                                                                                   |
 | p7  | DiQuNET Pitch - 1 min              | 28 Jun 2026   | [description](/entrp/pitch1.html)                       |                                                                                                                   |
+| p8  | Presentation                       | 23 Aug 2026   | [description](/presnt/mypres12.html)                                                        |                                                                                                                   |
